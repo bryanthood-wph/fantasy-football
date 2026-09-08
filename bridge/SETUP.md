@@ -12,7 +12,7 @@ private league without your login. Your cookies stay in `bridge/.env` on this ma
    git add .
    git commit -m "season 2026: documentation system"
    git branch -M main
-   git remote add origin https://github.com/<your-username>/fantasy-football.git
+   git remote add origin https://github.com/bryanthood-wph/fantasy-football.git
    git push -u origin main
    ```
    `.gitignore` already excludes `bridge/.env` and `bridge/publish.log`. Verify with `git status` that `.env` is not listed.
@@ -52,7 +52,7 @@ into Claude). Either way the PC must be on; the cloud routines fall back to the 
 Also untick "Start only if on AC power" and tick "Run task as soon as possible after a scheduled start is missed".
 
 ## 5. Tell Claude the raw URL
-Send Claude: `https://raw.githubusercontent.com/<your-username>/fantasy-football/main/state/league-state.json`.
+Send Claude: `https://raw.githubusercontent.com/bryanthood-wph/fantasy-football/main/state/league-state.json`.
 Claude writes it into `config.json` in the Google Drive log folder; every routine reads it from there.
 
 ## Rotating or revoking
