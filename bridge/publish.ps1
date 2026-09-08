@@ -30,8 +30,12 @@ if (-not $pyCmd) { "no python with required packages found (dotenv, espn_api) - 
 try {
   & $pyCmd @pyArgs bridge/espn_state.py 2>&1 | Out-File -Append -Encoding utf8 $log
   if ($LASTEXITCODE -ne 0) { throw "espn_state.py exited $LASTEXITCODE" }
-  git add state/league-state.json
-  $changed = git status --porcelain state/league-state.json
+  # Drain cloud-run logs from the Drive inbox. A bad inbox line must not block the state publish,
+  # and sync_logs.py writes nothing on failure, so just record it and carry on.
+  & $pyCmd @pyArgs bridge/sync_logs.py 2>&1 | Out-File -Append -Encoding utf8 $log
+  if ($LASTEXITCODE -ne 0) { "sync_logs.py exited $LASTEXITCODE - inbox left untouched, state still publishes" | Out-File -Append -Encoding utf8 $log }
+  git add state/league-state.json logs playbook.md
+  $changed = git status --porcelain state/league-state.json logs playbook.md
   if ($changed) {
     # git writes normal progress to stderr; PS 5.1 wraps piped stderr lines as terminating
     # errors under $ErrorActionPreference = "Stop" even on success, so relax it for these calls.

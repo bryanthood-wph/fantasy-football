@@ -17,5 +17,5 @@
    pain next 2 weeks on their side. Propose at most 1 trade with a fair-value rationale and what the other manager gains. Proposals only —
    Colby sends offers himself.
 7. Log each recommendation (waiver claims, D/ST stream, trade) as its own decision line. Log the session line.
-8. Push per COMMON. Waiver moves: if Colby replies "approve" and the clear is >12h away, append to pending-approvals.json; if <12h, he
+8. Push per COMMON. Waiver moves: if Colby replies "approve" and the clear is >12h away, write approval-<decision_id>.json (status approved); if <12h, he
    submits in-app and replies "done".

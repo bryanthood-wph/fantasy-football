@@ -1,0 +1,27 @@
+{
+  "league_state_url": "https://raw.githubusercontent.com/bryanthood-wph/fantasy-football/main/state/league-state.json",
+  "repo_raw_base": "https://raw.githubusercontent.com/bryanthood-wph/fantasy-football/main/",
+  "schema_ref": "https://raw.githubusercontent.com/bryanthood-wph/fantasy-football/main/schema/DECISION-LOG.md",
+  "playbook_ref": "https://raw.githubusercontent.com/bryanthood-wph/fantasy-football/main/playbook.md",
+  "standing_answers_ref": "https://raw.githubusercontent.com/bryanthood-wph/fantasy-football/main/STANDING-ANSWERS.md",
+  "decisions_ref": "https://raw.githubusercontent.com/bryanthood-wph/fantasy-football/main/logs/decisions.jsonl",
+  "draft_decisions_ref": "https://raw.githubusercontent.com/bryanthood-wph/fantasy-football/main/logs/decisions.jsonl",
+  "league": {"platform": "ESPN", "league_id": 1594445542, "season": 2026, "team_id": 5, "team_name": "i'd have a dart (formerly Ryan Lost the Championship)", "league_name": "Snipes and Degens", "teams": 10},
+  "scoring": {"type": "H2H points, 0.5 PPR", "pass_yd_per_pt": 25, "pass_td": 4, "int": -2, "rush_rec_yd_per_pt": 10, "td": 6, "rec": 0.5, "fumble_lost": -2, "kicker": "PAT 1, PAT miss -1, FG miss -2, FG 0.1/yd", "dst": "ONLY return/defensive TDs 6, safety 1, 2pt return 2 — no sacks/INT/points-allowed scoring"},
+  "roster": {"QB": 1, "RB": 2, "WR": 2, "TE": 1, "FLEX": 2, "K": 1, "DST": 1, "BE": 6, "limits": {"QB": 2, "RB": 6, "WR": 6, "TE": 2, "K": 2, "DST": 2}},
+  "deadlines": {"waivers_clear": "Wed ~03:00 ET, 2-day waiver period", "lineup_lock": "each player's kickoff; compute the first lock each week from the real schedule (Week 1 opens Wed)", "trade_deadline": "2026-12-09 13:00 ET"},
+  "rules": {"autonomy": "propose -> Colby approves -> submit; never auto-submit", "twelve_hour_rule": "if deadline < 12h away, tell Colby to submit in the ESPN app; log submitted_by=human", "bye_cap": "max 2 starters on one bye", "lens": ["age", "injury history", "opportunity/spotlight (vacated targets, depth-chart holes)", "bye stacking", "tier gap before projection", "always give a gut call"]},
+  "log_convention": {
+    "why": "The Google Drive connector can create files but cannot edit existing ones. Never append, rewrite, trash, or delete; write one new file per run. The desktop bridge (bridge/sync_logs.py) merges every file into the repo by id twice daily.",
+    "drive_folder_id": "1eK8PvUvjbwhYgENBSf--ve5S_0QI_YPi",
+    "decisions": "decisions-<run_id>.jsonl  (run_id = YYYYMMDD-<routine>, e.g. 20260915-tue). One JSON object per line, schema per schema_ref.",
+    "sessions": "sessions-<run_id>.jsonl (exactly one line; use ts_start, not ts).",
+    "scores": "scores-<run_id>.jsonl (Monday only): {decision_id, scored_at, pts_rec, pts_action, pts_optimal, pts_espn_choice, hindsight_optimal, category}. Latest file wins per decision_id.",
+    "human_replies": "replies-<run_id>.jsonl: {decision_id, ts, choice, followed, override_reason, submitted_by}. Written when Colby replies in the routine session.",
+    "approvals": "approval-<decision_id>.json: {decision_id, move, deadline, approved_at, status}. status approved|submitted|expired; a later file with the same decision_id supersedes. Stays on Drive; consumed by the desktop-sync session.",
+    "weekly": "weekly-W##.md (Monday).",
+    "playbook_additions": "playbook-add-<run_id>.md (Monday). The bridge appends it to the repo playbook.md.",
+    "reading": "Reference material (config, playbook, standing answers, schema, canonical decisions.jsonl) comes from repo_raw_base. From Drive read only what has not reached the repo yet: approval-*.json, replies-*.jsonl, and decisions-*.jsonl whose ids are absent from decisions_ref."
+  },
+  "roster_snapshot_2026-09-08": {"QB": ["Jaxson Dart NYG bye8"], "RB": ["Derrick Henry BAL bye13", "Cam Skattebo NYG bye8", "TreVeyon Henderson NE bye11", "Tony Pollard TEN bye9", "Jonathon Brooks CAR bye5", "Aaron Jones MIN bye6"], "WR": ["A.J. Brown NE bye11", "Rome Odunze CHI bye10", "Jameson Williams DET bye6", "Jakobi Meyers JAX bye7", "Jayden Reed GB bye11", "Stefon Diggs WSH bye7"], "TE": ["Trey McBride ARI bye14"], "K": ["Jake Bates DET bye6"], "DST": ["Eagles bye10 (confirmed via bridge 2026-09-08)"]}
+}
