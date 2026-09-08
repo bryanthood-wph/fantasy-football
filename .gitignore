@@ -1,0 +1,5 @@
+bridge/.env
+bridge/publish.log
+__pycache__/
+.pytest_cache/
+*.pyc
