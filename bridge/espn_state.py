@@ -40,6 +40,15 @@ def _g(obj, name, default=None):
     return getattr(obj, name, default)
 
 
+def _bye(p):
+    """espn_api exposes no bye attribute; the bye is the one regular-season week absent from player.schedule."""
+    weeks = {int(w) for w in (_g(p, "schedule") or {})}
+    if not weeks:
+        return None
+    missing = [w for w in range(1, max(weeks) + 1) if w not in weeks]
+    return missing[0] if len(missing) == 1 else None
+
+
 def player_row(p) -> dict:
     return {
         "id": _g(p, "playerId"),
@@ -49,7 +58,7 @@ def player_row(p) -> dict:
         "slot": _g(p, "lineupSlot"),
         "injury_status": _g(p, "injuryStatus"),
         "injured": bool(_g(p, "injured", False)),
-        "bye": _g(p, "bye_week"),
+        "bye": _bye(p),
         "proj_total": _g(p, "projected_total_points"),
         "pts_total": _g(p, "total_points"),
         "proj_week": _g(p, "projected_avg_points"),
@@ -94,6 +103,13 @@ def build_state(league: League, my_team_id: int, fa_size: int) -> dict:
     except Exception as exc:
         free_agents = [{"error": str(exc)}]
 
+    teams = [team_row(t, my_team_id) for t in _g(league, "teams", [])]
+    # free-agent objects only carry the current week's schedule, so borrow the bye from a rostered teammate
+    bye_by_team = {r["nfl_team"]: r["bye"] for t in teams for r in t["roster"] if r["bye"]}
+    for fa in free_agents:
+        if fa.get("bye") is None and fa.get("nfl_team") in bye_by_team:
+            fa["bye"] = bye_by_team[fa["nfl_team"]]
+
     activity = []
     try:
         for a in league.recent_activity(size=25):
@@ -121,7 +137,7 @@ def build_state(league: League, my_team_id: int, fa_size: int) -> dict:
             "reg_season_count": _g(_g(league, "settings"), "reg_season_count"),
             "playoff_team_count": _g(_g(league, "settings"), "playoff_team_count"),
         },
-        "teams": [team_row(t, my_team_id) for t in _g(league, "teams", [])],
+        "teams": teams,
         "scoreboard": scoreboard,
         "free_agents": free_agents,
         "recent_activity": activity,
