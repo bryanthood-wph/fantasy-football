@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T11:43:14.444891+00:00",
+ "generated_at": "2026-09-28T22:30:56.945712+00:00",
  "league_id": 1594445542,
  "season": 2026,
  "current_week": 3,
@@ -31,9 +31,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 228.41,
+     "proj_total": 232.94,
      "pts_total": 44.0,
-     "proj_week": 16.32,
+     "proj_week": 16.64,
      "pct_owned": 99.92
     },
     {
@@ -45,9 +45,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 193.34,
+     "proj_total": 197.47,
      "pts_total": 60.0,
-     "proj_week": 13.81,
+     "proj_week": 14.11,
      "pct_owned": 99.92
     },
     {
@@ -59,9 +59,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 5,
-     "proj_total": 251.08,
+     "proj_total": 259.88,
      "pts_total": 71.5,
-     "proj_week": 17.93,
+     "proj_week": 18.56,
      "pct_owned": 99.8
     },
     {
@@ -73,9 +73,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 168.77,
+     "proj_total": 170.92,
      "pts_total": 41.0,
-     "proj_week": 12.05,
+     "proj_week": 12.21,
      "pct_owned": 96.36
     },
     {
@@ -87,9 +87,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 170.43,
+     "proj_total": 169.28,
      "pts_total": 44.5,
-     "proj_week": 12.17,
+     "proj_week": 12.09,
      "pct_owned": 98.86
     },
     {
@@ -101,10 +101,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 158.1,
+     "proj_total": 162.33,
      "pts_total": 34.5,
-     "proj_week": 11.29,
-     "pct_owned": 95.31
+     "proj_week": 11.6,
+     "pct_owned": 95.3
     },
     {
      "id": 4426348,
@@ -115,10 +115,10 @@
      "injury_status": "OUT",
      "injured": true,
      "bye": 7,
-     "proj_total": 228.38,
+     "proj_total": 230.42,
      "pts_total": 30.0,
-     "proj_week": 19.03,
-     "pct_owned": 85.34
+     "proj_week": 19.2,
+     "pct_owned": 85.33
     },
     {
      "id": 16737,
@@ -129,10 +129,10 @@
      "injury_status": "QUESTIONABLE",
      "injured": false,
      "bye": 8,
-     "proj_total": 147.92,
+     "proj_total": 149.49,
      "pts_total": 30.0,
-     "proj_week": 11.38,
-     "pct_owned": 92.29
+     "proj_week": 10.68,
+     "pct_owned": 92.28
     },
     {
      "id": 4430027,
@@ -143,9 +143,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 123.16,
+     "proj_total": 127.42,
      "pts_total": 26.0,
-     "proj_week": 8.8,
+     "proj_week": 9.1,
      "pct_owned": 96.25
     },
     {
@@ -157,9 +157,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 144.85,
+     "proj_total": 148.68,
      "pts_total": 10.5,
-     "proj_week": 10.35,
+     "proj_week": 10.62,
      "pct_owned": 79.71
     },
     {
@@ -171,10 +171,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 110.26,
+     "proj_total": 104.09,
      "pts_total": 8.0,
-     "proj_week": 7.88,
-     "pct_owned": 61.92
+     "proj_week": 7.44,
+     "pct_owned": 61.91
     },
     {
      "id": 3917315,
@@ -185,10 +185,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 256.89,
+     "proj_total": 247.86,
      "pts_total": 7.0,
-     "proj_week": 18.35,
-     "pct_owned": 60.89
+     "proj_week": 17.7,
+     "pct_owned": 60.9
     },
     {
      "id": -16026,
@@ -199,9 +199,9 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 11,
-     "proj_total": 100.23,
+     "proj_total": 104.26,
      "pts_total": 28.0,
-     "proj_week": 5.9,
+     "proj_week": 6.13,
      "pct_owned": 98.63
     },
     {
@@ -213,10 +213,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 5,
-     "proj_total": 123.16,
+     "proj_total": 123.5,
      "pts_total": 26.7,
-     "proj_week": 8.8,
-     "pct_owned": 84.58
+     "proj_week": 8.82,
+     "pct_owned": 84.57
     },
     {
      "id": 4360569,
@@ -227,10 +227,10 @@
      "injury_status": "INJURY_RESERVE",
      "injured": true,
      "bye": 6,
-     "proj_total": 117.01,
+     "proj_total": 121.35,
      "pts_total": 11.0,
-     "proj_week": 9.75,
-     "pct_owned": 56.83
+     "proj_week": 10.11,
+     "pct_owned": 56.79
     },
     {
      "id": 4426388,
@@ -241,10 +241,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 124.77,
+     "proj_total": 121.91,
      "pts_total": 16.0,
-     "proj_week": 8.91,
-     "pct_owned": 92.29
+     "proj_week": 8.71,
+     "pct_owned": 92.27
     }
    ]
   },
@@ -268,9 +268,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 334.31,
+     "proj_total": 332.44,
      "pts_total": 87.0,
-     "proj_week": 23.88,
+     "proj_week": 23.75,
      "pct_owned": 99.95
     },
     {
@@ -282,9 +282,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 229.04,
+     "proj_total": 228.49,
      "pts_total": 45.5,
-     "proj_week": 16.36,
+     "proj_week": 16.32,
      "pct_owned": 99.75
     },
     {
@@ -296,9 +296,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 152.18,
+     "proj_total": 149.08,
      "pts_total": 14.0,
-     "proj_week": 10.87,
+     "proj_week": 10.65,
      "pct_owned": 98.54
     },
     {
@@ -310,9 +310,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 130.57,
+     "proj_total": 124.9,
      "pts_total": 29.0,
-     "proj_week": 9.33,
+     "proj_week": 8.92,
      "pct_owned": 97.0
     },
     {
@@ -324,10 +324,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 146.87,
+     "proj_total": 135.77,
      "pts_total": 22.5,
-     "proj_week": 10.49,
-     "pct_owned": 95.62
+     "proj_week": 9.7,
+     "pct_owned": 95.61
     },
     {
      "id": 4432620,
@@ -338,10 +338,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 172.18,
+     "proj_total": 179.33,
      "pts_total": 40.5,
-     "proj_week": 12.3,
-     "pct_owned": 93.64
+     "proj_week": 12.81,
+     "pct_owned": 93.63
     },
     {
      "id": 4572680,
@@ -352,10 +352,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 96.42,
+     "proj_total": 100.3,
      "pts_total": 13.5,
-     "proj_week": 6.89,
-     "pct_owned": 89.27
+     "proj_week": 7.16,
+     "pct_owned": 89.26
     },
     {
      "id": 4038941,
@@ -366,10 +366,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 214.93,
+     "proj_total": 200.24,
      "pts_total": 31.0,
-     "proj_week": 15.35,
-     "pct_owned": 84.25
+     "proj_week": 14.3,
+     "pct_owned": 84.24
     },
     {
      "id": 4047365,
@@ -380,10 +380,10 @@
      "injury_status": "DAY_TO_DAY",
      "injured": false,
      "bye": 11,
-     "proj_total": 135.65,
+     "proj_total": 117.74,
      "pts_total": 0.0,
-     "proj_week": 13.57,
-     "pct_owned": 84.22
+     "proj_week": 11.77,
+     "pct_owned": 84.21
     },
     {
      "id": 4429096,
@@ -394,10 +394,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 124.52,
+     "proj_total": 113.53,
      "pts_total": 15.5,
-     "proj_week": 8.89,
-     "pct_owned": 75.27
+     "proj_week": 8.11,
+     "pct_owned": 75.26
     },
     {
      "id": 4361050,
@@ -408,10 +408,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 132.69,
+     "proj_total": 124.84,
      "pts_total": 30.5,
-     "proj_week": 9.48,
-     "pct_owned": 90.95
+     "proj_week": 8.92,
+     "pct_owned": 90.93
     },
     {
      "id": 4574716,
@@ -422,10 +422,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 125.85,
+     "proj_total": 126.03,
      "pts_total": 20.9,
-     "proj_week": 8.99,
-     "pct_owned": 72.86
+     "proj_week": 9.0,
+     "pct_owned": 72.85
     },
     {
      "id": 4688813,
@@ -436,10 +436,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 119.91,
+     "proj_total": 123.54,
      "pts_total": 24.0,
-     "proj_week": 8.57,
-     "pct_owned": 76.91
+     "proj_week": 8.82,
+     "pct_owned": 76.92
     },
     {
      "id": 4685720,
@@ -450,10 +450,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 5,
-     "proj_total": 233.53,
+     "proj_total": 235.47,
      "pts_total": 67.0,
-     "proj_week": 16.68,
-     "pct_owned": 76.15
+     "proj_week": 16.82,
+     "pct_owned": 76.13
     },
     {
      "id": 4428718,
@@ -464,10 +464,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 101.91,
+     "proj_total": 102.87,
      "pts_total": 28.5,
-     "proj_week": 7.28,
-     "pct_owned": 42.41
+     "proj_week": 7.35,
+     "pct_owned": 42.4
     },
     {
      "id": -16029,
@@ -478,10 +478,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 5,
-     "proj_total": 40.28,
+     "proj_total": 52.19,
      "pts_total": 22.0,
-     "proj_week": 2.37,
-     "pct_owned": 50.82
+     "proj_week": 3.07,
+     "pct_owned": 50.86
     }
    ]
   },
@@ -505,9 +505,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 235.02,
+     "proj_total": 231.31,
      "pts_total": 62.5,
-     "proj_week": 16.79,
+     "proj_week": 16.52,
      "pct_owned": 99.93
     },
     {
@@ -516,13 +516,13 @@
      "pos": "RB",
      "nfl_team": "MIA",
      "slot": "RB/WR/TE",
-     "injury_status": "DOUBTFUL",
-     "injured": false,
+     "injury_status": "INJURY_RESERVE",
+     "injured": true,
      "bye": 6,
-     "proj_total": 201.3,
+     "proj_total": 0.0,
      "pts_total": 18.5,
-     "proj_week": 16.78,
-     "pct_owned": 99.84
+     "proj_week": 0.0,
+     "pct_owned": 99.83
     },
     {
      "id": 4432665,
@@ -533,9 +533,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 165.9,
+     "proj_total": 170.44,
      "pts_total": 22.0,
-     "proj_week": 12.76,
+     "proj_week": 12.17,
      "pct_owned": 99.78
     },
     {
@@ -547,10 +547,10 @@
      "injury_status": "QUESTIONABLE",
      "injured": false,
      "bye": 13,
-     "proj_total": 202.06,
+     "proj_total": 191.73,
      "pts_total": 35.0,
-     "proj_week": 14.43,
-     "pct_owned": 98.95
+     "proj_week": 14.75,
+     "pct_owned": 98.94
     },
     {
      "id": 4430878,
@@ -561,9 +561,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 238.68,
+     "proj_total": 240.57,
      "pts_total": 88.5,
-     "proj_week": 17.05,
+     "proj_week": 17.18,
      "pct_owned": 99.93
     },
     {
@@ -575,10 +575,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 126.59,
+     "proj_total": 123.78,
      "pts_total": 11.0,
-     "proj_week": 9.04,
-     "pct_owned": 85.52
+     "proj_week": 8.84,
+     "pct_owned": 85.51
     },
     {
      "id": 4882093,
@@ -589,10 +589,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 155.28,
+     "proj_total": 166.29,
      "pts_total": 36.5,
-     "proj_week": 11.09,
-     "pct_owned": 92.04
+     "proj_week": 11.88,
+     "pct_owned": 92.02
     },
     {
      "id": 3915511,
@@ -603,9 +603,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 255.3,
+     "proj_total": 263.39,
      "pts_total": 52.0,
-     "proj_week": 18.24,
+     "proj_week": 18.81,
      "pct_owned": 96.97
     },
     {
@@ -617,10 +617,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 70.11,
+     "proj_total": 72.68,
      "pts_total": 9.0,
-     "proj_week": 5.01,
-     "pct_owned": 78.88
+     "proj_week": 5.19,
+     "pct_owned": 78.86
     },
     {
      "id": 4371733,
@@ -631,10 +631,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 94.66,
+     "proj_total": 93.67,
      "pts_total": 6.0,
-     "proj_week": 6.76,
-     "pct_owned": 72.37
+     "proj_week": 6.69,
+     "pct_owned": 72.36
     },
     {
      "id": -16023,
@@ -645,9 +645,9 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 9,
-     "proj_total": 91.2,
+     "proj_total": 94.0,
      "pts_total": 31.0,
-     "proj_week": 5.36,
+     "proj_week": 5.53,
      "pct_owned": 89.73
     },
     {
@@ -659,9 +659,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 131.72,
+     "proj_total": 133.85,
      "pts_total": 23.6,
-     "proj_week": 9.41,
+     "proj_week": 9.56,
      "pct_owned": 95.32
     },
     {
@@ -673,10 +673,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 122.07,
+     "proj_total": 123.11,
      "pts_total": 36.0,
-     "proj_week": 8.72,
-     "pct_owned": 91.63
+     "proj_week": 8.79,
+     "pct_owned": 91.62
     },
     {
      "id": 4568490,
@@ -687,10 +687,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 110.82,
+     "proj_total": 119.19,
      "pts_total": 12.0,
-     "proj_week": 7.92,
-     "pct_owned": 68.89
+     "proj_week": 8.51,
+     "pct_owned": 68.9
     },
     {
      "id": 3052587,
@@ -698,13 +698,13 @@
      "pos": "QB",
      "nfl_team": "TB",
      "slot": "BE",
-     "injury_status": "QUESTIONABLE",
-     "injured": false,
+     "injury_status": "OUT",
+     "injured": true,
      "bye": 10,
-     "proj_total": 227.98,
+     "proj_total": 153.84,
      "pts_total": 32.0,
-     "proj_week": 16.28,
-     "pct_owned": 49.42
+     "proj_week": 13.99,
+     "pct_owned": 49.37
     },
     {
      "id": -16004,
@@ -715,10 +715,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 6,
-     "proj_total": 85.91,
+     "proj_total": 68.12,
      "pts_total": 27.0,
-     "proj_week": 5.05,
-     "pct_owned": 37.07
+     "proj_week": 4.01,
+     "pct_owned": 37.1
     }
    ]
   },
@@ -742,9 +742,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 252.05,
+     "proj_total": 265.26,
      "pts_total": 68.5,
-     "proj_week": 18.0,
+     "proj_week": 18.95,
      "pct_owned": 99.92
     },
     {
@@ -756,10 +756,10 @@
      "injury_status": "OUT",
      "injured": true,
      "bye": 8,
-     "proj_total": 176.13,
+     "proj_total": 171.61,
      "pts_total": 16.5,
-     "proj_week": 13.55,
-     "pct_owned": 98.82
+     "proj_week": 13.2,
+     "pct_owned": 98.81
     },
     {
      "id": 4426354,
@@ -770,9 +770,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 167.21,
+     "proj_total": 163.86,
      "pts_total": 22.0,
-     "proj_week": 11.94,
+     "proj_week": 11.7,
      "pct_owned": 99.36
     },
     {
@@ -784,9 +784,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 211.91,
+     "proj_total": 205.67,
      "pts_total": 31.5,
-     "proj_week": 15.14,
+     "proj_week": 14.69,
      "pct_owned": 96.71
     },
     {
@@ -798,9 +798,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 139.41,
+     "proj_total": 132.02,
      "pts_total": 29.0,
-     "proj_week": 9.96,
+     "proj_week": 9.43,
      "pct_owned": 98.74
     },
     {
@@ -812,10 +812,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 132.35,
+     "proj_total": 132.05,
      "pts_total": 11.0,
-     "proj_week": 9.45,
-     "pct_owned": 89.72
+     "proj_week": 9.43,
+     "pct_owned": 89.68
     },
     {
      "id": 4047650,
@@ -826,10 +826,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 9,
-     "proj_total": 121.51,
+     "proj_total": 122.15,
      "pts_total": 20.5,
-     "proj_week": 8.68,
-     "pct_owned": 89.08
+     "proj_week": 8.72,
+     "pct_owned": 89.07
     },
     {
      "id": 12483,
@@ -840,9 +840,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 249.9,
+     "proj_total": 243.03,
      "pts_total": 51.0,
-     "proj_week": 17.85,
+     "proj_week": 17.36,
      "pct_owned": 89.68
     },
     {
@@ -854,10 +854,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 166.09,
+     "proj_total": 175.5,
      "pts_total": 59.5,
-     "proj_week": 11.86,
-     "pct_owned": 93.08
+     "proj_week": 12.54,
+     "pct_owned": 93.07
     },
     {
      "id": 4360310,
@@ -868,10 +868,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 251.4,
+     "proj_total": 263.65,
      "pts_total": 49.0,
-     "proj_week": 17.96,
-     "pct_owned": 87.41
+     "proj_week": 18.83,
+     "pct_owned": 87.4
     },
     {
      "id": 4608686,
@@ -882,10 +882,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 110.68,
+     "proj_total": 110.52,
      "pts_total": 25.0,
-     "proj_week": 7.91,
-     "pct_owned": 79.03
+     "proj_week": 7.89,
+     "pct_owned": 79.01
     },
     {
      "id": 4373678,
@@ -896,9 +896,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 114.5,
+     "proj_total": 114.0,
      "pts_total": 12.0,
-     "proj_week": 8.18,
+     "proj_week": 8.14,
      "pct_owned": 67.3
     },
     {
@@ -910,10 +910,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 90.54,
+     "proj_total": 92.19,
      "pts_total": 26.5,
-     "proj_week": 6.47,
-     "pct_owned": 80.94
+     "proj_week": 6.58,
+     "pct_owned": 80.93
     },
     {
      "id": 4686361,
@@ -924,10 +924,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 121.97,
+     "proj_total": 125.84,
      "pts_total": 21.4,
-     "proj_week": 8.71,
-     "pct_owned": 85.71
+     "proj_week": 8.99,
+     "pct_owned": 85.69
     },
     {
      "id": 3054850,
@@ -938,10 +938,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 91.24,
+     "proj_total": 92.02,
      "pts_total": 7.0,
-     "proj_week": 6.52,
-     "pct_owned": 52.34
+     "proj_week": 6.57,
+     "pct_owned": 52.33
     },
     {
      "id": -16016,
@@ -952,10 +952,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 6,
-     "proj_total": 97.74,
+     "proj_total": 109.35,
      "pts_total": 40.0,
-     "proj_week": 5.75,
-     "pct_owned": 47.07
+     "proj_week": 6.43,
+     "pct_owned": 47.11
     }
    ]
   },
@@ -979,9 +979,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 243.13,
+     "proj_total": 253.72,
      "pts_total": 68.5,
-     "proj_week": 17.37,
+     "proj_week": 18.12,
      "pct_owned": 99.87
     },
     {
@@ -993,9 +993,9 @@
      "injury_status": "INJURY_RESERVE",
      "injured": true,
      "bye": 11,
-     "proj_total": 119.84,
+     "proj_total": 114.08,
      "pts_total": 3.5,
-     "proj_week": 11.98,
+     "proj_week": 11.41,
      "pct_owned": 95.98
     },
     {
@@ -1007,9 +1007,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 184.27,
+     "proj_total": 189.47,
      "pts_total": 45.0,
-     "proj_week": 13.16,
+     "proj_week": 13.53,
      "pct_owned": 99.89
     },
     {
@@ -1021,9 +1021,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 183.51,
+     "proj_total": 181.44,
      "pts_total": 31.5,
-     "proj_week": 13.11,
+     "proj_week": 12.96,
      "pct_owned": 98.01
     },
     {
@@ -1035,10 +1035,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 125.08,
+     "proj_total": 124.16,
      "pts_total": 11.5,
-     "proj_week": 8.93,
-     "pct_owned": 90.96
+     "proj_week": 8.87,
+     "pct_owned": 90.92
     },
     {
      "id": 4432710,
@@ -1049,10 +1049,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 127.59,
+     "proj_total": 125.22,
      "pts_total": 15.5,
-     "proj_week": 9.11,
-     "pct_owned": 90.75
+     "proj_week": 8.94,
+     "pct_owned": 90.74
     },
     {
      "id": 3916148,
@@ -1063,9 +1063,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 9,
-     "proj_total": 148.68,
+     "proj_total": 159.37,
      "pts_total": 21.0,
-     "proj_week": 10.62,
+     "proj_week": 11.38,
      "pct_owned": 85.05
     },
     {
@@ -1077,10 +1077,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 120.73,
+     "proj_total": 123.98,
      "pts_total": 29.0,
-     "proj_week": 8.62,
-     "pct_owned": 69.91
+     "proj_week": 8.86,
+     "pct_owned": 69.9
     },
     {
      "id": 4362249,
@@ -1091,10 +1091,10 @@
      "injury_status": "OUT",
      "injured": true,
      "bye": 11,
-     "proj_total": 72.39,
+     "proj_total": 75.66,
      "pts_total": 4.0,
-     "proj_week": 7.24,
-     "pct_owned": 51.97
+     "proj_week": 7.57,
+     "pct_owned": 51.98
     },
     {
      "id": 2976212,
@@ -1105,10 +1105,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 120.25,
+     "proj_total": 120.63,
      "pts_total": 36.5,
-     "proj_week": 8.59,
-     "pct_owned": 85.87
+     "proj_week": 8.62,
+     "pct_owned": 85.86
     },
     {
      "id": 4689936,
@@ -1119,10 +1119,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 122.38,
+     "proj_total": 123.22,
      "pts_total": 20.4,
-     "proj_week": 8.74,
-     "pct_owned": 64.73
+     "proj_week": 8.8,
+     "pct_owned": 64.72
     },
     {
      "id": 4038441,
@@ -1133,10 +1133,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 62.71,
+     "proj_total": 63.46,
      "pts_total": 7.5,
-     "proj_week": 4.48,
-     "pct_owned": 13.87
+     "proj_week": 4.53,
+     "pct_owned": 13.86
     },
     {
      "id": 4832800,
@@ -1147,10 +1147,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 119.38,
+     "proj_total": 124.89,
      "pts_total": 36.5,
-     "proj_week": 8.53,
-     "pct_owned": 72.24
+     "proj_week": 8.92,
+     "pct_owned": 72.23
     },
     {
      "id": -16017,
@@ -1161,10 +1161,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 11,
-     "proj_total": 82.2,
+     "proj_total": 83.63,
      "pts_total": 27.0,
-     "proj_week": 4.84,
-     "pct_owned": 62.94
+     "proj_week": 4.92,
+     "pct_owned": 62.92
     },
     {
      "id": 4036378,
@@ -1175,10 +1175,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 216.94,
+     "proj_total": 228.16,
      "pts_total": 50.0,
-     "proj_week": 15.5,
-     "pct_owned": 54.93
+     "proj_week": 16.3,
+     "pct_owned": 54.89
     },
     {
      "id": 4431452,
@@ -1189,9 +1189,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 256.0,
+     "proj_total": 239.71,
      "pts_total": 18.0,
-     "proj_week": 18.29,
+     "proj_week": 17.12,
      "pct_owned": 98.64
     }
    ]
@@ -1216,9 +1216,9 @@
      "injury_status": "QUESTIONABLE",
      "injured": false,
      "bye": 6,
-     "proj_total": 211.67,
+     "proj_total": 207.16,
      "pts_total": 37.5,
-     "proj_week": 15.12,
+     "proj_week": 14.8,
      "pct_owned": 99.9
     },
     {
@@ -1227,12 +1227,12 @@
      "pos": "QB",
      "nfl_team": "BUF",
      "slot": "QB",
-     "injury_status": "ACTIVE",
+     "injury_status": "QUESTIONABLE",
      "injured": false,
      "bye": 7,
-     "proj_total": 322.51,
+     "proj_total": 316.22,
      "pts_total": 90.5,
-     "proj_week": 23.04,
+     "proj_week": 22.59,
      "pct_owned": 99.93
     },
     {
@@ -1244,9 +1244,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 223.45,
+     "proj_total": 226.59,
      "pts_total": 46.0,
-     "proj_week": 15.96,
+     "proj_week": 16.19,
      "pct_owned": 99.9
     },
     {
@@ -1258,9 +1258,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 205.41,
+     "proj_total": 200.4,
      "pts_total": 44.0,
-     "proj_week": 14.67,
+     "proj_week": 14.31,
      "pct_owned": 98.93
     },
     {
@@ -1272,9 +1272,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 147.88,
+     "proj_total": 142.37,
      "pts_total": 24.0,
-     "proj_week": 10.56,
+     "proj_week": 10.17,
      "pct_owned": 92.62
     },
     {
@@ -1286,10 +1286,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 156.06,
+     "proj_total": 159.71,
      "pts_total": 36.0,
-     "proj_week": 11.15,
-     "pct_owned": 96.62
+     "proj_week": 11.41,
+     "pct_owned": 96.61
     },
     {
      "id": 4569173,
@@ -1300,10 +1300,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 146.57,
+     "proj_total": 144.3,
      "pts_total": 18.5,
-     "proj_week": 10.47,
-     "pct_owned": 90.75
+     "proj_week": 10.31,
+     "pct_owned": 90.73
     },
     {
      "id": -16007,
@@ -1314,10 +1314,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 10,
-     "proj_total": 99.73,
+     "proj_total": 93.08,
      "pts_total": 20.0,
-     "proj_week": 5.87,
-     "pct_owned": 81.74
+     "proj_week": 5.48,
+     "pct_owned": 81.72
     },
     {
      "id": 3121023,
@@ -1328,10 +1328,10 @@
      "injury_status": "OUT",
      "injured": true,
      "bye": 10,
-     "proj_total": 113.05,
+     "proj_total": 113.97,
      "pts_total": 21.5,
-     "proj_week": 8.7,
-     "pct_owned": 82.48
+     "proj_week": 8.77,
+     "pct_owned": 82.39
     },
     {
      "id": 4361741,
@@ -1342,10 +1342,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 262.11,
+     "proj_total": 271.19,
      "pts_total": 78.0,
-     "proj_week": 18.72,
-     "pct_owned": 95.63
+     "proj_week": 19.37,
+     "pct_owned": 95.62
     },
     {
      "id": 4575131,
@@ -1356,10 +1356,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 133.58,
+     "proj_total": 114.31,
      "pts_total": 20.5,
-     "proj_week": 9.54,
-     "pct_owned": 71.49
+     "proj_week": 8.16,
+     "pct_owned": 71.48
     },
     {
      "id": 4360761,
@@ -1370,10 +1370,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 145.96,
+     "proj_total": 149.39,
      "pts_total": 29.0,
-     "proj_week": 10.43,
-     "pct_owned": 80.06
+     "proj_week": 10.67,
+     "pct_owned": 80.05
     },
     {
      "id": 3046439,
@@ -1384,10 +1384,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 102.05,
+     "proj_total": 96.82,
      "pts_total": 9.5,
-     "proj_week": 7.29,
-     "pct_owned": 50.86
+     "proj_week": 6.92,
+     "pct_owned": 50.82
     },
     {
      "id": 4034949,
@@ -1398,9 +1398,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 129.12,
+     "proj_total": 132.09,
      "pts_total": 20.3,
-     "proj_week": 9.22,
+     "proj_week": 9.44,
      "pct_owned": 81.96
     },
     {
@@ -1412,10 +1412,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 125.79,
+     "proj_total": 129.24,
      "pts_total": 33.5,
-     "proj_week": 8.98,
-     "pct_owned": 84.75
+     "proj_week": 9.23,
+     "pct_owned": 84.74
     },
     {
      "id": 4695883,
@@ -1426,10 +1426,10 @@
      "injury_status": "QUESTIONABLE",
      "injured": false,
      "bye": 5,
-     "proj_total": 143.81,
+     "proj_total": 147.54,
      "pts_total": 41.0,
-     "proj_week": 10.27,
-     "pct_owned": 88.61
+     "proj_week": 10.54,
+     "pct_owned": 88.59
     }
    ]
   },
@@ -1453,9 +1453,9 @@
      "injury_status": "OUT",
      "injured": true,
      "bye": 11,
-     "proj_total": 244.45,
+     "proj_total": 242.75,
      "pts_total": 9.5,
-     "proj_week": 18.8,
+     "proj_week": 18.67,
      "pct_owned": 99.88
     },
     {
@@ -1467,9 +1467,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 157.93,
+     "proj_total": 163.74,
      "pts_total": 29.0,
-     "proj_week": 11.28,
+     "proj_week": 11.7,
      "pct_owned": 99.3
     },
     {
@@ -1481,9 +1481,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 183.9,
+     "proj_total": 186.1,
      "pts_total": 34.0,
-     "proj_week": 13.14,
+     "proj_week": 13.29,
      "pct_owned": 98.51
     },
     {
@@ -1495,10 +1495,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 5,
-     "proj_total": 155.63,
+     "proj_total": 158.57,
      "pts_total": 22.0,
-     "proj_week": 11.12,
-     "pct_owned": 98.21
+     "proj_week": 11.33,
+     "pct_owned": 98.2
     },
     {
      "id": 4685512,
@@ -1509,10 +1509,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 133.62,
+     "proj_total": 133.94,
      "pts_total": 9.0,
-     "proj_week": 9.54,
-     "pct_owned": 91.94
+     "proj_week": 9.57,
+     "pct_owned": 91.93
     },
     {
      "id": 4360248,
@@ -1523,9 +1523,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 87.86,
+     "proj_total": 79.94,
      "pts_total": 2.0,
-     "proj_week": 6.28,
+     "proj_week": 5.71,
      "pct_owned": 88.29
     },
     {
@@ -1537,10 +1537,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 95.85,
+     "proj_total": 97.28,
      "pts_total": 11.5,
-     "proj_week": 6.85,
-     "pct_owned": 76.38
+     "proj_week": 6.95,
+     "pct_owned": 76.37
     },
     {
      "id": 4431611,
@@ -1551,10 +1551,10 @@
      "injury_status": "OUT",
      "injured": true,
      "bye": 10,
-     "proj_total": 206.42,
+     "proj_total": 206.22,
      "pts_total": 43.0,
-     "proj_week": 17.2,
-     "pct_owned": 90.5
+     "proj_week": 17.19,
+     "pct_owned": 90.45
     },
     {
      "id": 4429023,
@@ -1565,9 +1565,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 29.39,
+     "proj_total": 24.63,
      "pts_total": 12.0,
-     "proj_week": 7.35,
+     "proj_week": 6.16,
      "pct_owned": 67.84
     },
     {
@@ -1579,10 +1579,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 125.0,
+     "proj_total": 109.07,
      "pts_total": 11.0,
-     "proj_week": 8.93,
-     "pct_owned": 55.68
+     "proj_week": 7.79,
+     "pct_owned": 55.67
     },
     {
      "id": 15847,
@@ -1593,10 +1593,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 5,
-     "proj_total": 124.78,
+     "proj_total": 132.87,
      "pts_total": 41.0,
-     "proj_week": 8.91,
-     "pct_owned": 94.55
+     "proj_week": 9.49,
+     "pct_owned": 94.54
     },
     {
      "id": 3953687,
@@ -1607,9 +1607,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 142.01,
+     "proj_total": 141.78,
      "pts_total": 26.8,
-     "proj_week": 10.14,
+     "proj_week": 10.13,
      "pct_owned": 99.57
     },
     {
@@ -1621,10 +1621,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 63.89,
+     "proj_total": 67.87,
      "pts_total": 12.0,
-     "proj_week": 4.56,
-     "pct_owned": 19.22
+     "proj_week": 4.85,
+     "pct_owned": 19.2
     },
     {
      "id": 4569559,
@@ -1635,10 +1635,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 83.27,
+     "proj_total": 84.61,
      "pts_total": 28.5,
-     "proj_week": 5.95,
-     "pct_owned": 68.3
+     "proj_week": 6.04,
+     "pct_owned": 68.27
     },
     {
      "id": 3046779,
@@ -1649,10 +1649,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 242.05,
+     "proj_total": 244.71,
      "pts_total": 63.0,
-     "proj_week": 17.29,
-     "pct_owned": 79.48
+     "proj_week": 17.48,
+     "pct_owned": 79.47
     },
     {
      "id": -16009,
@@ -1663,10 +1663,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 11,
-     "proj_total": 59.08,
+     "proj_total": 48.13,
      "pts_total": 5.0,
-     "proj_week": 3.48,
-     "pct_owned": 19.37
+     "proj_week": 2.83,
+     "pct_owned": 19.35
     }
    ]
   },
@@ -1690,9 +1690,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 217.16,
+     "proj_total": 215.98,
      "pts_total": 10.0,
-     "proj_week": 15.51,
+     "proj_week": 15.43,
      "pct_owned": 99.69
     },
     {
@@ -1704,9 +1704,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 216.24,
+     "proj_total": 209.43,
      "pts_total": 32.0,
-     "proj_week": 15.45,
+     "proj_week": 14.96,
      "pct_owned": 99.51
     },
     {
@@ -1718,9 +1718,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 184.83,
+     "proj_total": 187.52,
      "pts_total": 33.5,
-     "proj_week": 13.2,
+     "proj_week": 13.39,
      "pct_owned": 99.27
     },
     {
@@ -1732,10 +1732,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 152.82,
+     "proj_total": 132.41,
      "pts_total": 25.5,
-     "proj_week": 10.92,
-     "pct_owned": 97.52
+     "proj_week": 9.46,
+     "pct_owned": 97.51
     },
     {
      "id": 3916387,
@@ -1746,9 +1746,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 285.86,
+     "proj_total": 282.04,
      "pts_total": 58.0,
-     "proj_week": 20.42,
+     "proj_week": 20.15,
      "pct_owned": 99.87
     },
     {
@@ -1760,9 +1760,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 9,
-     "proj_total": 172.24,
+     "proj_total": 173.45,
      "pts_total": 32.0,
-     "proj_week": 12.3,
+     "proj_week": 12.39,
      "pct_owned": 89.02
     },
     {
@@ -1774,10 +1774,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 9,
-     "proj_total": 139.56,
+     "proj_total": 136.72,
      "pts_total": 16.5,
-     "proj_week": 9.97,
-     "pct_owned": 85.93
+     "proj_week": 9.77,
+     "pct_owned": 85.92
     },
     {
      "id": 4428331,
@@ -1788,9 +1788,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 5,
-     "proj_total": 169.19,
+     "proj_total": 168.48,
      "pts_total": 29.5,
-     "proj_week": 12.08,
+     "proj_week": 12.03,
      "pct_owned": 98.95
     },
     {
@@ -1802,10 +1802,10 @@
      "injury_status": "INJURY_RESERVE",
      "injured": true,
      "bye": 13,
-     "proj_total": 92.46,
+     "proj_total": 92.24,
      "pts_total": 9.5,
-     "proj_week": 9.25,
-     "pct_owned": 68.02
+     "proj_week": 9.22,
+     "pct_owned": 67.99
     },
     {
      "id": 3139477,
@@ -1816,9 +1816,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 5,
-     "proj_total": 254.92,
+     "proj_total": 258.64,
      "pts_total": 64.0,
-     "proj_week": 18.21,
+     "proj_week": 18.47,
      "pct_owned": 95.52
     },
     {
@@ -1830,10 +1830,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 121.03,
+     "proj_total": 112.27,
      "pts_total": 16.5,
-     "proj_week": 8.64,
-     "pct_owned": 82.09
+     "proj_week": 8.02,
+     "pct_owned": 82.08
     },
     {
      "id": 4697815,
@@ -1844,9 +1844,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 108.85,
+     "proj_total": 93.35,
      "pts_total": 23.5,
-     "proj_week": 7.77,
+     "proj_week": 6.67,
      "pct_owned": 67.49
     },
     {
@@ -1858,10 +1858,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 131.37,
+     "proj_total": 133.04,
      "pts_total": 20.4,
-     "proj_week": 9.38,
-     "pct_owned": 92.21
+     "proj_week": 9.5,
+     "pct_owned": 92.2
     },
     {
      "id": 3042519,
@@ -1872,10 +1872,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 144.07,
+     "proj_total": 144.44,
      "pts_total": 30.5,
-     "proj_week": 10.29,
-     "pct_owned": 86.15
+     "proj_week": 10.32,
+     "pct_owned": 86.14
     },
     {
      "id": -16012,
@@ -1886,10 +1886,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 5,
-     "proj_total": 81.55,
+     "proj_total": 91.25,
      "pts_total": 22.0,
-     "proj_week": 4.8,
-     "pct_owned": 66.57
+     "proj_week": 5.37,
+     "pct_owned": 66.56
     },
     {
      "id": 3929645,
@@ -1900,9 +1900,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 106.95,
+     "proj_total": 113.11,
      "pts_total": 39.5,
-     "proj_week": 7.64,
+     "proj_week": 8.08,
      "pct_owned": 55.21
     }
    ]
@@ -1927,9 +1927,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 249.86,
+     "proj_total": 251.28,
      "pts_total": 49.5,
-     "proj_week": 17.85,
+     "proj_week": 17.95,
      "pct_owned": 99.92
     },
     {
@@ -1941,9 +1941,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 266.6,
+     "proj_total": 253.46,
      "pts_total": 56.5,
-     "proj_week": 19.04,
+     "proj_week": 18.1,
      "pct_owned": 99.9
     },
     {
@@ -1955,10 +1955,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 183.16,
+     "proj_total": 185.0,
      "pts_total": 55.5,
-     "proj_week": 13.08,
-     "pct_owned": 99.63
+     "proj_week": 13.21,
+     "pct_owned": 99.62
     },
     {
      "id": 4429615,
@@ -1969,9 +1969,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 178.26,
+     "proj_total": 177.68,
      "pts_total": 36.0,
-     "proj_week": 13.71,
+     "proj_week": 12.69,
      "pct_owned": 98.46
     },
     {
@@ -1983,10 +1983,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 112.29,
+     "proj_total": 112.77,
      "pts_total": 0.5,
-     "proj_week": 8.02,
-     "pct_owned": 93.92
+     "proj_week": 8.06,
+     "pct_owned": 93.9
     },
     {
      "id": 3915416,
@@ -1997,10 +1997,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 155.17,
+     "proj_total": 153.91,
      "pts_total": 27.5,
-     "proj_week": 11.08,
-     "pct_owned": 95.16
+     "proj_week": 10.99,
+     "pct_owned": 95.15
     },
     {
      "id": 4038815,
@@ -2011,10 +2011,10 @@
      "injury_status": "OUT",
      "injured": true,
      "bye": 9,
-     "proj_total": 116.31,
+     "proj_total": 111.95,
      "pts_total": 7.0,
-     "proj_week": 8.95,
-     "pct_owned": 77.55
+     "proj_week": 8.61,
+     "pct_owned": 77.52
     },
     {
      "id": 4426338,
@@ -2025,10 +2025,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 235.11,
+     "proj_total": 229.72,
      "pts_total": 41.0,
-     "proj_week": 16.79,
-     "pct_owned": 78.76
+     "proj_week": 16.41,
+     "pct_owned": 78.75
     },
     {
      "id": 3040151,
@@ -2039,9 +2039,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 157.65,
+     "proj_total": 162.2,
      "pts_total": 41.0,
-     "proj_week": 11.26,
+     "proj_week": 11.59,
      "pct_owned": 95.73
     },
     {
@@ -2053,10 +2053,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 9,
-     "proj_total": 104.04,
+     "proj_total": 110.1,
      "pts_total": 8.5,
-     "proj_week": 7.43,
-     "pct_owned": 82.5
+     "proj_week": 7.86,
+     "pct_owned": 82.49
     },
     {
      "id": 4241416,
@@ -2067,10 +2067,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 5,
-     "proj_total": 184.06,
+     "proj_total": 185.45,
      "pts_total": 45.5,
-     "proj_week": 13.15,
-     "pct_owned": 91.94
+     "proj_week": 13.25,
+     "pct_owned": 91.92
     },
     {
      "id": 2577417,
@@ -2081,10 +2081,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 254.05,
+     "proj_total": 259.42,
      "pts_total": 61.0,
-     "proj_week": 18.15,
-     "pct_owned": 94.1
+     "proj_week": 18.53,
+     "pct_owned": 94.09
     },
     {
      "id": 4362081,
@@ -2095,10 +2095,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 123.89,
+     "proj_total": 120.87,
      "pts_total": 9.5,
-     "proj_week": 8.85,
-     "pct_owned": 85.93
+     "proj_week": 8.63,
+     "pct_owned": 85.92
     },
     {
      "id": 3116165,
@@ -2109,10 +2109,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 83.89,
+     "proj_total": 72.66,
      "pts_total": 16.0,
-     "proj_week": 5.99,
-     "pct_owned": 69.56
+     "proj_week": 5.19,
+     "pct_owned": 69.55
     },
     {
      "id": 4428850,
@@ -2123,10 +2123,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 106.94,
+     "proj_total": 108.98,
      "pts_total": 23.5,
-     "proj_week": 7.64,
-     "pct_owned": 49.38
+     "proj_week": 7.78,
+     "pct_owned": 49.53
     },
     {
      "id": -16021,
@@ -2137,10 +2137,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 10,
-     "proj_total": 97.57,
+     "proj_total": 87.49,
      "pts_total": 9.0,
-     "proj_week": 5.74,
-     "pct_owned": 87.49
+     "proj_week": 5.15,
+     "pct_owned": 87.48
     }
    ]
   },
@@ -2164,9 +2164,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 166.35,
+     "proj_total": 162.13,
      "pts_total": 19.5,
-     "proj_week": 11.88,
+     "proj_week": 11.58,
      "pct_owned": 95.14
     },
     {
@@ -2178,9 +2178,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 173.32,
+     "proj_total": 174.5,
      "pts_total": 28.5,
-     "proj_week": 12.38,
+     "proj_week": 12.46,
      "pct_owned": 99.31
     },
     {
@@ -2192,9 +2192,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 172.53,
+     "proj_total": 176.49,
      "pts_total": 55.0,
-     "proj_week": 12.32,
+     "proj_week": 12.61,
      "pct_owned": 98.93
     },
     {
@@ -2206,9 +2206,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 174.63,
+     "proj_total": 175.86,
      "pts_total": 45.5,
-     "proj_week": 12.47,
+     "proj_week": 12.56,
      "pct_owned": 98.41
     },
     {
@@ -2220,10 +2220,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 5,
-     "proj_total": 113.77,
+     "proj_total": 115.25,
      "pts_total": 16.0,
-     "proj_week": 8.13,
-     "pct_owned": 76.6
+     "proj_week": 8.23,
+     "pct_owned": 76.59
     },
     {
      "id": 4040715,
@@ -2234,10 +2234,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 266.81,
+     "proj_total": 270.71,
      "pts_total": 39.0,
-     "proj_week": 19.06,
-     "pct_owned": 98.83
+     "proj_week": 19.34,
+     "pct_owned": 98.82
     },
     {
      "id": 5083076,
@@ -2248,10 +2248,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 112.94,
+     "proj_total": 126.62,
      "pts_total": 31.0,
-     "proj_week": 8.07,
-     "pct_owned": 88.94
+     "proj_week": 9.04,
+     "pct_owned": 88.93
     },
     {
      "id": 4239996,
@@ -2259,13 +2259,13 @@
      "pos": "RB",
      "nfl_team": "NO",
      "slot": "RB",
-     "injury_status": "QUESTIONABLE",
-     "injured": false,
+     "injury_status": "OUT",
+     "injured": true,
      "bye": 8,
-     "proj_total": 162.73,
+     "proj_total": 136.21,
      "pts_total": 22.5,
-     "proj_week": 11.62,
-     "pct_owned": 96.43
+     "proj_week": 11.35,
+     "pct_owned": 96.42
     },
     {
      "id": 5082424,
@@ -2276,9 +2276,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 110.68,
+     "proj_total": 113.07,
      "pts_total": 25.1,
-     "proj_week": 7.91,
+     "proj_week": 8.08,
      "pct_owned": 1.87
     },
     {
@@ -2290,10 +2290,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 137.73,
+     "proj_total": 154.81,
      "pts_total": 37.5,
-     "proj_week": 9.84,
-     "pct_owned": 84.28
+     "proj_week": 11.06,
+     "pct_owned": 84.27
     },
     {
      "id": 4685415,
@@ -2304,10 +2304,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 8.12,
+     "proj_total": 8.44,
      "pts_total": 0.5,
-     "proj_week": 0.58,
-     "pct_owned": 44.23
+     "proj_week": 0.6,
+     "pct_owned": 44.2
     },
     {
      "id": -16008,
@@ -2318,9 +2318,9 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 6,
-     "proj_total": 63.69,
+     "proj_total": 61.81,
      "pts_total": 8.0,
-     "proj_week": 3.75,
+     "proj_week": 3.64,
      "pct_owned": 49.41
     },
     {
@@ -2332,10 +2332,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 94.63,
+     "proj_total": 97.27,
      "pts_total": 16.5,
-     "proj_week": 6.76,
-     "pct_owned": 52.24
+     "proj_week": 6.95,
+     "pct_owned": 52.23
     },
     {
      "id": 4870795,
@@ -2346,10 +2346,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 64.75,
+     "proj_total": 65.04,
      "pts_total": 3.0,
-     "proj_week": 4.63,
-     "pct_owned": 52.63
+     "proj_week": 4.65,
+     "pct_owned": 52.56
     },
     {
      "id": 4360689,
@@ -2360,10 +2360,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 257.29,
+     "proj_total": 259.7,
      "pts_total": 67.0,
-     "proj_week": 18.38,
-     "pct_owned": 81.93
+     "proj_week": 18.55,
+     "pct_owned": 81.94
     },
     {
      "id": 4428557,
@@ -2374,10 +2374,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 9,
-     "proj_total": 94.2,
+     "proj_total": 98.32,
      "pts_total": 10.0,
-     "proj_week": 6.73,
-     "pct_owned": 47.55
+     "proj_week": 7.02,
+     "pct_owned": 47.54
     }
    ]
   }
@@ -2424,9 +2424,9 @@
    "injury_status": [],
    "injured": false,
    "bye": 8,
-   "proj_total": 101.27,
+   "proj_total": 99.17,
    "pts_total": 13.0,
-   "proj_week": 5.96,
+   "proj_week": 5.83,
    "pct_owned": 92.49
   },
   {
@@ -2438,9 +2438,9 @@
    "injury_status": [],
    "injured": false,
    "bye": 11,
-   "proj_total": 106.58,
+   "proj_total": 97.59,
    "pts_total": 17.0,
-   "proj_week": 6.27,
+   "proj_week": 5.74,
    "pct_owned": 84.91
   },
   {
@@ -2452,10 +2452,10 @@
    "injury_status": [],
    "injured": false,
    "bye": 8,
-   "proj_total": 75.15,
+   "proj_total": 82.83,
    "pts_total": 18.0,
-   "proj_week": 4.42,
-   "pct_owned": 75.47
+   "proj_week": 4.87,
+   "pct_owned": 75.44
   },
   {
    "id": -16033,
@@ -2466,10 +2466,10 @@
    "injury_status": [],
    "injured": false,
    "bye": 13,
-   "proj_total": 101.1,
+   "proj_total": 93.45,
    "pts_total": 14.0,
-   "proj_week": 5.95,
-   "pct_owned": 73.17
+   "proj_week": 5.5,
+   "pct_owned": 73.14
   },
   {
    "id": 4429205,
@@ -2480,10 +2480,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 6,
-   "proj_total": 136.91,
+   "proj_total": 128.78,
    "pts_total": 20.5,
-   "proj_week": 9.78,
-   "pct_owned": 70.7
+   "proj_week": 9.2,
+   "pct_owned": 70.69
   },
   {
    "id": 3117256,
@@ -2494,10 +2494,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 94.19,
+   "proj_total": 91.8,
    "pts_total": 29.5,
-   "proj_week": 6.73,
-   "pct_owned": 67.46
+   "proj_week": 6.56,
+   "pct_owned": 67.47
   },
   {
    "id": 4361432,
@@ -2508,10 +2508,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 94.3,
+   "proj_total": 89.97,
    "pts_total": 16.0,
-   "proj_week": 6.74,
-   "pct_owned": 65.25
+   "proj_week": 6.43,
+   "pct_owned": 65.24
   },
   {
    "id": 4569587,
@@ -2522,10 +2522,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 9,
-   "proj_total": 98.22,
+   "proj_total": 99.21,
    "pts_total": 20.5,
-   "proj_week": 7.02,
-   "pct_owned": 64.41
+   "proj_week": 7.09,
+   "pct_owned": 64.4
   },
   {
    "id": 4036133,
@@ -2536,10 +2536,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 6,
-   "proj_total": 88.02,
+   "proj_total": 83.23,
    "pts_total": 16.5,
-   "proj_week": 6.29,
-   "pct_owned": 60.88
+   "proj_week": 5.95,
+   "pct_owned": 60.83
   },
   {
    "id": 4678008,
@@ -2553,7 +2553,7 @@
    "proj_total": 0.0,
    "pts_total": 7.0,
    "proj_week": 0.0,
-   "pct_owned": 57.32
+   "pct_owned": 57.3
   },
   {
    "id": 4697745,
@@ -2564,9 +2564,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 120.93,
+   "proj_total": 123.62,
    "pts_total": 32.4,
-   "proj_week": 8.64,
+   "proj_week": 8.83,
    "pct_owned": 54.01
   },
   {
@@ -2578,10 +2578,10 @@
    "injury_status": "OUT",
    "injured": true,
    "bye": 11,
-   "proj_total": 132.54,
+   "proj_total": 131.69,
    "pts_total": 0.0,
-   "proj_week": 12.05,
-   "pct_owned": 50.53
+   "proj_week": 11.97,
+   "pct_owned": 50.51
   },
   {
    "id": 4689114,
@@ -2595,7 +2595,7 @@
    "proj_total": 0.0,
    "pts_total": 26.0,
    "proj_week": 0.0,
-   "pct_owned": 44.92
+   "pct_owned": 44.88
   },
   {
    "id": 4696044,
@@ -2606,10 +2606,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 72.13,
+   "proj_total": 71.33,
    "pts_total": 9.5,
-   "proj_week": 5.15,
-   "pct_owned": 43.85
+   "proj_week": 5.09,
+   "pct_owned": 43.81
   },
   {
    "id": 4360234,
@@ -2620,10 +2620,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 6,
-   "proj_total": 119.32,
+   "proj_total": 120.81,
    "pts_total": 44.1,
-   "proj_week": 8.52,
-   "pct_owned": 42.22
+   "proj_week": 8.63,
+   "pct_owned": 42.23
   },
   {
    "id": 4032473,
@@ -2634,10 +2634,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 97.7,
+   "proj_total": 97.17,
    "pts_total": 7.0,
-   "proj_week": 6.98,
-   "pct_owned": 40.87
+   "proj_week": 6.94,
+   "pct_owned": 40.86
   },
   {
    "id": 4432577,
@@ -2648,10 +2648,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 216.67,
+   "proj_total": 214.31,
    "pts_total": 42.0,
-   "proj_week": 15.48,
-   "pct_owned": 39.27
+   "proj_week": 15.31,
+   "pct_owned": 39.26
   },
   {
    "id": 4570037,
@@ -2662,10 +2662,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 95.9,
+   "proj_total": 87.91,
    "pts_total": 14.5,
-   "proj_week": 6.85,
-   "pct_owned": 34.95
+   "proj_week": 6.28,
+   "pct_owned": 35.02
   },
   {
    "id": 4360939,
@@ -2676,10 +2676,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 93.0,
+   "proj_total": 91.83,
    "pts_total": 21.5,
-   "proj_week": 6.64,
-   "pct_owned": 34.81
+   "proj_week": 6.56,
+   "pct_owned": 34.82
   },
   {
    "id": 4887558,
@@ -2690,10 +2690,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 25.24,
+   "proj_total": 25.09,
    "pts_total": 10.0,
-   "proj_week": 8.41,
-   "pct_owned": 34.6
+   "proj_week": 8.36,
+   "pct_owned": 34.56
   },
   {
    "id": 3912547,
@@ -2704,10 +2704,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 210.66,
+   "proj_total": 214.75,
    "pts_total": 27.0,
-   "proj_week": 15.05,
-   "pct_owned": 33.91
+   "proj_week": 15.34,
+   "pct_owned": 33.95
   },
   {
    "id": 4597500,
@@ -2718,10 +2718,10 @@
    "injury_status": "OUT",
    "injured": true,
    "bye": 13,
-   "proj_total": 122.4,
+   "proj_total": 122.65,
    "pts_total": 16.5,
-   "proj_week": 9.42,
-   "pct_owned": 33.89
+   "proj_week": 9.43,
+   "pct_owned": 33.86
   },
   {
    "id": 4880281,
@@ -2732,10 +2732,10 @@
    "injury_status": "INJURY_RESERVE",
    "injured": true,
    "bye": 8,
-   "proj_total": 85.35,
+   "proj_total": 86.9,
    "pts_total": 0.0,
-   "proj_week": 8.53,
-   "pct_owned": 33.59
+   "proj_week": 8.69,
+   "pct_owned": 33.55
   },
   {
    "id": 5083315,
@@ -2746,10 +2746,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 95.66,
+   "proj_total": 101.22,
    "pts_total": 31.0,
-   "proj_week": 6.83,
-   "pct_owned": 33.49
+   "proj_week": 7.23,
+   "pct_owned": 33.48
   },
   {
    "id": 4702555,
@@ -2760,10 +2760,10 @@
    "injury_status": "INJURY_RESERVE",
    "injured": true,
    "bye": 10,
-   "proj_total": 15.69,
+   "proj_total": 0.0,
    "pts_total": 11.5,
-   "proj_week": 1.43,
-   "pct_owned": 33.09
+   "proj_week": 0.0,
+   "pct_owned": 32.96
   },
   {
    "id": 4373626,
@@ -2774,10 +2774,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 14,
-   "proj_total": 90.86,
+   "proj_total": 92.19,
    "pts_total": 12.0,
-   "proj_week": 6.49,
-   "pct_owned": 32.89
+   "proj_week": 6.59,
+   "pct_owned": 32.86
   },
   {
    "id": 4710714,
@@ -2802,10 +2802,10 @@
    "injury_status": [],
    "injured": false,
    "bye": 11,
-   "proj_total": 73.93,
+   "proj_total": 72.79,
    "pts_total": 8.0,
-   "proj_week": 4.35,
-   "pct_owned": 32.43
+   "proj_week": 4.28,
+   "pct_owned": 32.44
   },
   {
    "id": 17372,
@@ -2816,10 +2816,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 9,
-   "proj_total": 114.71,
+   "proj_total": 116.56,
    "pts_total": 25.0,
-   "proj_week": 8.19,
-   "pct_owned": 30.87
+   "proj_week": 8.33,
+   "pct_owned": 30.85
   },
   {
    "id": 17427,
@@ -2830,10 +2830,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 10,
-   "proj_total": 113.93,
+   "proj_total": 115.02,
    "pts_total": 15.0,
-   "proj_week": 8.14,
-   "pct_owned": 30.4
+   "proj_week": 8.22,
+   "pct_owned": 30.35
   },
   {
    "id": 4869461,
@@ -2844,10 +2844,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 120.14,
+   "proj_total": 120.26,
    "pts_total": 20.8,
-   "proj_week": 8.58,
-   "pct_owned": 29.78
+   "proj_week": 8.59,
+   "pct_owned": 29.75
   },
   {
    "id": 4366031,
@@ -2861,7 +2861,7 @@
    "proj_total": 0.0,
    "pts_total": 0.0,
    "proj_week": 0.0,
-   "pct_owned": 29.01
+   "pct_owned": 28.99
   },
   {
    "id": 4567104,
@@ -2872,10 +2872,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 6,
-   "proj_total": 122.95,
+   "proj_total": 123.55,
    "pts_total": 37.4,
-   "proj_week": 8.78,
-   "pct_owned": 28.68
+   "proj_week": 8.82,
+   "pct_owned": 28.67
   },
   {
    "id": 3150744,
@@ -2886,9 +2886,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 10,
-   "proj_total": 119.53,
+   "proj_total": 115.19,
    "pts_total": 42.1,
-   "proj_week": 8.54,
+   "proj_week": 8.23,
    "pct_owned": 27.47
   },
   {
@@ -2903,7 +2903,7 @@
    "proj_total": 0.0,
    "pts_total": 0.0,
    "proj_week": 0.0,
-   "pct_owned": 25.31
+   "pct_owned": 25.28
   },
   {
    "id": -16027,
@@ -2914,10 +2914,10 @@
    "injury_status": [],
    "injured": false,
    "bye": 10,
-   "proj_total": 61.91,
+   "proj_total": 66.72,
    "pts_total": 19.0,
-   "proj_week": 3.64,
-   "pct_owned": 25.3
+   "proj_week": 3.92,
+   "pct_owned": 25.23
   },
   {
    "id": -16030,
@@ -2928,10 +2928,10 @@
    "injury_status": [],
    "injured": false,
    "bye": 7,
-   "proj_total": 77.79,
+   "proj_total": 90.62,
    "pts_total": 28.0,
-   "proj_week": 4.58,
-   "pct_owned": 25.22
+   "proj_week": 5.33,
+   "pct_owned": 25.21
   },
   {
    "id": 3917792,
@@ -2942,10 +2942,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 205.88,
+   "proj_total": 196.0,
    "pts_total": 26.0,
-   "proj_week": 14.71,
-   "pct_owned": 24.88
+   "proj_week": 14.0,
+   "pct_owned": 24.86
   },
   {
    "id": 4869645,
@@ -2956,10 +2956,10 @@
    "injury_status": "OUT",
    "injured": true,
    "bye": 6,
-   "proj_total": 93.31,
+   "proj_total": 95.77,
    "pts_total": 13.5,
-   "proj_week": 7.18,
-   "pct_owned": 24.25
+   "proj_week": 7.37,
+   "pct_owned": 24.2
   },
   {
    "id": 15818,
@@ -2970,9 +2970,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 99.85,
+   "proj_total": 100.92,
    "pts_total": 21.5,
-   "proj_week": 7.13,
+   "proj_week": 7.21,
    "pct_owned": 23.74
   },
   {
@@ -2984,10 +2984,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 5,
-   "proj_total": 62.16,
+   "proj_total": 62.06,
    "pts_total": 12.0,
-   "proj_week": 4.44,
-   "pct_owned": 23.5
+   "proj_week": 4.43,
+   "pct_owned": 23.51
   },
   {
    "id": 4429013,
@@ -2998,10 +2998,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 10,
-   "proj_total": 43.87,
+   "proj_total": 43.26,
    "pts_total": 10.0,
-   "proj_week": 3.13,
-   "pct_owned": 22.95
+   "proj_week": 3.09,
+   "pct_owned": 22.89
   },
   {
    "id": 4686658,
@@ -3012,10 +3012,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 42.69,
+   "proj_total": 42.17,
    "pts_total": 15.0,
-   "proj_week": 3.05,
-   "pct_owned": 22.16
+   "proj_week": 3.01,
+   "pct_owned": 22.13
   },
   {
    "id": 4430834,
@@ -3026,10 +3026,10 @@
    "injury_status": "QUESTIONABLE",
    "injured": false,
    "bye": 10,
-   "proj_total": 48.72,
+   "proj_total": 39.47,
    "pts_total": 0.0,
-   "proj_week": 3.48,
-   "pct_owned": 21.91
+   "proj_week": 2.82,
+   "pct_owned": 21.9
   },
   {
    "id": 4361411,
@@ -3040,10 +3040,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 9,
-   "proj_total": 84.11,
+   "proj_total": 88.56,
    "pts_total": 21.5,
-   "proj_week": 6.01,
-   "pct_owned": 21.72
+   "proj_week": 6.33,
+   "pct_owned": 21.7
   },
   {
    "id": 4241474,
@@ -3054,10 +3054,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 75.42,
+   "proj_total": 78.19,
    "pts_total": 21.0,
-   "proj_week": 5.39,
-   "pct_owned": 21.6
+   "proj_week": 5.59,
+   "pct_owned": 21.58
   },
   {
    "id": -16024,
@@ -3068,10 +3068,10 @@
    "injury_status": [],
    "injured": false,
    "bye": 7,
-   "proj_total": 59.07,
+   "proj_total": 55.65,
    "pts_total": 17.0,
-   "proj_week": 3.47,
-   "pct_owned": 21.07
+   "proj_week": 3.27,
+   "pct_owned": 21.04
   },
   {
    "id": 4430539,
@@ -3082,10 +3082,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 7,
-   "proj_total": 90.12,
+   "proj_total": 90.13,
    "pts_total": 15.5,
    "proj_week": 6.44,
-   "pct_owned": 17.99
+   "pct_owned": 17.97
   },
   {
    "id": 4241463,
@@ -3096,10 +3096,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 51.81,
+   "proj_total": 53.63,
    "pts_total": 3.0,
-   "proj_week": 3.7,
-   "pct_owned": 17.51
+   "proj_week": 3.83,
+   "pct_owned": 17.49
   },
   {
    "id": 4429086,
@@ -3110,10 +3110,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 60.12,
+   "proj_total": 61.38,
    "pts_total": 20.0,
-   "proj_week": 4.29,
-   "pct_owned": 15.96
+   "proj_week": 4.38,
+   "pct_owned": 15.92
   },
   {
    "id": 4595342,
@@ -3124,10 +3124,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 7,
-   "proj_total": 78.7,
+   "proj_total": 71.28,
    "pts_total": 12.0,
-   "proj_week": 5.62,
-   "pct_owned": 15.8
+   "proj_week": 5.09,
+   "pct_owned": 15.79
   },
   {
    "id": 4596334,
@@ -3138,10 +3138,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 7,
-   "proj_total": 66.85,
+   "proj_total": 64.35,
    "pts_total": 16.0,
-   "proj_week": 4.77,
-   "pct_owned": 15.58
+   "proj_week": 4.6,
+   "pct_owned": 15.57
   },
   {
    "id": 3925357,
@@ -3152,10 +3152,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 9,
-   "proj_total": 28.76,
+   "proj_total": 27.31,
    "pts_total": 4.0,
-   "proj_week": 2.05,
-   "pct_owned": 14.71
+   "proj_week": 1.95,
+   "pct_owned": 14.69
   },
   {
    "id": -16019,
@@ -3166,10 +3166,10 @@
    "injury_status": [],
    "injured": false,
    "bye": 8,
-   "proj_total": 54.4,
+   "proj_total": 47.32,
    "pts_total": 12.0,
-   "proj_week": 3.2,
-   "pct_owned": 14.63
+   "proj_week": 2.78,
+   "pct_owned": 14.65
   },
   {
    "id": 3149687,
@@ -3180,10 +3180,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 39.15,
+   "proj_total": 34.91,
    "pts_total": 5.0,
-   "proj_week": 2.8,
-   "pct_owned": 14.57
+   "proj_week": 2.49,
+   "pct_owned": 14.55
   },
   {
    "id": 4242512,
@@ -3194,10 +3194,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 6,
-   "proj_total": 204.21,
+   "proj_total": 196.21,
    "pts_total": 35.0,
-   "proj_week": 14.59,
-   "pct_owned": 14.28
+   "proj_week": 14.01,
+   "pct_owned": 14.26
   },
   {
    "id": 4685247,
@@ -3208,10 +3208,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 79.1,
+   "proj_total": 86.12,
    "pts_total": 13.0,
-   "proj_week": 5.65,
-   "pct_owned": 13.97
+   "proj_week": 6.15,
+   "pct_owned": 13.96
   },
   {
    "id": 4569603,
@@ -3222,10 +3222,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 6,
-   "proj_total": 116.4,
+   "proj_total": 124.34,
    "pts_total": 18.0,
-   "proj_week": 8.31,
-   "pct_owned": 13.36
+   "proj_week": 8.88,
+   "pct_owned": 13.37
   },
   {
    "id": 4429022,
@@ -3236,10 +3236,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 56.37,
+   "proj_total": 55.13,
    "pts_total": 10.0,
-   "proj_week": 4.03,
-   "pct_owned": 12.35
+   "proj_week": 3.94,
+   "pct_owned": 12.34
   },
   {
    "id": 3917232,
@@ -3250,9 +3250,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 7,
-   "proj_total": 116.93,
+   "proj_total": 118.05,
    "pts_total": 24.1,
-   "proj_week": 8.35,
+   "proj_week": 8.43,
    "pct_owned": 12.03
   },
   {
@@ -3267,7 +3267,7 @@
    "proj_total": 0.0,
    "pts_total": 0.0,
    "proj_week": 0.0,
-   "pct_owned": 10.89
+   "pct_owned": 10.87
   },
   {
    "id": 2977187,
@@ -3278,9 +3278,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 70.94,
+   "proj_total": 73.54,
    "pts_total": 19.0,
-   "proj_week": 5.07,
+   "proj_week": 5.25,
    "pct_owned": 10.53
   },
   {
@@ -3292,9 +3292,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 5,
-   "proj_total": 69.26,
+   "proj_total": 69.93,
    "pts_total": 27.0,
-   "proj_week": 4.95,
+   "proj_week": 5.0,
    "pct_owned": 10.44
   },
   {
@@ -3306,10 +3306,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 86.1,
+   "proj_total": 84.68,
    "pts_total": 9.0,
-   "proj_week": 6.15,
-   "pct_owned": 10.33
+   "proj_week": 6.05,
+   "pct_owned": 10.31
   },
   {
    "id": 14880,
@@ -3320,9 +3320,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 81.28,
+   "proj_total": 82.49,
    "pts_total": 55.0,
-   "proj_week": 13.55,
+   "proj_week": 13.75,
    "pct_owned": 10.22
   },
   {
@@ -3334,9 +3334,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 10,
-   "proj_total": 82.34,
+   "proj_total": 82.58,
    "pts_total": 18.5,
-   "proj_week": 5.88,
+   "proj_week": 5.9,
    "pct_owned": 10.16
   },
   {
@@ -3351,7 +3351,7 @@
    "proj_total": 0.0,
    "pts_total": 1.5,
    "proj_week": 0.0,
-   "pct_owned": 9.83
+   "pct_owned": 9.82
   },
   {
    "id": 4040761,
@@ -3359,13 +3359,13 @@
    "pos": "RB",
    "nfl_team": "NYG",
    "slot": "",
-   "injury_status": "OUT",
-   "injured": true,
+   "injury_status": "ACTIVE",
+   "injured": false,
    "bye": 8,
    "proj_total": 0.0,
    "pts_total": 11.0,
    "proj_week": 0.0,
-   "pct_owned": 9.17
+   "pct_owned": 9.15
   },
   {
    "id": 3116389,
@@ -3376,10 +3376,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 6,
-   "proj_total": 63.11,
+   "proj_total": 61.81,
    "pts_total": 8.5,
-   "proj_week": 4.51,
-   "pct_owned": 8.83
+   "proj_week": 4.42,
+   "pct_owned": 8.82
   },
   {
    "id": 4819231,
@@ -3390,10 +3390,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 60.05,
+   "proj_total": 50.79,
    "pts_total": 4.5,
-   "proj_week": 4.29,
-   "pct_owned": 8.67
+   "proj_week": 3.63,
+   "pct_owned": 8.66
   },
   {
    "id": 5081432,
@@ -3404,10 +3404,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 7,
-   "proj_total": 65.52,
+   "proj_total": 60.95,
    "pts_total": 19.5,
-   "proj_week": 4.68,
-   "pct_owned": 8.66
+   "proj_week": 4.35,
+   "pct_owned": 8.64
   },
   {
    "id": 3116164,
@@ -3418,10 +3418,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 6,
-   "proj_total": 77.86,
+   "proj_total": 82.92,
    "pts_total": 26.0,
-   "proj_week": 5.56,
-   "pct_owned": 8.56
+   "proj_week": 5.92,
+   "pct_owned": 8.55
   },
   {
    "id": -16002,
@@ -3432,10 +3432,10 @@
    "injury_status": [],
    "injured": false,
    "bye": 7,
-   "proj_total": 59.27,
+   "proj_total": 64.74,
    "pts_total": 12.0,
-   "proj_week": 3.49,
-   "pct_owned": 8.34
+   "proj_week": 3.81,
+   "pct_owned": 8.35
   },
   {
    "id": 3050478,
@@ -3446,10 +3446,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 10,
-   "proj_total": 111.12,
+   "proj_total": 113.15,
    "pts_total": 15.3,
-   "proj_week": 7.94,
-   "pct_owned": 8.13
+   "proj_week": 8.08,
+   "pct_owned": 8.15
   },
   {
    "id": 4382466,
@@ -3460,10 +3460,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 76.99,
+   "proj_total": 76.98,
    "pts_total": 5.5,
    "proj_week": 5.5,
-   "pct_owned": 8.01
+   "pct_owned": 8.0
   },
   {
    "id": 4688380,
@@ -3474,10 +3474,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 9,
-   "proj_total": 186.98,
+   "proj_total": 187.15,
    "pts_total": 39.0,
-   "proj_week": 13.36,
-   "pct_owned": 7.76
+   "proj_week": 13.37,
+   "pct_owned": 7.75
   },
   {
    "id": 3122840,
@@ -3488,10 +3488,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 208.03,
+   "proj_total": 213.98,
    "pts_total": 51.0,
-   "proj_week": 14.86,
-   "pct_owned": 7.74
+   "proj_week": 15.28,
+   "pct_owned": 7.73
   },
   {
    "id": -16003,
@@ -3502,24 +3502,10 @@
    "injury_status": [],
    "injured": false,
    "bye": 10,
-   "proj_total": 53.03,
+   "proj_total": 57.98,
    "pts_total": 10.0,
-   "proj_week": 3.12,
-   "pct_owned": 7.65
-  },
-  {
-   "id": 15864,
-   "name": "Geno Smith",
-   "pos": "QB",
-   "nfl_team": "NYJ",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 13,
-   "proj_total": 209.02,
-   "pts_total": 47.0,
-   "proj_week": 14.93,
-   "pct_owned": 7.1
+   "proj_week": 3.41,
+   "pct_owned": 7.64
   },
   {
    "id": 4686422,
@@ -3530,10 +3516,24 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 85.73,
+   "proj_total": 82.44,
    "pts_total": 15.5,
-   "proj_week": 6.12,
-   "pct_owned": 7.08
+   "proj_week": 5.89,
+   "pct_owned": 7.11
+  },
+  {
+   "id": 15864,
+   "name": "Geno Smith",
+   "pos": "QB",
+   "nfl_team": "NYJ",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 13,
+   "proj_total": 215.16,
+   "pts_total": 47.0,
+   "proj_week": 15.37,
+   "pct_owned": 7.1
   },
   {
    "id": -16006,
@@ -3544,10 +3544,10 @@
    "injury_status": [],
    "injured": false,
    "bye": 14,
-   "proj_total": 69.2,
+   "proj_total": 52.66,
    "pts_total": 1.0,
-   "proj_week": 4.07,
-   "pct_owned": 6.87
+   "proj_week": 3.1,
+   "pct_owned": 6.86
   },
   {
    "id": 4571557,
@@ -3558,10 +3558,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 120.93,
+   "proj_total": 120.87,
    "pts_total": 42.4,
-   "proj_week": 8.64,
-   "pct_owned": 6.45
+   "proj_week": 8.63,
+   "pct_owned": 6.47
   },
   {
    "id": 4429501,
@@ -3572,52 +3572,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 7,
-   "proj_total": 17.86,
+   "proj_total": 17.95,
    "pts_total": 0.0,
    "proj_week": 1.28,
-   "pct_owned": 6.38
-  },
-  {
-   "id": -16018,
-   "name": "Saints D/ST",
-   "pos": "D/ST",
-   "nfl_team": "NO",
-   "slot": "",
-   "injury_status": [],
-   "injured": false,
-   "bye": 8,
-   "proj_total": 74.5,
-   "pts_total": 11.0,
-   "proj_week": 4.38,
-   "pct_owned": 6.18
-  },
-  {
-   "id": 4635008,
-   "name": "Keon Coleman",
-   "pos": "WR",
-   "nfl_team": "BUF",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 7,
-   "proj_total": 72.42,
-   "pts_total": 13.0,
-   "proj_week": 5.17,
-   "pct_owned": 6.08
-  },
-  {
-   "id": 4241457,
-   "name": "Najee Harris",
-   "pos": "RB",
-   "nfl_team": "NYG",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 8,
-   "proj_total": 72.47,
-   "pts_total": 5.0,
-   "proj_week": 5.18,
-   "pct_owned": 6.04
+   "pct_owned": 6.37
   },
   {
    "id": 3116406,
@@ -3631,7 +3589,49 @@
    "proj_total": 0,
    "pts_total": 0.0,
    "proj_week": 0,
-   "pct_owned": 6.04
+   "pct_owned": 6.34
+  },
+  {
+   "id": -16018,
+   "name": "Saints D/ST",
+   "pos": "D/ST",
+   "nfl_team": "NO",
+   "slot": "",
+   "injury_status": [],
+   "injured": false,
+   "bye": 8,
+   "proj_total": 64.93,
+   "pts_total": 11.0,
+   "proj_week": 3.82,
+   "pct_owned": 6.18
+  },
+  {
+   "id": 4635008,
+   "name": "Keon Coleman",
+   "pos": "WR",
+   "nfl_team": "BUF",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 7,
+   "proj_total": 71.7,
+   "pts_total": 13.0,
+   "proj_week": 5.12,
+   "pct_owned": 6.07
+  },
+  {
+   "id": 4241457,
+   "name": "Najee Harris",
+   "pos": "RB",
+   "nfl_team": "NYG",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 8,
+   "proj_total": 72.63,
+   "pts_total": 5.0,
+   "proj_week": 5.19,
+   "pct_owned": 6.03
   },
   {
    "id": 8439,
@@ -3642,9 +3642,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 9,
-   "proj_total": 190.13,
+   "proj_total": 197.88,
    "pts_total": 37.0,
-   "proj_week": 13.58,
+   "proj_week": 14.13,
    "pct_owned": 5.89
   },
   {
@@ -3656,10 +3656,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 39.79,
+   "proj_total": 38.17,
    "pts_total": 12.5,
-   "proj_week": 2.84,
-   "pct_owned": 5.81
+   "proj_week": 2.73,
+   "pct_owned": 5.8
   },
   {
    "id": 3051909,
@@ -3670,10 +3670,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 120.83,
+   "proj_total": 121.39,
    "pts_total": 18.9,
-   "proj_week": 8.63,
-   "pct_owned": 5.73
+   "proj_week": 8.67,
+   "pct_owned": 5.74
   },
   {
    "id": 2991662,
@@ -3684,9 +3684,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 71.97,
+   "proj_total": 69.36,
    "pts_total": 20.0,
-   "proj_week": 5.14,
+   "proj_week": 4.95,
    "pct_owned": 5.35
   },
   {
@@ -3698,10 +3698,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 10,
-   "proj_total": 110.79,
+   "proj_total": 105.55,
    "pts_total": 12.6,
-   "proj_week": 7.91,
-   "pct_owned": 5.35
+   "proj_week": 7.54,
+   "pct_owned": 5.34
   },
   {
    "id": 4837248,
@@ -3712,9 +3712,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 121.41,
+   "proj_total": 124.24,
    "pts_total": 0.0,
-   "proj_week": 15.18,
+   "proj_week": 15.53,
    "pct_owned": 5.1
   },
   {
@@ -3726,10 +3726,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 6,
-   "proj_total": 63.75,
+   "proj_total": 58.57,
    "pts_total": 0.5,
-   "proj_week": 4.55,
-   "pct_owned": 4.98
+   "proj_week": 4.18,
+   "pct_owned": 4.97
   },
   {
    "id": 4576297,
@@ -3740,9 +3740,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 85.21,
+   "proj_total": 91.12,
    "pts_total": 17.0,
-   "proj_week": 6.09,
+   "proj_week": 6.51,
    "pct_owned": 4.96
   },
   {
@@ -3754,9 +3754,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 10,
-   "proj_total": 65.16,
+   "proj_total": 55.86,
    "pts_total": 13.5,
-   "proj_week": 4.65,
+   "proj_week": 3.99,
    "pct_owned": 4.94
   },
   {
@@ -3768,10 +3768,10 @@
    "injury_status": [],
    "injured": false,
    "bye": 13,
-   "proj_total": 66.28,
+   "proj_total": 69.67,
    "pts_total": 37.0,
-   "proj_week": 3.9,
-   "pct_owned": 4.8
+   "proj_week": 4.1,
+   "pct_owned": 4.81
   },
   {
    "id": 2578570,
@@ -3782,10 +3782,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 14,
-   "proj_total": 203.49,
+   "proj_total": 214.39,
    "pts_total": 46.0,
-   "proj_week": 14.54,
-   "pct_owned": 4.55
+   "proj_week": 15.31,
+   "pct_owned": 4.54
   },
   {
    "id": 4360423,
@@ -3796,10 +3796,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 209.2,
+   "proj_total": 199.16,
    "pts_total": 14.0,
-   "proj_week": 14.94,
-   "pct_owned": 4.21
+   "proj_week": 14.23,
+   "pct_owned": 4.2
   },
   {
    "id": 4360635,
@@ -3810,10 +3810,10 @@
    "injury_status": "OUT",
    "injured": true,
    "bye": 7,
-   "proj_total": 67.71,
+   "proj_total": 68.31,
    "pts_total": 2.0,
-   "proj_week": 5.21,
-   "pct_owned": 4.16
+   "proj_week": 5.25,
+   "pct_owned": 4.15
   },
   {
    "id": 5081508,
@@ -3821,13 +3821,13 @@
    "pos": "RB",
    "nfl_team": "PIT",
    "slot": "",
-   "injury_status": "OUT",
-   "injured": true,
+   "injury_status": "ACTIVE",
+   "injured": false,
    "bye": 9,
-   "proj_total": 0.34,
+   "proj_total": 0.33,
    "pts_total": 0.0,
    "proj_week": 0.03,
-   "pct_owned": 4.01
+   "pct_owned": 4.03
   },
   {
    "id": 4686728,
@@ -3838,9 +3838,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 9,
-   "proj_total": 79.53,
+   "proj_total": 77.93,
    "pts_total": 8.0,
-   "proj_week": 5.68,
+   "proj_week": 5.57,
    "pct_owned": 3.99
   },
   {
@@ -3852,9 +3852,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 177.17,
+   "proj_total": 51.79,
    "pts_total": 7.0,
-   "proj_week": 12.66,
+   "proj_week": 12.95,
    "pct_owned": 3.88
   },
   {
@@ -3866,10 +3866,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 116.46,
+   "proj_total": 116.52,
    "pts_total": 19.0,
    "proj_week": 8.32,
-   "pct_owned": 3.79
+   "pct_owned": 3.78
   },
   {
    "id": 4685261,
@@ -3880,9 +3880,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 9,
-   "proj_total": 16.62,
+   "proj_total": 16.94,
    "pts_total": 6.5,
-   "proj_week": 1.19,
+   "proj_week": 1.21,
    "pct_owned": 3.76
   },
   {
@@ -3894,9 +3894,9 @@
    "injury_status": [],
    "injured": false,
    "bye": 9,
-   "proj_total": 61.18,
+   "proj_total": 58.27,
    "pts_total": 14.0,
-   "proj_week": 3.6,
+   "proj_week": 3.43,
    "pct_owned": 3.69
   },
   {
@@ -3908,9 +3908,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 14,
-   "proj_total": 110.72,
+   "proj_total": 112.19,
    "pts_total": 10.5,
-   "proj_week": 7.91,
+   "proj_week": 8.01,
    "pct_owned": 3.46
   },
   {
@@ -3936,9 +3936,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 7,
-   "proj_total": 94.96,
+   "proj_total": 90.57,
    "pts_total": 19.0,
-   "proj_week": 6.78,
+   "proj_week": 6.47,
    "pct_owned": 3.36
   },
   {
@@ -3950,10 +3950,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 12.23,
+   "proj_total": 12.24,
    "pts_total": 11.0,
    "proj_week": 0.87,
-   "pct_owned": 3.32
+   "pct_owned": 3.31
   },
   {
    "id": 2576980,
@@ -3964,9 +3964,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 7,
-   "proj_total": 34.31,
+   "proj_total": 35.44,
    "pts_total": 28.0,
-   "proj_week": 8.58,
+   "proj_week": 8.86,
    "pct_owned": 3.26
   },
   {
@@ -3978,7 +3978,7 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 7,
-   "proj_total": 29.84,
+   "proj_total": 29.88,
    "pts_total": 20.0,
    "proj_week": 2.13,
    "pct_owned": 3.13
@@ -3992,9 +3992,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 10,
-   "proj_total": 63.94,
+   "proj_total": 58.03,
    "pts_total": 20.0,
-   "proj_week": 4.57,
+   "proj_week": 4.14,
    "pct_owned": 3.11
   },
   {
@@ -4020,9 +4020,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 6,
-   "proj_total": 76.65,
+   "proj_total": 79.14,
    "pts_total": 10.5,
-   "proj_week": 5.48,
+   "proj_week": 5.65,
    "pct_owned": 2.98
   },
   {
@@ -4034,9 +4034,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 10,
-   "proj_total": 96.87,
+   "proj_total": 87.6,
    "pts_total": 15.5,
-   "proj_week": 6.92,
+   "proj_week": 6.26,
    "pct_owned": 2.91
   },
   {
@@ -4051,7 +4051,7 @@
    "proj_total": 0.0,
    "pts_total": 0.0,
    "proj_week": 0.0,
-   "pct_owned": 2.8
+   "pct_owned": 2.79
   },
   {
    "id": 4870612,
@@ -4062,9 +4062,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 31.11,
+   "proj_total": 30.32,
    "pts_total": 2.5,
-   "proj_week": 2.22,
+   "proj_week": 2.17,
    "pct_owned": 2.78
   },
   {
@@ -4076,24 +4076,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 8.46,
+   "proj_total": 8.39,
    "pts_total": -1.0,
    "proj_week": 0.6,
    "pct_owned": 2.74
-  },
-  {
-   "id": 3924327,
-   "name": "Drew Lock",
-   "pos": "QB",
-   "nfl_team": "SEA",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 11,
-   "proj_total": 0.0,
-   "pts_total": 33.0,
-   "proj_week": 0.0,
-   "pct_owned": 2.64
   },
   {
    "id": 15835,
@@ -4107,7 +4093,21 @@
    "proj_total": 2.35,
    "pts_total": 0.0,
    "proj_week": 2.35,
-   "pct_owned": 2.64
+   "pct_owned": 2.66
+  },
+  {
+   "id": 3924327,
+   "name": "Drew Lock",
+   "pos": "QB",
+   "nfl_team": "SEA",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 11,
+   "proj_total": 0.0,
+   "pts_total": 33.0,
+   "proj_week": 0.0,
+   "pct_owned": 2.63
   },
   {
    "id": -16020,
@@ -4118,10 +4118,10 @@
    "injury_status": [],
    "injured": false,
    "bye": 13,
-   "proj_total": 97.65,
+   "proj_total": 86.03,
    "pts_total": 19.0,
-   "proj_week": 5.74,
-   "pct_owned": 2.6
+   "proj_week": 5.06,
+   "pct_owned": 2.59
   },
   {
    "id": 4877706,
@@ -4146,9 +4146,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 74.04,
+   "proj_total": 72.57,
    "pts_total": 8.5,
-   "proj_week": 5.29,
+   "proj_week": 5.18,
    "pct_owned": 2.55
   },
   {
@@ -4163,7 +4163,7 @@
    "proj_total": 0.0,
    "pts_total": 24.0,
    "proj_week": 0.0,
-   "pct_owned": 2.45
+   "pct_owned": 2.44
   },
   {
    "id": 4428209,
@@ -4188,9 +4188,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 14,
-   "proj_total": 55.56,
+   "proj_total": 58.11,
    "pts_total": 16.0,
-   "proj_week": 3.97,
+   "proj_week": 4.15,
    "pct_owned": 2.38
   },
   {
@@ -4202,9 +4202,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 10.1,
+   "proj_total": 10.48,
    "pts_total": 0.0,
-   "proj_week": 0.72,
+   "proj_week": 0.75,
    "pct_owned": 2.37
   },
   {
@@ -4216,9 +4216,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 102.66,
+   "proj_total": 99.73,
    "pts_total": 19.0,
-   "proj_week": 7.33,
+   "proj_week": 7.12,
    "pct_owned": 2.16
   },
   {
@@ -4230,9 +4230,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 6,
-   "proj_total": 70.74,
+   "proj_total": 74.55,
    "pts_total": 10.5,
-   "proj_week": 5.05,
+   "proj_week": 5.32,
    "pct_owned": 1.94
   },
   {
@@ -4244,10 +4244,10 @@
    "injury_status": "INJURY_RESERVE",
    "injured": true,
    "bye": 8,
-   "proj_total": 60.48,
+   "proj_total": 0.0,
    "pts_total": 16.5,
-   "proj_week": 5.5,
-   "pct_owned": 1.86
+   "proj_week": 0.0,
+   "pct_owned": 1.85
   },
   {
    "id": 4367209,
@@ -4258,7 +4258,7 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 6,
-   "proj_total": 74.22,
+   "proj_total": 74.2,
    "pts_total": 11.5,
    "proj_week": 5.3,
    "pct_owned": 1.82
@@ -4272,9 +4272,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 7,
-   "proj_total": 28.02,
+   "proj_total": 27.5,
    "pts_total": 1.5,
-   "proj_week": 2.0,
+   "proj_week": 1.96,
    "pct_owned": 1.69
   },
   {
@@ -4286,10 +4286,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 67.29,
+   "proj_total": 66.64,
    "pts_total": 11.0,
-   "proj_week": 4.81,
-   "pct_owned": 1.69
+   "proj_week": 4.76,
+   "pct_owned": 1.68
   },
   {
    "id": 4682745,
@@ -4300,9 +4300,9 @@
    "injury_status": "OUT",
    "injured": true,
    "bye": 6,
-   "proj_total": 23.6,
+   "proj_total": 102.86,
    "pts_total": 1.0,
-   "proj_week": 1.82,
+   "proj_week": 7.91,
    "pct_owned": 1.67
   },
   {
@@ -4314,9 +4314,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 52.83,
+   "proj_total": 55.18,
    "pts_total": 10.0,
-   "proj_week": 3.77,
+   "proj_week": 3.94,
    "pct_owned": 1.65
   },
   {
@@ -4328,9 +4328,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 111.54,
+   "proj_total": 112.15,
    "pts_total": 31.9,
-   "proj_week": 7.97,
+   "proj_week": 8.01,
    "pct_owned": 1.6
   },
   {
@@ -4356,9 +4356,9 @@
    "injury_status": "OUT",
    "injured": true,
    "bye": 5,
-   "proj_total": 66.0,
+   "proj_total": 67.68,
    "pts_total": 7.0,
-   "proj_week": 5.08,
+   "proj_week": 5.21,
    "pct_owned": 1.49
   },
   {
@@ -4370,9 +4370,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 14,
-   "proj_total": 26.72,
+   "proj_total": 27.84,
    "pts_total": 7.0,
-   "proj_week": 1.91,
+   "proj_week": 1.99,
    "pct_owned": 1.45
   },
   {
@@ -4384,9 +4384,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 5,
-   "proj_total": 11.73,
+   "proj_total": 0.0,
    "pts_total": 0.0,
-   "proj_week": 0.78,
+   "proj_week": 0.0,
    "pct_owned": 1.45
   },
   {
@@ -4398,9 +4398,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 7,
-   "proj_total": 55.1,
+   "proj_total": 52.66,
    "pts_total": 7.0,
-   "proj_week": 3.94,
+   "proj_week": 3.76,
    "pct_owned": 1.44
   },
   {
@@ -4412,10 +4412,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 5,
-   "proj_total": 55.09,
+   "proj_total": 53.59,
    "pts_total": 3.5,
-   "proj_week": 3.93,
-   "pct_owned": 1.42
+   "proj_week": 3.83,
+   "pct_owned": 1.43
   },
   {
    "id": -16011,
@@ -4426,9 +4426,9 @@
    "injury_status": [],
    "injured": false,
    "bye": 13,
-   "proj_total": 67.18,
+   "proj_total": 63.05,
    "pts_total": -4.0,
-   "proj_week": 3.95,
+   "proj_week": 3.71,
    "pct_owned": 1.4
   },
   {
@@ -4440,9 +4440,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 5,
-   "proj_total": 59.78,
+   "proj_total": 59.87,
    "pts_total": 13.0,
-   "proj_week": 4.27,
+   "proj_week": 4.28,
    "pct_owned": 1.36
   },
   {
@@ -4451,13 +4451,13 @@
    "pos": "RB",
    "nfl_team": "DAL",
    "slot": "",
-   "injury_status": "OUT",
-   "injured": true,
+   "injury_status": "ACTIVE",
+   "injured": false,
    "bye": 14,
    "proj_total": 0.0,
    "pts_total": 0.0,
    "proj_week": 0.0,
-   "pct_owned": 1.3
+   "pct_owned": 1.29
   },
   {
    "id": 4832846,
@@ -4468,9 +4468,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 6,
-   "proj_total": 3.51,
+   "proj_total": 3.58,
    "pts_total": 0.5,
-   "proj_week": 1.75,
+   "proj_week": 1.79,
    "pct_owned": 1.19
   },
   {
@@ -4496,9 +4496,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 9,
-   "proj_total": 45.86,
+   "proj_total": 47.0,
    "pts_total": 10.0,
-   "proj_week": 3.28,
+   "proj_week": 3.36,
    "pct_owned": 1.13
   },
   {
@@ -4510,10 +4510,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 10,
-   "proj_total": 40.3,
+   "proj_total": 40.21,
    "pts_total": 10.0,
-   "proj_week": 2.88,
-   "pct_owned": 1.1
+   "proj_week": 2.87,
+   "pct_owned": 1.12
   }
  ],
  "recent_activity": [
