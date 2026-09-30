@@ -1,10 +1,11 @@
 {
  "ok": false,
- "at": "2026-09-29T22:30:45+00:00",
- "summary": "3 decisions, 1 sessions, 8 replies, 0 scores, 0 weekly, 0 playbook_adds",
+ "at": "2026-09-30T09:30:47+00:00",
+ "summary": "4 decisions, 2 sessions, 8 replies, 0 scores, 0 weekly, 0 playbook_adds",
  "errors": [
-  "decisions 2026-W04-001: line 40: technique.session_type must be one of ['desktop-linked', 'live', 'scheduled']",
-  "decisions 2026-W04-002: line 41: technique.session_type must be one of ['desktop-linked', 'live', 'scheduled']",
-  "decisions 2026-W04-003: line 42: technique.session_type must be one of ['desktop-linked', 'live', 'scheduled']"
+  "decisions 2026-W04-004: line 40: bad phase 'waiver-recheck'",
+  "decisions 2026-W04-001: line 41: technique.session_type must be one of ['desktop-linked', 'live', 'scheduled']",
+  "decisions 2026-W04-002: line 42: technique.session_type must be one of ['desktop-linked', 'live', 'scheduled']",
+  "decisions 2026-W04-003: line 43: technique.session_type must be one of ['desktop-linked', 'live', 'scheduled']"
  ]
 }
