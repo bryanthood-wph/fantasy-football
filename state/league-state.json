@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T01:00:52.674218+00:00",
+ "generated_at": "2026-10-05T11:14:16.741554+00:00",
  "league_id": 1594445542,
  "season": 2026,
  "current_week": 4,
@@ -20,7 +20,7 @@
    "points_for": 417.20000000000005,
    "points_against": 361.0,
    "standing": 1,
-   "waiver_rank": 9,
+   "waiver_rank": 8,
    "roster": [
     {
      "id": 4362628,
@@ -28,13 +28,13 @@
      "pos": "WR",
      "nfl_team": "CIN",
      "slot": "WR",
-     "injury_status": "ACTIVE",
+     "injury_status": "QUESTIONABLE",
      "injured": false,
      "bye": 6,
-     "proj_total": 232.74,
-     "pts_total": 44.0,
-     "proj_week": 16.62,
-     "pct_owned": 99.92
+     "proj_total": 214.73,
+     "pts_total": 47.5,
+     "proj_week": 16.52,
+     "pct_owned": 99.93
     },
     {
      "id": 4241389,
@@ -45,9 +45,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 197.64,
-     "pts_total": 60.0,
-     "proj_week": 14.12,
+     "proj_total": 208.21,
+     "pts_total": 92.5,
+     "proj_week": 16.02,
      "pct_owned": 99.92
     },
     {
@@ -59,9 +59,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 5,
-     "proj_total": 260.17,
-     "pts_total": 71.5,
-     "proj_week": 18.58,
+     "proj_total": 246.33,
+     "pts_total": 101.0,
+     "proj_week": 18.95,
      "pct_owned": 99.84
     },
     {
@@ -73,10 +73,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 181.64,
-     "pts_total": 50.0,
-     "proj_week": 12.97,
-     "pct_owned": 96.55
+     "proj_total": 150.63,
+     "pts_total": 55.0,
+     "proj_week": 11.59,
+     "pct_owned": 96.58
     },
     {
      "id": 4569618,
@@ -87,10 +87,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 170.48,
-     "pts_total": 44.5,
-     "proj_week": 12.18,
-     "pct_owned": 99.1
+     "proj_total": 156.09,
+     "pts_total": 48.0,
+     "proj_week": 12.01,
+     "pct_owned": 99.14
     },
     {
      "id": 4035538,
@@ -101,10 +101,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 161.6,
-     "pts_total": 34.5,
-     "proj_week": 11.54,
-     "pct_owned": 95.03
+     "proj_total": 147.01,
+     "pts_total": 37.5,
+     "proj_week": 11.31,
+     "pct_owned": 94.95
     },
     {
      "id": 4426348,
@@ -115,10 +115,10 @@
      "injury_status": "OUT",
      "injured": true,
      "bye": 7,
-     "proj_total": 230.22,
+     "proj_total": 250.75,
      "pts_total": 30.0,
-     "proj_week": 19.19,
-     "pct_owned": 83.37
+     "proj_week": 20.9,
+     "pct_owned": 83.08
     },
     {
      "id": 16737,
@@ -126,13 +126,13 @@
      "pos": "WR",
      "nfl_team": "SF",
      "slot": "BE",
-     "injury_status": "QUESTIONABLE",
+     "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 149.12,
-     "pts_total": 30.0,
-     "proj_week": 11.47,
-     "pct_owned": 91.82
+     "proj_total": 145.77,
+     "pts_total": 39.5,
+     "proj_week": 11.21,
+     "pct_owned": 91.61
     },
     {
      "id": 4430027,
@@ -143,10 +143,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 126.3,
-     "pts_total": 26.0,
-     "proj_week": 9.02,
-     "pct_owned": 96.06
+     "proj_total": 117.61,
+     "pts_total": 44.0,
+     "proj_week": 9.05,
+     "pct_owned": 95.97
     },
     {
      "id": 4429025,
@@ -157,10 +157,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 104.06,
-     "pts_total": 8.0,
-     "proj_week": 7.43,
-     "pct_owned": 53.81
+     "proj_total": 78.49,
+     "pts_total": 12.5,
+     "proj_week": 6.04,
+     "pct_owned": 52.43
     },
     {
      "id": 3917315,
@@ -171,10 +171,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 246.85,
-     "pts_total": 7.0,
-     "proj_week": 17.63,
-     "pct_owned": 64.22
+     "proj_total": 228.35,
+     "pts_total": 17.0,
+     "proj_week": 17.57,
+     "pct_owned": 65.06
     },
     {
      "id": -16026,
@@ -185,10 +185,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 11,
-     "proj_total": 105.27,
-     "pts_total": 28.0,
-     "proj_week": 6.19,
-     "pct_owned": 98.33
+     "proj_total": 100.44,
+     "pts_total": 40.0,
+     "proj_week": 5.91,
+     "pct_owned": 98.42
     },
     {
      "id": 4360569,
@@ -199,10 +199,10 @@
      "injury_status": "INJURY_RESERVE",
      "injured": true,
      "bye": 6,
-     "proj_total": 121.57,
+     "proj_total": 121.55,
      "pts_total": 11.0,
      "proj_week": 10.13,
-     "pct_owned": 54.7
+     "pct_owned": 53.98
     },
     {
      "id": 4426388,
@@ -213,10 +213,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 121.56,
-     "pts_total": 16.0,
-     "proj_week": 8.68,
-     "pct_owned": 90.84
+     "proj_total": 112.94,
+     "pts_total": 29.0,
+     "proj_week": 8.69,
+     "pct_owned": 90.62
     },
     {
      "id": 4426385,
@@ -227,10 +227,10 @@
      "injury_status": "OUT",
      "injured": true,
      "bye": 11,
-     "proj_total": 125.4,
+     "proj_total": 135.27,
      "pts_total": 0.0,
-     "proj_week": 11.4,
-     "pct_owned": 55.69
+     "proj_week": 11.27,
+     "pct_owned": 58.04
     },
     {
      "id": 4571557,
@@ -241,10 +241,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 121.02,
-     "pts_total": 42.4,
-     "proj_week": 8.64,
-     "pct_owned": 29.0
+     "proj_total": 111.97,
+     "pts_total": 59.8,
+     "proj_week": 8.61,
+     "pct_owned": 30.65
     }
    ]
   },
@@ -257,7 +257,7 @@
    "points_for": 301.9,
    "points_against": 274.9,
    "standing": 6,
-   "waiver_rank": 8,
+   "waiver_rank": 7,
    "roster": [
     {
      "id": 4429795,
@@ -268,9 +268,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 331.64,
-     "pts_total": 87.0,
-     "proj_week": 23.69,
+     "proj_total": 307.66,
+     "pts_total": 102.0,
+     "proj_week": 23.67,
      "pct_owned": 99.95
     },
     {
@@ -282,10 +282,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 228.83,
-     "pts_total": 45.5,
-     "proj_week": 16.34,
-     "pct_owned": 99.76
+     "proj_total": 196.8,
+     "pts_total": 59.5,
+     "proj_week": 15.14,
+     "pct_owned": 99.77
     },
     {
      "id": 4595348,
@@ -296,10 +296,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 149.49,
-     "pts_total": 14.0,
-     "proj_week": 10.68,
-     "pct_owned": 98.26
+     "proj_total": 136.62,
+     "pts_total": 34.0,
+     "proj_week": 10.51,
+     "pct_owned": 98.24
     },
     {
      "id": 4612826,
@@ -310,10 +310,10 @@
      "injury_status": "QUESTIONABLE",
      "injured": false,
      "bye": 7,
-     "proj_total": 124.62,
+     "proj_total": 116.4,
      "pts_total": 29.0,
-     "proj_week": 9.59,
-     "pct_owned": 96.31
+     "proj_week": 8.95,
+     "pct_owned": 96.07
     },
     {
      "id": 4372016,
@@ -324,10 +324,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 135.78,
-     "pts_total": 22.5,
-     "proj_week": 9.7,
-     "pct_owned": 94.85
+     "proj_total": 119.22,
+     "pts_total": 34.0,
+     "proj_week": 9.17,
+     "pct_owned": 94.71
     },
     {
      "id": 4432620,
@@ -338,10 +338,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 179.38,
-     "pts_total": 40.5,
-     "proj_week": 12.81,
-     "pct_owned": 94.74
+     "proj_total": 152.93,
+     "pts_total": 41.0,
+     "proj_week": 11.76,
+     "pct_owned": 94.94
     },
     {
      "id": 4572680,
@@ -352,10 +352,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 100.26,
-     "pts_total": 13.5,
-     "proj_week": 7.16,
-     "pct_owned": 85.92
+     "proj_total": 105.64,
+     "pts_total": 26.5,
+     "proj_week": 8.13,
+     "pct_owned": 85.42
     },
     {
      "id": 4038941,
@@ -366,10 +366,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 198.3,
-     "pts_total": 31.0,
-     "proj_week": 14.16,
-     "pct_owned": 74.5
+     "proj_total": 183.69,
+     "pts_total": 40.0,
+     "proj_week": 14.13,
+     "pct_owned": 72.78
     },
     {
      "id": 4047365,
@@ -380,10 +380,10 @@
      "injury_status": "DAY_TO_DAY",
      "injured": false,
      "bye": 11,
-     "proj_total": 118.07,
+     "proj_total": 117.83,
      "pts_total": 0.0,
-     "proj_week": 11.81,
-     "pct_owned": 82.42
+     "proj_week": 11.78,
+     "pct_owned": 82.01
     },
     {
      "id": 4429096,
@@ -394,10 +394,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 113.16,
-     "pts_total": 15.5,
-     "proj_week": 8.08,
-     "pct_owned": 72.06
+     "proj_total": 99.3,
+     "pts_total": 17.0,
+     "proj_week": 7.64,
+     "pct_owned": 71.47
     },
     {
      "id": 4361050,
@@ -408,10 +408,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 126.08,
-     "pts_total": 30.5,
-     "proj_week": 9.01,
-     "pct_owned": 89.03
+     "proj_total": 136.25,
+     "pts_total": 40.0,
+     "proj_week": 10.48,
+     "pct_owned": 88.97
     },
     {
      "id": 4688813,
@@ -422,10 +422,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 122.98,
-     "pts_total": 24.0,
-     "proj_week": 8.78,
-     "pct_owned": 83.18
+     "proj_total": 110.44,
+     "pts_total": 26.5,
+     "proj_week": 8.5,
+     "pct_owned": 83.86
     },
     {
      "id": 4685720,
@@ -436,24 +436,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 5,
-     "proj_total": 237.15,
-     "pts_total": 67.0,
-     "proj_week": 16.94,
-     "pct_owned": 83.14
-    },
-    {
-     "id": 4428718,
-     "name": "Tre Tucker",
-     "pos": "WR",
-     "nfl_team": "LV",
-     "slot": "BE",
-     "injury_status": "ACTIVE",
-     "injured": false,
-     "bye": 13,
-     "proj_total": 100.63,
-     "pts_total": 28.5,
-     "proj_week": 7.19,
-     "pct_owned": 38.04
+     "proj_total": 216.91,
+     "pts_total": 88.0,
+     "proj_week": 16.69,
+     "pct_owned": 84.57
     },
     {
      "id": -16002,
@@ -464,10 +450,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 7,
-     "proj_total": 64.36,
-     "pts_total": 12.0,
-     "proj_week": 3.79,
-     "pct_owned": 42.63
+     "proj_total": 56.18,
+     "pts_total": 13.0,
+     "proj_week": 3.3,
+     "pct_owned": 47.44
     },
     {
      "id": 4697745,
@@ -478,10 +464,24 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 123.73,
-     "pts_total": 32.4,
-     "proj_week": 8.84,
-     "pct_owned": 62.01
+     "proj_total": 114.46,
+     "pts_total": 39.8,
+     "proj_week": 8.8,
+     "pct_owned": 63.14
+    },
+    {
+     "id": 4686612,
+     "name": "Tre' Harris",
+     "pos": "WR",
+     "nfl_team": "LAC",
+     "slot": "BE",
+     "injury_status": "ACTIVE",
+     "injured": false,
+     "bye": 7,
+     "proj_total": 74.61,
+     "pts_total": 26.5,
+     "proj_week": 5.74,
+     "pct_owned": 5.73
     }
    ]
   },
@@ -494,7 +494,7 @@
    "points_for": 407.09999999999997,
    "points_against": 317.8,
    "standing": 2,
-   "waiver_rank": 6,
+   "waiver_rank": 5,
    "roster": [
     {
      "id": 4374302,
@@ -505,9 +505,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 231.22,
-     "pts_total": 62.5,
-     "proj_week": 16.52,
+     "proj_total": 214.39,
+     "pts_total": 73.5,
+     "proj_week": 16.49,
      "pct_owned": 99.93
     },
     {
@@ -519,10 +519,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 170.47,
-     "pts_total": 22.0,
-     "proj_week": 12.18,
-     "pct_owned": 99.84
+     "proj_total": 157.53,
+     "pts_total": 39.0,
+     "proj_week": 12.12,
+     "pct_owned": 99.85
     },
     {
      "id": 4427366,
@@ -533,10 +533,10 @@
      "injury_status": "OUT",
      "injured": true,
      "bye": 13,
-     "proj_total": 192.19,
+     "proj_total": 191.02,
      "pts_total": 35.0,
-     "proj_week": 14.78,
-     "pct_owned": 97.93
+     "proj_week": 15.92,
+     "pct_owned": 97.72
     },
     {
      "id": 4430878,
@@ -547,9 +547,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 250.81,
-     "pts_total": 88.5,
-     "proj_week": 17.91,
+     "proj_total": 217.45,
+     "pts_total": 98.0,
+     "proj_week": 16.73,
      "pct_owned": 99.93
     },
     {
@@ -561,10 +561,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 123.54,
-     "pts_total": 11.0,
-     "proj_week": 8.82,
-     "pct_owned": 82.83
+     "proj_total": 108.83,
+     "pts_total": 11.5,
+     "proj_week": 8.37,
+     "pct_owned": 82.53
     },
     {
      "id": 4882093,
@@ -575,10 +575,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 166.54,
-     "pts_total": 36.5,
-     "proj_week": 11.9,
-     "pct_owned": 92.81
+     "proj_total": 162.15,
+     "pts_total": 45.5,
+     "proj_week": 12.47,
+     "pct_owned": 92.82
     },
     {
      "id": 3915511,
@@ -589,9 +589,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 262.38,
-     "pts_total": 52.0,
-     "proj_week": 18.74,
+     "proj_total": 243.55,
+     "pts_total": 75.0,
+     "proj_week": 18.73,
      "pct_owned": 97.19
     },
     {
@@ -603,10 +603,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 72.75,
-     "pts_total": 9.0,
-     "proj_week": 5.2,
-     "pct_owned": 73.41
+     "proj_total": 61.01,
+     "pts_total": 16.5,
+     "proj_week": 4.69,
+     "pct_owned": 72.42
     },
     {
      "id": 4371733,
@@ -617,10 +617,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 92.79,
-     "pts_total": 6.0,
-     "proj_week": 6.63,
-     "pct_owned": 67.47
+     "proj_total": 75.84,
+     "pts_total": 15.0,
+     "proj_week": 5.83,
+     "pct_owned": 66.56
     },
     {
      "id": -16023,
@@ -631,10 +631,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 9,
-     "proj_total": 92.92,
+     "proj_total": 81.35,
      "pts_total": 36.0,
-     "proj_week": 5.47,
-     "pct_owned": 94.79
+     "proj_week": 4.79,
+     "pct_owned": 94.75
     },
     {
      "id": 2473037,
@@ -645,10 +645,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 133.95,
-     "pts_total": 23.6,
-     "proj_week": 9.57,
-     "pct_owned": 93.58
+     "proj_total": 124.07,
+     "pts_total": 29.1,
+     "proj_week": 9.54,
+     "pct_owned": 93.5
     },
     {
      "id": 4385690,
@@ -659,10 +659,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 122.99,
-     "pts_total": 36.0,
-     "proj_week": 8.78,
-     "pct_owned": 91.54
+     "proj_total": 96.26,
+     "pts_total": 36.5,
+     "proj_week": 7.4,
+     "pct_owned": 91.49
     },
     {
      "id": 4568490,
@@ -673,10 +673,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 118.53,
-     "pts_total": 12.0,
-     "proj_week": 8.47,
-     "pct_owned": 71.03
+     "proj_total": 119.99,
+     "pts_total": 25.0,
+     "proj_week": 9.23,
+     "pct_owned": 71.05
     },
     {
      "id": -16004,
@@ -687,10 +687,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 6,
-     "proj_total": 67.87,
-     "pts_total": 27.0,
-     "proj_week": 3.99,
-     "pct_owned": 18.86
+     "proj_total": 63.29,
+     "pts_total": 31.0,
+     "proj_week": 3.72,
+     "pct_owned": 17.48
     },
     {
      "id": 4685247,
@@ -701,10 +701,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 85.92,
-     "pts_total": 13.0,
+     "proj_total": 79.84,
+     "pts_total": 19.0,
      "proj_week": 6.14,
-     "pct_owned": 73.58
+     "pct_owned": 75.93
     },
     {
      "id": 2576980,
@@ -712,13 +712,13 @@
      "pos": "QB",
      "nfl_team": "WSH",
      "slot": "BE",
-     "injury_status": "ACTIVE",
+     "injury_status": "DOUBTFUL",
      "injured": false,
      "bye": 7,
-     "proj_total": 35.76,
-     "pts_total": 28.0,
-     "proj_week": 8.94,
-     "pct_owned": 19.21
+     "proj_total": 17.65,
+     "pts_total": 32.0,
+     "proj_week": 8.83,
+     "pct_owned": 20.76
     }
    ]
   },
@@ -731,7 +731,7 @@
    "points_for": 352.9,
    "points_against": 300.6,
    "standing": 4,
-   "waiver_rank": 5,
+   "waiver_rank": 4,
    "roster": [
     {
      "id": 4430807,
@@ -742,9 +742,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 264.25,
+     "proj_total": 246.28,
      "pts_total": 68.5,
-     "proj_week": 18.87,
+     "proj_week": 18.94,
      "pct_owned": 99.92
     },
     {
@@ -756,10 +756,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 171.65,
-     "pts_total": 16.5,
-     "proj_week": 13.2,
-     "pct_owned": 98.9
+     "proj_total": 166.75,
+     "pts_total": 43.0,
+     "proj_week": 12.83,
+     "pct_owned": 99.02
     },
     {
      "id": 4426354,
@@ -770,9 +770,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 164.09,
-     "pts_total": 22.0,
-     "proj_week": 11.72,
+     "proj_total": 145.55,
+     "pts_total": 30.0,
+     "proj_week": 11.2,
      "pct_owned": 99.28
     },
     {
@@ -784,10 +784,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 204.33,
-     "pts_total": 31.5,
-     "proj_week": 14.59,
-     "pct_owned": 96.73
+     "proj_total": 177.67,
+     "pts_total": 37.5,
+     "proj_week": 13.67,
+     "pct_owned": 96.75
     },
     {
      "id": 4431459,
@@ -798,10 +798,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 132.16,
-     "pts_total": 29.0,
-     "proj_week": 9.44,
-     "pct_owned": 98.86
+     "proj_total": 122.28,
+     "pts_total": 35.5,
+     "proj_week": 9.41,
+     "pct_owned": 98.87
     },
     {
      "id": 4685278,
@@ -812,10 +812,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 139.88,
-     "pts_total": 26.5,
-     "proj_week": 9.99,
-     "pct_owned": 90.52
+     "proj_total": 129.27,
+     "pts_total": 35.5,
+     "proj_week": 9.94,
+     "pct_owned": 90.55
     },
     {
      "id": 4047650,
@@ -826,10 +826,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 9,
-     "proj_total": 122.06,
+     "proj_total": 126.09,
      "pts_total": 34.0,
-     "proj_week": 8.72,
-     "pct_owned": 88.41
+     "proj_week": 9.7,
+     "pct_owned": 88.33
     },
     {
      "id": 12483,
@@ -840,10 +840,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 244.55,
-     "pts_total": 51.0,
-     "proj_week": 17.47,
-     "pct_owned": 89.82
+     "proj_total": 228.44,
+     "pts_total": 60.0,
+     "proj_week": 17.57,
+     "pct_owned": 89.74
     },
     {
      "id": 4248528,
@@ -854,10 +854,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 175.03,
-     "pts_total": 59.5,
-     "proj_week": 12.5,
-     "pct_owned": 94.63
+     "proj_total": 148.39,
+     "pts_total": 65.0,
+     "proj_week": 11.41,
+     "pct_owned": 94.72
     },
     {
      "id": 4360310,
@@ -868,10 +868,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 264.31,
-     "pts_total": 49.0,
+     "proj_total": 245.5,
+     "pts_total": 62.0,
      "proj_week": 18.88,
-     "pct_owned": 88.58
+     "pct_owned": 88.67
     },
     {
      "id": 4608686,
@@ -879,13 +879,13 @@
      "pos": "RB",
      "nfl_team": "CHI",
      "slot": "BE",
-     "injury_status": "ACTIVE",
+     "injury_status": "QUESTIONABLE",
      "injured": false,
      "bye": 10,
-     "proj_total": 101.84,
-     "pts_total": 28.0,
-     "proj_week": 7.27,
-     "pct_owned": 77.2
+     "proj_total": 109.96,
+     "pts_total": 54.5,
+     "proj_week": 8.46,
+     "pct_owned": 76.85
     },
     {
      "id": 4242355,
@@ -896,10 +896,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 91.41,
-     "pts_total": 26.5,
-     "proj_week": 6.53,
-     "pct_owned": 79.32
+     "proj_total": 73.24,
+     "pts_total": 29.0,
+     "proj_week": 5.63,
+     "pct_owned": 78.83
     },
     {
      "id": 4686361,
@@ -910,10 +910,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 125.96,
-     "pts_total": 21.4,
-     "proj_week": 9.0,
-     "pct_owned": 81.13
+     "proj_total": 117.17,
+     "pts_total": 36.1,
+     "proj_week": 9.01,
+     "pct_owned": 80.63
     },
     {
      "id": 3054850,
@@ -924,10 +924,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 99.19,
+     "proj_total": 89.74,
      "pts_total": 7.0,
-     "proj_week": 7.09,
-     "pct_owned": 63.87
+     "proj_week": 6.9,
+     "pct_owned": 65.41
     },
     {
      "id": -16016,
@@ -938,10 +938,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 6,
-     "proj_total": 108.23,
-     "pts_total": 40.0,
-     "proj_week": 6.37,
-     "pct_owned": 87.7
+     "proj_total": 101.99,
+     "pts_total": 50.0,
+     "proj_week": 6.0,
+     "pct_owned": 89.67
     },
     {
      "id": 15818,
@@ -949,13 +949,13 @@
      "pos": "WR",
      "nfl_team": "IND",
      "slot": "BE",
-     "injury_status": "QUESTIONABLE",
-     "injured": false,
+     "injury_status": "OUT",
+     "injured": true,
      "bye": 13,
-     "proj_total": 101.03,
+     "proj_total": 90.44,
      "pts_total": 21.5,
-     "proj_week": 7.77,
-     "pct_owned": 46.72
+     "proj_week": 7.54,
+     "pct_owned": 44.03
     }
    ]
   },
@@ -968,7 +968,7 @@
    "points_for": 275.4,
    "points_against": 393.6,
    "standing": 8,
-   "waiver_rank": 10,
+   "waiver_rank": 9,
    "roster": [
     {
      "id": 3043078,
@@ -979,9 +979,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 254.49,
-     "pts_total": 68.5,
-     "proj_week": 18.18,
+     "proj_total": 244.64,
+     "pts_total": 82.5,
+     "proj_week": 18.82,
      "pct_owned": 99.88
     },
     {
@@ -993,10 +993,10 @@
      "injury_status": "INJURY_RESERVE",
      "injured": true,
      "bye": 11,
-     "proj_total": 114.84,
+     "proj_total": 113.85,
      "pts_total": 3.5,
-     "proj_week": 11.48,
-     "pct_owned": 95.37
+     "proj_week": 11.38,
+     "pct_owned": 95.23
     },
     {
      "id": 4361307,
@@ -1007,10 +1007,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 189.34,
-     "pts_total": 45.0,
-     "proj_week": 13.52,
-     "pct_owned": 99.89
+     "proj_total": 180.99,
+     "pts_total": 51.5,
+     "proj_week": 13.92,
+     "pct_owned": 99.9
     },
     {
      "id": 4696981,
@@ -1021,9 +1021,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 179.01,
-     "pts_total": 31.5,
-     "proj_week": 12.79,
+     "proj_total": 150.18,
+     "pts_total": 37.0,
+     "proj_week": 11.55,
      "pct_owned": 98.13
     },
     {
@@ -1035,10 +1035,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 117.64,
-     "pts_total": 17.0,
-     "proj_week": 8.4,
-     "pct_owned": 88.58
+     "proj_total": 121.44,
+     "pts_total": 29.0,
+     "proj_week": 9.34,
+     "pct_owned": 88.19
     },
     {
      "id": 4432710,
@@ -1049,10 +1049,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 124.77,
-     "pts_total": 15.5,
-     "proj_week": 8.91,
-     "pct_owned": 89.66
+     "proj_total": 118.45,
+     "pts_total": 19.5,
+     "proj_week": 9.11,
+     "pct_owned": 89.39
     },
     {
      "id": 3916148,
@@ -1063,10 +1063,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 9,
-     "proj_total": 159.81,
-     "pts_total": 21.0,
-     "proj_week": 11.42,
-     "pct_owned": 85.82
+     "proj_total": 161.33,
+     "pts_total": 32.0,
+     "proj_week": 12.41,
+     "pct_owned": 85.99
     },
     {
      "id": 3916433,
@@ -1077,10 +1077,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 123.93,
-     "pts_total": 29.0,
-     "proj_week": 8.85,
-     "pct_owned": 74.37
+     "proj_total": 112.16,
+     "pts_total": 33.5,
+     "proj_week": 8.63,
+     "pct_owned": 75.36
     },
     {
      "id": 2976212,
@@ -1091,10 +1091,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 120.54,
-     "pts_total": 36.5,
-     "proj_week": 8.61,
-     "pct_owned": 86.33
+     "proj_total": 110.27,
+     "pts_total": 42.0,
+     "proj_week": 8.48,
+     "pct_owned": 86.6
     },
     {
      "id": 4689936,
@@ -1105,10 +1105,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 123.16,
-     "pts_total": 20.4,
+     "proj_total": 114.46,
+     "pts_total": 38.8,
      "proj_week": 8.8,
-     "pct_owned": 61.01
+     "pct_owned": 60.34
     },
     {
      "id": 4038441,
@@ -1119,10 +1119,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 63.43,
-     "pts_total": 7.5,
-     "proj_week": 4.53,
-     "pct_owned": 12.25
+     "proj_total": 51.52,
+     "pts_total": 10.5,
+     "proj_week": 3.96,
+     "pct_owned": 11.91
     },
     {
      "id": 4832800,
@@ -1133,10 +1133,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 124.89,
+     "proj_total": 115.89,
      "pts_total": 46.5,
-     "proj_week": 8.92,
-     "pct_owned": 69.7
+     "proj_week": 8.91,
+     "pct_owned": 69.58
     },
     {
      "id": 4431452,
@@ -1147,10 +1147,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 239.34,
-     "pts_total": 18.0,
-     "proj_week": 17.1,
-     "pct_owned": 88.01
+     "proj_total": 220.61,
+     "pts_total": 43.0,
+     "proj_week": 16.97,
+     "pct_owned": 87.29
     },
     {
      "id": 4711533,
@@ -1161,10 +1161,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 136.41,
-     "pts_total": 12.5,
-     "proj_week": 9.74,
-     "pct_owned": 62.78
+     "proj_total": 131.69,
+     "pts_total": 29.5,
+     "proj_week": 10.13,
+     "pct_owned": 62.34
     },
     {
      "id": 3912547,
@@ -1175,10 +1175,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 224.98,
-     "pts_total": 27.0,
-     "proj_week": 16.07,
-     "pct_owned": 51.29
+     "proj_total": 210.42,
+     "pts_total": 39.0,
+     "proj_week": 16.19,
+     "pct_owned": 53.29
     },
     {
      "id": -16030,
@@ -1189,10 +1189,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 7,
-     "proj_total": 91.67,
-     "pts_total": 28.0,
-     "proj_week": 5.39,
-     "pct_owned": 28.21
+     "proj_total": 89.29,
+     "pts_total": 32.0,
+     "proj_week": 5.25,
+     "pct_owned": 28.42
     }
    ]
   },
@@ -1205,7 +1205,7 @@
    "points_for": 343.3,
    "points_against": 365.1,
    "standing": 7,
-   "waiver_rank": 1,
+   "waiver_rank": 10,
    "roster": [
     {
      "id": 4262921,
@@ -1216,10 +1216,10 @@
      "injury_status": "OUT",
      "injured": true,
      "bye": 6,
-     "proj_total": 191.98,
+     "proj_total": 191.88,
      "pts_total": 37.5,
-     "proj_week": 14.77,
-     "pct_owned": 99.88
+     "proj_week": 15.99,
+     "pct_owned": 99.86
     },
     {
      "id": 3918298,
@@ -1230,9 +1230,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 314.56,
-     "pts_total": 90.5,
-     "proj_week": 22.47,
+     "proj_total": 294.84,
+     "pts_total": 108.5,
+     "proj_week": 22.68,
      "pct_owned": 99.93
     },
     {
@@ -1244,9 +1244,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 225.7,
-     "pts_total": 46.0,
-     "proj_week": 16.12,
+     "proj_total": 213.31,
+     "pts_total": 60.0,
+     "proj_week": 16.41,
      "pct_owned": 99.9
     },
     {
@@ -1258,24 +1258,24 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 200.18,
-     "pts_total": 44.0,
-     "proj_week": 14.3,
-     "pct_owned": 98.94
+     "proj_total": 199.12,
+     "pts_total": 72.5,
+     "proj_week": 15.32,
+     "pct_owned": 98.92
     },
     {
      "id": 3121422,
      "name": "Terry McLaurin",
      "pos": "WR",
      "nfl_team": "WSH",
-     "slot": "RB/WR/TE",
-     "injury_status": "QUESTIONABLE",
-     "injured": false,
+     "slot": "BE",
+     "injury_status": "OUT",
+     "injured": true,
      "bye": 7,
-     "proj_total": 142.53,
+     "proj_total": 137.0,
      "pts_total": 24.0,
-     "proj_week": 10.96,
-     "pct_owned": 93.35
+     "proj_week": 11.42,
+     "pct_owned": 92.93
     },
     {
      "id": 4239993,
@@ -1283,12 +1283,12 @@
      "pos": "WR",
      "nfl_team": "CIN",
      "slot": "WR",
-     "injury_status": "ACTIVE",
+     "injury_status": "QUESTIONABLE",
      "injured": false,
      "bye": 6,
-     "proj_total": 159.48,
-     "pts_total": 36.0,
-     "proj_week": 11.39,
+     "proj_total": 147.28,
+     "pts_total": 56.5,
+     "proj_week": 11.33,
      "pct_owned": 96.89
     },
     {
@@ -1300,10 +1300,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 143.9,
-     "pts_total": 18.5,
-     "proj_week": 10.28,
-     "pct_owned": 89.69
+     "proj_total": 141.04,
+     "pts_total": 34.0,
+     "proj_week": 10.85,
+     "pct_owned": 89.55
     },
     {
      "id": -16007,
@@ -1314,10 +1314,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 10,
-     "proj_total": 94.06,
-     "pts_total": 20.0,
-     "proj_week": 5.53,
-     "pct_owned": 77.75
+     "proj_total": 88.8,
+     "pts_total": 21.0,
+     "proj_week": 5.22,
+     "pct_owned": 76.66
     },
     {
      "id": 3121023,
@@ -1328,10 +1328,10 @@
      "injury_status": "OUT",
      "injured": true,
      "bye": 10,
-     "proj_total": 114.81,
+     "proj_total": 113.71,
      "pts_total": 21.5,
-     "proj_week": 8.83,
-     "pct_owned": 78.85
+     "proj_week": 9.48,
+     "pct_owned": 78.1
     },
     {
      "id": 4361741,
@@ -1342,24 +1342,24 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 272.73,
-     "pts_total": 78.0,
-     "proj_week": 19.48,
-     "pct_owned": 96.58
+     "proj_total": 255.08,
+     "pts_total": 96.0,
+     "proj_week": 19.62,
+     "pct_owned": 96.65
     },
     {
      "id": 4575131,
      "name": "Jacory Croskey-Merritt",
      "pos": "RB",
      "nfl_team": "WSH",
-     "slot": "BE",
+     "slot": "RB/WR/TE",
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 115.15,
-     "pts_total": 20.5,
-     "proj_week": 8.22,
-     "pct_owned": 71.12
+     "proj_total": 105.45,
+     "pts_total": 25.5,
+     "proj_week": 8.11,
+     "pct_owned": 72.22
     },
     {
      "id": 4360761,
@@ -1370,24 +1370,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 149.24,
-     "pts_total": 29.0,
-     "proj_week": 10.66,
-     "pct_owned": 85.92
-    },
-    {
-     "id": 3046439,
-     "name": "Hunter Henry",
-     "pos": "TE",
-     "nfl_team": "NE",
-     "slot": "TE",
-     "injury_status": "ACTIVE",
-     "injured": false,
-     "bye": 11,
-     "proj_total": 96.62,
-     "pts_total": 9.5,
-     "proj_week": 6.9,
-     "pct_owned": 44.58
+     "proj_total": 155.37,
+     "pts_total": 41.5,
+     "proj_week": 11.95,
+     "pct_owned": 86.38
     },
     {
      "id": 4034949,
@@ -1398,10 +1384,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 132.29,
-     "pts_total": 20.3,
-     "proj_week": 9.45,
-     "pct_owned": 78.78
+     "proj_total": 122.92,
+     "pts_total": 23.7,
+     "proj_week": 9.46,
+     "pct_owned": 78.44
     },
     {
      "id": 3126486,
@@ -1412,10 +1398,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 129.15,
-     "pts_total": 33.5,
-     "proj_week": 9.22,
-     "pct_owned": 84.86
+     "proj_total": 125.25,
+     "pts_total": 48.0,
+     "proj_week": 9.63,
+     "pct_owned": 84.78
     },
     {
      "id": 4695883,
@@ -1423,13 +1409,27 @@
      "pos": "WR",
      "nfl_team": "CAR",
      "slot": "BE",
-     "injury_status": "QUESTIONABLE",
-     "injured": false,
+     "injury_status": "OUT",
+     "injured": true,
      "bye": 5,
-     "proj_total": 147.21,
+     "proj_total": 136.36,
      "pts_total": 41.0,
-     "proj_week": 11.32,
-     "pct_owned": 87.98
+     "proj_week": 10.49,
+     "pct_owned": 87.08
+    },
+    {
+     "id": 3116365,
+     "name": "Mark Andrews",
+     "pos": "TE",
+     "nfl_team": "BAL",
+     "slot": "TE",
+     "injury_status": "ACTIVE",
+     "injured": false,
+     "bye": 13,
+     "proj_total": 108.44,
+     "pts_total": 27.0,
+     "proj_week": 8.34,
+     "pct_owned": 79.05
     }
    ]
   },
@@ -1442,21 +1442,21 @@
    "points_for": 241.8,
    "points_against": 344.5,
    "standing": 10,
-   "waiver_rank": 7,
+   "waiver_rank": 6,
    "roster": [
     {
      "id": 4426515,
      "name": "Puka Nacua",
      "pos": "WR",
      "nfl_team": "LAR",
-     "slot": "BE",
+     "slot": "RB/WR/TE",
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 242.8,
-     "pts_total": 9.5,
-     "proj_week": 17.34,
-     "pct_owned": 99.9
+     "proj_total": 226.78,
+     "pts_total": 32.0,
+     "proj_week": 17.44,
+     "pct_owned": 99.91
     },
     {
      "id": 4685382,
@@ -1467,10 +1467,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 161.72,
-     "pts_total": 29.0,
-     "proj_week": 11.55,
-     "pct_owned": 98.67
+     "proj_total": 128.04,
+     "pts_total": 40.0,
+     "proj_week": 9.85,
+     "pct_owned": 98.53
     },
     {
      "id": 4870808,
@@ -1481,10 +1481,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 186.66,
-     "pts_total": 34.0,
-     "proj_week": 13.33,
-     "pct_owned": 98.83
+     "proj_total": 157.31,
+     "pts_total": 40.5,
+     "proj_week": 12.1,
+     "pct_owned": 98.86
     },
     {
      "id": 4685472,
@@ -1495,24 +1495,24 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 5,
-     "proj_total": 158.6,
-     "pts_total": 22.0,
-     "proj_week": 11.33,
-     "pct_owned": 97.99
+     "proj_total": 146.44,
+     "pts_total": 60.0,
+     "proj_week": 11.26,
+     "pct_owned": 98.02
     },
     {
      "id": 4685512,
      "name": "Jadarian Price",
      "pos": "RB",
      "nfl_team": "SEA",
-     "slot": "RB/WR/TE",
-     "injury_status": "OUT",
+     "slot": "BE",
+     "injury_status": "INJURY_RESERVE",
      "injured": true,
      "bye": 11,
-     "proj_total": 118.91,
+     "proj_total": 95.77,
      "pts_total": 9.0,
-     "proj_week": 9.15,
-     "pct_owned": 88.1
+     "proj_week": 9.58,
+     "pct_owned": 83.21
     },
     {
      "id": 4360248,
@@ -1523,10 +1523,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 79.79,
+     "proj_total": 74.4,
      "pts_total": 2.0,
-     "proj_week": 5.7,
-     "pct_owned": 79.26
+     "proj_week": 5.72,
+     "pct_owned": 77.67
     },
     {
      "id": 4432773,
@@ -1537,10 +1537,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 97.06,
-     "pts_total": 11.5,
-     "proj_week": 6.93,
-     "pct_owned": 68.18
+     "proj_total": 82.08,
+     "pts_total": 19.5,
+     "proj_week": 6.31,
+     "pct_owned": 66.93
     },
     {
      "id": 4431611,
@@ -1551,10 +1551,10 @@
      "injury_status": "OUT",
      "injured": true,
      "bye": 10,
-     "proj_total": 208.48,
+     "proj_total": 208.59,
      "pts_total": 43.0,
-     "proj_week": 17.37,
-     "pct_owned": 89.07
+     "proj_week": 17.38,
+     "pct_owned": 88.82
     },
     {
      "id": 4870653,
@@ -1565,10 +1565,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 109.07,
+     "proj_total": 110.62,
      "pts_total": 19.5,
-     "proj_week": 7.79,
-     "pct_owned": 50.9
+     "proj_week": 8.51,
+     "pct_owned": 50.83
     },
     {
      "id": 15847,
@@ -1579,10 +1579,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 5,
-     "proj_total": 132.85,
-     "pts_total": 41.0,
-     "proj_week": 9.49,
-     "pct_owned": 95.26
+     "proj_total": 118.04,
+     "pts_total": 43.0,
+     "proj_week": 9.08,
+     "pct_owned": 95.33
     },
     {
      "id": 3953687,
@@ -1593,10 +1593,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 142.05,
-     "pts_total": 26.8,
-     "proj_week": 10.15,
-     "pct_owned": 99.48
+     "proj_total": 132.38,
+     "pts_total": 35.7,
+     "proj_week": 10.18,
+     "pct_owned": 99.49
     },
     {
      "id": 4362619,
@@ -1607,10 +1607,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 7,
-     "proj_total": 67.71,
-     "pts_total": 12.0,
-     "proj_week": 4.84,
-     "pct_owned": 17.68
+     "proj_total": 63.26,
+     "pts_total": 21.0,
+     "proj_week": 4.87,
+     "pct_owned": 17.27
     },
     {
      "id": 4569559,
@@ -1621,10 +1621,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 84.59,
+     "proj_total": 76.26,
      "pts_total": 28.5,
-     "proj_week": 6.04,
-     "pct_owned": 65.22
+     "proj_week": 5.87,
+     "pct_owned": 65.85
     },
     {
      "id": 3046779,
@@ -1635,10 +1635,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 242.83,
-     "pts_total": 63.0,
-     "proj_week": 17.34,
-     "pct_owned": 81.98
+     "proj_total": 225.86,
+     "pts_total": 83.0,
+     "proj_week": 17.37,
+     "pct_owned": 82.28
     },
     {
      "id": 2973405,
@@ -1649,10 +1649,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 108.36,
-     "pts_total": 36.5,
-     "proj_week": 7.74,
-     "pct_owned": 49.59
+     "proj_total": 80.49,
+     "pts_total": 37.5,
+     "proj_week": 6.19,
+     "pct_owned": 51.39
     },
     {
      "id": -16033,
@@ -1663,10 +1663,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 13,
-     "proj_total": 94.03,
-     "pts_total": 14.0,
-     "proj_week": 5.53,
-     "pct_owned": 88.19
+     "proj_total": 87.85,
+     "pts_total": 21.0,
+     "proj_week": 5.17,
+     "pct_owned": 89.22
     }
    ]
   },
@@ -1679,7 +1679,7 @@
    "points_for": 277.9,
    "points_against": 346.8,
    "standing": 9,
-   "waiver_rank": 3,
+   "waiver_rank": 2,
    "roster": [
     {
      "id": 3929630,
@@ -1687,11 +1687,11 @@
      "pos": "RB",
      "nfl_team": "PHI",
      "slot": "RB",
-     "injury_status": "ACTIVE",
+     "injury_status": "QUESTIONABLE",
      "injured": false,
      "bye": 10,
-     "proj_total": 199.47,
-     "pts_total": 18.5,
+     "proj_total": 185.28,
+     "pts_total": 19.0,
      "proj_week": 14.25,
      "pct_owned": 99.62
     },
@@ -1704,10 +1704,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 209.87,
-     "pts_total": 32.0,
-     "proj_week": 14.99,
-     "pct_owned": 99.44
+     "proj_total": 196.4,
+     "pts_total": 45.5,
+     "proj_week": 15.11,
+     "pct_owned": 99.43
     },
     {
      "id": 4426502,
@@ -1718,10 +1718,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 187.35,
+     "proj_total": 172.85,
      "pts_total": 33.5,
-     "proj_week": 13.38,
-     "pct_owned": 99.62
+     "proj_week": 13.3,
+     "pct_owned": 99.64
     },
     {
      "id": 4567750,
@@ -1732,10 +1732,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 132.03,
-     "pts_total": 25.5,
-     "proj_week": 9.43,
-     "pct_owned": 96.85
+     "proj_total": 105.44,
+     "pts_total": 27.5,
+     "proj_week": 8.11,
+     "pct_owned": 96.71
     },
     {
      "id": 3916387,
@@ -1743,12 +1743,12 @@
      "pos": "QB",
      "nfl_team": "BAL",
      "slot": "QB",
-     "injury_status": "ACTIVE",
+     "injury_status": "QUESTIONABLE",
      "injured": false,
      "bye": 13,
-     "proj_total": 282.52,
-     "pts_total": 58.0,
-     "proj_week": 20.18,
+     "proj_total": 258.09,
+     "pts_total": 76.0,
+     "proj_week": 19.85,
      "pct_owned": 99.87
     },
     {
@@ -1760,10 +1760,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 9,
-     "proj_total": 176.67,
+     "proj_total": 170.07,
      "pts_total": 45.5,
-     "proj_week": 12.62,
-     "pct_owned": 91.5
+     "proj_week": 13.08,
+     "pct_owned": 91.41
     },
     {
      "id": 4871023,
@@ -1774,10 +1774,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 9,
-     "proj_total": 136.73,
-     "pts_total": 16.5,
-     "proj_week": 9.77,
-     "pct_owned": 85.51
+     "proj_total": 149.79,
+     "pts_total": 33.0,
+     "proj_week": 11.52,
+     "pct_owned": 85.63
     },
     {
      "id": 4428331,
@@ -1785,12 +1785,12 @@
      "pos": "WR",
      "nfl_team": "KC",
      "slot": "WR",
-     "injury_status": "ACTIVE",
+     "injury_status": "QUESTIONABLE",
      "injured": false,
      "bye": 5,
-     "proj_total": 168.46,
+     "proj_total": 155.13,
      "pts_total": 29.5,
-     "proj_week": 12.03,
+     "proj_week": 11.93,
      "pct_owned": 98.96
     },
     {
@@ -1802,10 +1802,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 5,
-     "proj_total": 259.24,
-     "pts_total": 64.0,
+     "proj_total": 240.7,
+     "pts_total": 81.0,
      "proj_week": 18.52,
-     "pct_owned": 95.79
+     "pct_owned": 95.81
     },
     {
      "id": 4697815,
@@ -1816,10 +1816,10 @@
      "injury_status": "OUT",
      "injured": true,
      "bye": 7,
-     "proj_total": 86.34,
+     "proj_total": 86.17,
      "pts_total": 23.5,
-     "proj_week": 6.64,
-     "pct_owned": 66.13
+     "proj_week": 7.18,
+     "pct_owned": 64.92
     },
     {
      "id": 2971573,
@@ -1830,10 +1830,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 133.23,
-     "pts_total": 20.4,
-     "proj_week": 9.52,
-     "pct_owned": 87.12
+     "proj_total": 123.24,
+     "pts_total": 37.8,
+     "proj_week": 9.48,
+     "pct_owned": 86.82
     },
     {
      "id": 3042519,
@@ -1844,10 +1844,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 145.25,
-     "pts_total": 30.5,
-     "proj_week": 10.38,
-     "pct_owned": 92.0
+     "proj_total": 141.64,
+     "pts_total": 44.5,
+     "proj_week": 10.9,
+     "pct_owned": 92.85
     },
     {
      "id": -16012,
@@ -1858,10 +1858,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 5,
-     "proj_total": 92.14,
-     "pts_total": 22.0,
-     "proj_week": 5.42,
-     "pct_owned": 61.86
+     "proj_total": 83.21,
+     "pts_total": 23.0,
+     "proj_week": 4.89,
+     "pct_owned": 63.57
     },
     {
      "id": 3929645,
@@ -1872,10 +1872,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 113.16,
+     "proj_total": 104.8,
      "pts_total": 39.5,
-     "proj_week": 8.08,
-     "pct_owned": 73.91
+     "proj_week": 8.06,
+     "pct_owned": 75.6
     },
     {
      "id": 4429205,
@@ -1886,10 +1886,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 131.34,
-     "pts_total": 20.5,
-     "proj_week": 9.38,
-     "pct_owned": 79.86
+     "proj_total": 119.86,
+     "pts_total": 27.5,
+     "proj_week": 9.22,
+     "pct_owned": 83.72
     },
     {
      "id": -16003,
@@ -1900,10 +1900,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 10,
-     "proj_total": 59.31,
-     "pts_total": 23.0,
-     "proj_week": 3.49,
-     "pct_owned": 31.58
+     "proj_total": 53.75,
+     "pts_total": 32.0,
+     "proj_week": 3.16,
+     "pct_owned": 38.09
     }
    ]
   },
@@ -1916,7 +1916,7 @@
    "points_for": 355.5,
    "points_against": 295.4,
    "standing": 3,
-   "waiver_rank": 2,
+   "waiver_rank": 1,
    "roster": [
     {
      "id": 3117251,
@@ -1927,9 +1927,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 251.37,
-     "pts_total": 49.5,
-     "proj_week": 17.96,
+     "proj_total": 231.43,
+     "pts_total": 63.0,
+     "proj_week": 17.8,
      "pct_owned": 99.92
     },
     {
@@ -1941,9 +1941,9 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 253.36,
-     "pts_total": 56.5,
-     "proj_week": 18.1,
+     "proj_total": 230.03,
+     "pts_total": 78.0,
+     "proj_week": 17.69,
      "pct_owned": 99.9
     },
     {
@@ -1955,10 +1955,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 184.61,
+     "proj_total": 169.81,
      "pts_total": 55.5,
-     "proj_week": 13.19,
-     "pct_owned": 99.69
+     "proj_week": 13.06,
+     "pct_owned": 99.7
     },
     {
      "id": 4429615,
@@ -1966,12 +1966,12 @@
      "pos": "WR",
      "nfl_team": "BAL",
      "slot": "WR",
-     "injury_status": "QUESTIONABLE",
+     "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 177.89,
-     "pts_total": 36.0,
-     "proj_week": 12.71,
+     "proj_total": 177.01,
+     "pts_total": 57.0,
+     "proj_week": 13.62,
      "pct_owned": 98.77
     },
     {
@@ -1983,10 +1983,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 97.47,
-     "pts_total": 5.5,
-     "proj_week": 6.96,
-     "pct_owned": 91.81
+     "proj_total": 100.93,
+     "pts_total": 13.5,
+     "proj_week": 7.76,
+     "pct_owned": 91.51
     },
     {
      "id": 3915416,
@@ -1994,13 +1994,13 @@
      "pos": "WR",
      "nfl_team": "BUF",
      "slot": "RB/WR/TE",
-     "injury_status": "ACTIVE",
+     "injury_status": "QUESTIONABLE",
      "injured": false,
      "bye": 7,
-     "proj_total": 153.76,
-     "pts_total": 27.5,
-     "proj_week": 10.98,
-     "pct_owned": 95.15
+     "proj_total": 143.7,
+     "pts_total": 29.0,
+     "proj_week": 11.05,
+     "pct_owned": 95.14
     },
     {
      "id": 4038815,
@@ -2011,10 +2011,10 @@
      "injury_status": "OUT",
      "injured": true,
      "bye": 9,
-     "proj_total": 103.7,
+     "proj_total": 95.57,
      "pts_total": 7.0,
-     "proj_week": 7.98,
-     "pct_owned": 71.77
+     "proj_week": 7.96,
+     "pct_owned": 71.7
     },
     {
      "id": 4426338,
@@ -2025,10 +2025,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 227.31,
-     "pts_total": 41.0,
-     "proj_week": 16.24,
-     "pct_owned": 77.0
+     "proj_total": 211.48,
+     "pts_total": 54.0,
+     "proj_week": 16.27,
+     "pct_owned": 76.45
     },
     {
      "id": 3040151,
@@ -2039,10 +2039,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 162.92,
-     "pts_total": 41.0,
-     "proj_week": 11.64,
-     "pct_owned": 97.02
+     "proj_total": 150.8,
+     "pts_total": 56.0,
+     "proj_week": 11.6,
+     "pct_owned": 97.15
     },
     {
      "id": 4035687,
@@ -2053,10 +2053,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 9,
-     "proj_total": 109.94,
+     "proj_total": 79.81,
      "pts_total": 10.5,
-     "proj_week": 7.85,
-     "pct_owned": 78.3
+     "proj_week": 6.14,
+     "pct_owned": 78.23
     },
     {
      "id": 4241416,
@@ -2067,10 +2067,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 5,
-     "proj_total": 185.89,
-     "pts_total": 45.5,
-     "proj_week": 13.28,
-     "pct_owned": 93.63
+     "proj_total": 173.74,
+     "pts_total": 70.0,
+     "proj_week": 13.36,
+     "pct_owned": 93.87
     },
     {
      "id": 2577417,
@@ -2081,10 +2081,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 14,
-     "proj_total": 261.4,
-     "pts_total": 61.0,
-     "proj_week": 18.67,
-     "pct_owned": 93.94
+     "proj_total": 241.48,
+     "pts_total": 78.0,
+     "proj_week": 18.58,
+     "pct_owned": 93.87
     },
     {
      "id": 3116165,
@@ -2095,10 +2095,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 79.17,
-     "pts_total": 16.0,
+     "proj_total": 73.52,
+     "pts_total": 22.0,
      "proj_week": 5.66,
-     "pct_owned": 61.32
+     "pct_owned": 60.12
     },
     {
      "id": 4428850,
@@ -2109,10 +2109,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 106.13,
-     "pts_total": 27.5,
-     "proj_week": 7.58,
-     "pct_owned": 47.95
+     "proj_total": 97.75,
+     "pts_total": 30.0,
+     "proj_week": 7.52,
+     "pct_owned": 55.27
     },
     {
      "id": 4567104,
@@ -2123,10 +2123,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 6,
-     "proj_total": 123.49,
-     "pts_total": 37.4,
-     "proj_week": 8.82,
-     "pct_owned": 38.73
+     "proj_total": 114.24,
+     "pts_total": 57.4,
+     "proj_week": 8.79,
+     "pct_owned": 40.35
     },
     {
      "id": -16014,
@@ -2137,10 +2137,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 11,
-     "proj_total": 98.62,
-     "pts_total": 17.0,
-     "proj_week": 5.8,
-     "pct_owned": 84.74
+     "proj_total": 94.94,
+     "pts_total": 24.0,
+     "proj_week": 5.58,
+     "pct_owned": 84.88
     }
    ]
   },
@@ -2153,7 +2153,7 @@
    "points_for": 332.6,
    "points_against": 305.9,
    "standing": 5,
-   "waiver_rank": 4,
+   "waiver_rank": 3,
    "roster": [
     {
      "id": 4685702,
@@ -2164,10 +2164,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 162.14,
+     "proj_total": 163.07,
      "pts_total": 37.5,
-     "proj_week": 11.58,
-     "pct_owned": 94.78
+     "proj_week": 12.54,
+     "pct_owned": 94.74
     },
     {
      "id": 4241478,
@@ -2178,10 +2178,10 @@
      "injury_status": "OUT",
      "injured": true,
      "bye": 10,
-     "proj_total": 159.85,
+     "proj_total": 147.73,
      "pts_total": 37.5,
-     "proj_week": 12.3,
-     "pct_owned": 99.13
+     "proj_week": 12.31,
+     "pct_owned": 98.86
     },
     {
      "id": 16800,
@@ -2192,10 +2192,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 176.53,
-     "pts_total": 55.0,
-     "proj_week": 12.61,
-     "pct_owned": 99.08
+     "proj_total": 165.34,
+     "pts_total": 60.0,
+     "proj_week": 12.72,
+     "pct_owned": 99.11
     },
     {
      "id": 4430737,
@@ -2206,10 +2206,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 174.82,
-     "pts_total": 45.5,
-     "proj_week": 12.49,
-     "pct_owned": 98.52
+     "proj_total": 196.21,
+     "pts_total": 76.5,
+     "proj_week": 15.09,
+     "pct_owned": 98.51
     },
     {
      "id": 4683062,
@@ -2220,10 +2220,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 5,
-     "proj_total": 115.03,
-     "pts_total": 16.0,
-     "proj_week": 8.22,
-     "pct_owned": 72.26
+     "proj_total": 107.72,
+     "pts_total": 25.0,
+     "proj_week": 8.29,
+     "pct_owned": 71.62
     },
     {
      "id": 4040715,
@@ -2234,10 +2234,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 264.28,
-     "pts_total": 51.0,
-     "proj_week": 18.88,
-     "pct_owned": 98.74
+     "proj_total": 245.26,
+     "pts_total": 63.0,
+     "proj_week": 18.87,
+     "pct_owned": 98.69
     },
     {
      "id": 5083076,
@@ -2248,10 +2248,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 126.64,
+     "proj_total": 112.7,
      "pts_total": 40.5,
-     "proj_week": 9.05,
-     "pct_owned": 91.75
+     "proj_week": 8.67,
+     "pct_owned": 91.7
     },
     {
      "id": 4239996,
@@ -2262,10 +2262,10 @@
      "injury_status": "INJURY_RESERVE",
      "injured": true,
      "bye": 8,
-     "proj_total": 113.93,
+     "proj_total": 113.92,
      "pts_total": 22.5,
      "proj_week": 11.39,
-     "pct_owned": 91.7
+     "pct_owned": 90.4
     },
     {
      "id": 5082424,
@@ -2276,10 +2276,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 113.38,
-     "pts_total": 25.1,
-     "proj_week": 8.1,
-     "pct_owned": 2.14
+     "proj_total": 104.83,
+     "pts_total": 40.2,
+     "proj_week": 8.06,
+     "pct_owned": 2.17
     },
     {
      "id": 4701936,
@@ -2290,10 +2290,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 11,
-     "proj_total": 154.81,
-     "pts_total": 37.5,
-     "proj_week": 11.06,
-     "pct_owned": 87.34
+     "proj_total": 150.2,
+     "pts_total": 47.0,
+     "proj_week": 11.55,
+     "pct_owned": 87.56
     },
     {
      "id": -16008,
@@ -2304,10 +2304,10 @@
      "injury_status": "NORMAL",
      "injured": false,
      "bye": 6,
-     "proj_total": 61.92,
-     "pts_total": 8.0,
-     "proj_week": 3.64,
-     "pct_owned": 41.55
+     "proj_total": 56.49,
+     "pts_total": 7.0,
+     "proj_week": 3.32,
+     "pct_owned": 40.04
     },
     {
      "id": 4429059,
@@ -2318,10 +2318,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 97.3,
-     "pts_total": 16.5,
-     "proj_week": 6.95,
-     "pct_owned": 52.01
+     "proj_total": 89.29,
+     "pts_total": 24.5,
+     "proj_week": 6.87,
+     "pct_owned": 51.86
     },
     {
      "id": 4870795,
@@ -2332,10 +2332,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 10,
-     "proj_total": 78.55,
-     "pts_total": 6.5,
-     "proj_week": 5.61,
-     "pct_owned": 49.59
+     "proj_total": 78.46,
+     "pts_total": 10.0,
+     "proj_week": 6.04,
+     "pct_owned": 53.52
     },
     {
      "id": 4360689,
@@ -2346,10 +2346,10 @@
      "injury_status": "ACTIVE",
      "injured": false,
      "bye": 8,
-     "proj_total": 255.65,
+     "proj_total": 236.43,
      "pts_total": 67.0,
-     "proj_week": 18.26,
-     "pct_owned": 86.79
+     "proj_week": 18.19,
+     "pct_owned": 87.28
     },
     {
      "id": 4428557,
@@ -2357,13 +2357,13 @@
      "pos": "RB",
      "nfl_team": "TEN",
      "slot": "BE",
-     "injury_status": "QUESTIONABLE",
+     "injury_status": "ACTIVE",
      "injured": false,
      "bye": 9,
-     "proj_total": 98.04,
-     "pts_total": 10.0,
-     "proj_week": 7.54,
-     "pct_owned": 41.75
+     "proj_total": 72.28,
+     "pts_total": 10.5,
+     "proj_week": 5.56,
+     "pct_owned": 40.72
     },
     {
      "id": 5083315,
@@ -2371,13 +2371,13 @@
      "pos": "TE",
      "nfl_team": "NYJ",
      "slot": "BE",
-     "injury_status": "QUESTIONABLE",
+     "injury_status": "ACTIVE",
      "injured": false,
      "bye": 13,
-     "proj_total": 102.31,
+     "proj_total": 93.53,
      "pts_total": 31.0,
-     "proj_week": 7.87,
-     "pct_owned": 57.83
+     "proj_week": 7.19,
+     "pct_owned": 58.27
     }
    ]
   }
@@ -2424,10 +2424,10 @@
    "injury_status": [],
    "injured": false,
    "bye": 8,
-   "proj_total": 101.2,
-   "pts_total": 13.0,
-   "proj_week": 5.95,
-   "pct_owned": 88.0
+   "proj_total": 95.71,
+   "pts_total": 16.0,
+   "proj_week": 5.63,
+   "pct_owned": 87.06
   },
   {
    "id": 3055899,
@@ -2438,38 +2438,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 5,
-   "proj_total": 123.61,
-   "pts_total": 26.7,
+   "proj_total": 114.85,
+   "pts_total": 32.5,
    "proj_week": 8.83,
-   "pct_owned": 80.85
-  },
-  {
-   "id": 4362081,
-   "name": "Cameron Dicker",
-   "pos": "K",
-   "nfl_team": "LAC",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 7,
-   "proj_total": 120.97,
-   "pts_total": 9.5,
-   "proj_week": 8.64,
-   "pct_owned": 79.94
-  },
-  {
-   "id": 3116365,
-   "name": "Mark Andrews",
-   "pos": "TE",
-   "nfl_team": "BAL",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 13,
-   "proj_total": 112.31,
-   "pts_total": 16.5,
-   "proj_week": 8.02,
-   "pct_owned": 79.4
+   "pct_owned": 80.32
   },
   {
    "id": 4241985,
@@ -2480,10 +2452,24 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 10,
-   "proj_total": 148.69,
-   "pts_total": 10.5,
-   "proj_week": 10.62,
-   "pct_owned": 79.05
+   "proj_total": 133.45,
+   "pts_total": 16.5,
+   "proj_week": 10.27,
+   "pct_owned": 78.76
+  },
+  {
+   "id": 4362081,
+   "name": "Cameron Dicker",
+   "pos": "K",
+   "nfl_team": "LAC",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 7,
+   "proj_total": 112.83,
+   "pts_total": 23.0,
+   "proj_week": 8.68,
+   "pct_owned": 78.71
   },
   {
    "id": 4574716,
@@ -2494,24 +2480,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 126.24,
-   "pts_total": 20.9,
-   "proj_week": 9.02,
-   "pct_owned": 70.64
-  },
-  {
-   "id": -16021,
-   "name": "Eagles D/ST",
-   "pos": "D/ST",
-   "nfl_team": "PHI",
-   "slot": "",
-   "injury_status": [],
-   "injured": false,
-   "bye": 10,
-   "proj_total": 80.93,
-   "pts_total": 8.0,
-   "proj_week": 4.76,
-   "pct_owned": 66.78
+   "proj_total": 117.71,
+   "pts_total": 25.9,
+   "proj_week": 9.05,
+   "pct_owned": 70.12
   },
   {
    "id": 4569587,
@@ -2522,10 +2494,24 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 9,
-   "proj_total": 99.11,
-   "pts_total": 20.5,
-   "proj_week": 7.08,
-   "pct_owned": 64.95
+   "proj_total": 90.38,
+   "pts_total": 29.0,
+   "proj_week": 6.95,
+   "pct_owned": 64.78
+  },
+  {
+   "id": -16021,
+   "name": "Eagles D/ST",
+   "pos": "D/ST",
+   "nfl_team": "PHI",
+   "slot": "",
+   "injury_status": [],
+   "injured": false,
+   "bye": 10,
+   "proj_total": 77.19,
+   "pts_total": 10.0,
+   "proj_week": 4.54,
+   "pct_owned": 63.56
   },
   {
    "id": 4360078,
@@ -2536,10 +2522,10 @@
    "injury_status": "INJURY_RESERVE",
    "injured": true,
    "bye": 13,
-   "proj_total": 92.33,
+   "proj_total": 92.34,
    "pts_total": 9.5,
    "proj_week": 9.23,
-   "pct_owned": 63.94
+   "pct_owned": 63.26
   },
   {
    "id": 4373678,
@@ -2550,10 +2536,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 7,
-   "proj_total": 112.89,
-   "pts_total": 12.0,
-   "proj_week": 8.06,
-   "pct_owned": 62.45
+   "proj_total": 102.68,
+   "pts_total": 21.5,
+   "proj_week": 7.9,
+   "pct_owned": 61.93
   },
   {
    "id": 4361432,
@@ -2564,10 +2550,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 89.83,
-   "pts_total": 16.0,
-   "proj_week": 6.42,
-   "pct_owned": 59.34
+   "proj_total": 94.49,
+   "pts_total": 36.0,
+   "proj_week": 7.27,
+   "pct_owned": 58.47
   },
   {
    "id": 3117256,
@@ -2578,10 +2564,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 91.83,
-   "pts_total": 29.5,
-   "proj_week": 6.56,
-   "pct_owned": 58.93
+   "proj_total": 79.5,
+   "pts_total": 30.5,
+   "proj_week": 6.12,
+   "pct_owned": 57.73
   },
   {
    "id": 4036133,
@@ -2592,10 +2578,38 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 6,
-   "proj_total": 84.65,
-   "pts_total": 16.5,
-   "proj_week": 6.05,
-   "pct_owned": 55.26
+   "proj_total": 97.33,
+   "pts_total": 34.0,
+   "proj_week": 7.49,
+   "pct_owned": 54.73
+  },
+  {
+   "id": 4036378,
+   "name": "Jordan Love",
+   "pos": "QB",
+   "nfl_team": "GB",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 11,
+   "proj_total": 213.11,
+   "pts_total": 63.0,
+   "proj_week": 16.39,
+   "pct_owned": 51.18
+  },
+  {
+   "id": 4887558,
+   "name": "Emanuel Wilson",
+   "pos": "RB",
+   "nfl_team": "SEA",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 11,
+   "proj_total": 23.88,
+   "pts_total": 34.5,
+   "proj_week": 7.96,
+   "pct_owned": 49.89
   },
   {
    "id": 4429160,
@@ -2609,49 +2623,21 @@
    "proj_total": 0.0,
    "pts_total": 18.5,
    "proj_week": 0.0,
-   "pct_owned": 53.5
+   "pct_owned": 49.52
   },
   {
-   "id": 4036378,
-   "name": "Jordan Love",
-   "pos": "QB",
-   "nfl_team": "GB",
+   "id": 4360234,
+   "name": "Evan McPherson",
+   "pos": "K",
+   "nfl_team": "CIN",
    "slot": "",
    "injury_status": "ACTIVE",
    "injured": false,
-   "bye": 11,
-   "proj_total": 225.89,
-   "pts_total": 50.0,
-   "proj_week": 16.14,
-   "pct_owned": 51.91
-  },
-  {
-   "id": 4429023,
-   "name": "MarShawn Lloyd",
-   "pos": "RB",
-   "nfl_team": "GB",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 11,
-   "proj_total": 24.56,
-   "pts_total": 12.0,
-   "proj_week": 6.14,
-   "pct_owned": 51.14
-  },
-  {
-   "id": -16017,
-   "name": "Patriots D/ST",
-   "pos": "D/ST",
-   "nfl_team": "NE",
-   "slot": "",
-   "injury_status": [],
-   "injured": false,
-   "bye": 11,
-   "proj_total": 84.3,
-   "pts_total": 27.0,
-   "proj_week": 4.96,
-   "pct_owned": 51.02
+   "bye": 6,
+   "proj_total": 112.38,
+   "pts_total": 49.0,
+   "proj_week": 8.64,
+   "pct_owned": 49.19
   },
   {
    "id": 4678008,
@@ -2665,7 +2651,35 @@
    "proj_total": 0.0,
    "pts_total": 7.0,
    "proj_week": 0.0,
-   "pct_owned": 50.81
+   "pct_owned": 49.1
+  },
+  {
+   "id": 4429023,
+   "name": "MarShawn Lloyd",
+   "pos": "RB",
+   "nfl_team": "GB",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 11,
+   "proj_total": 45.64,
+   "pts_total": 18.5,
+   "proj_week": 3.51,
+   "pct_owned": 48.9
+  },
+  {
+   "id": -16017,
+   "name": "Patriots D/ST",
+   "pos": "D/ST",
+   "nfl_team": "NE",
+   "slot": "",
+   "injury_status": [],
+   "injured": false,
+   "bye": 11,
+   "proj_total": 83.58,
+   "pts_total": 32.0,
+   "proj_week": 4.92,
+   "pct_owned": 48.44
   },
   {
    "id": -16025,
@@ -2676,24 +2690,24 @@
    "injury_status": [],
    "injured": false,
    "bye": 8,
-   "proj_total": 84.04,
-   "pts_total": 18.0,
-   "proj_week": 4.94,
-   "pct_owned": 50.04
+   "proj_total": 77.04,
+   "pts_total": 23.0,
+   "proj_week": 4.53,
+   "pct_owned": 47.91
   },
   {
-   "id": 4360234,
-   "name": "Evan McPherson",
-   "pos": "K",
-   "nfl_team": "CIN",
+   "id": 3046439,
+   "name": "Hunter Henry",
+   "pos": "TE",
+   "nfl_team": "NE",
    "slot": "",
    "injury_status": "ACTIVE",
    "injured": false,
-   "bye": 6,
-   "proj_total": 120.86,
-   "pts_total": 44.1,
-   "proj_week": 8.63,
-   "pct_owned": 48.38
+   "bye": 11,
+   "proj_total": 78.02,
+   "pts_total": 18.0,
+   "proj_week": 6.0,
+   "pct_owned": 43.6
   },
   {
    "id": -16005,
@@ -2704,10 +2718,24 @@
    "injury_status": [],
    "injured": false,
    "bye": 11,
-   "proj_total": 72.76,
+   "proj_total": 64.76,
    "pts_total": 16.0,
-   "proj_week": 4.28,
+   "proj_week": 3.81,
    "pct_owned": 41.42
+  },
+  {
+   "id": 4685415,
+   "name": "Travis Hunter",
+   "pos": "WR",
+   "nfl_team": "JAX",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 7,
+   "proj_total": 0.74,
+   "pts_total": 0.5,
+   "proj_week": 0.06,
+   "pct_owned": 37.91
   },
   {
    "id": 4362249,
@@ -2721,21 +2749,21 @@
    "proj_total": 0.0,
    "pts_total": 4.0,
    "proj_week": 0.0,
-   "pct_owned": 40.2
+   "pct_owned": 37.71
   },
   {
-   "id": 4685415,
-   "name": "Travis Hunter",
+   "id": 4428718,
+   "name": "Tre Tucker",
    "pos": "WR",
-   "nfl_team": "JAX",
+   "nfl_team": "LV",
    "slot": "",
    "injury_status": "ACTIVE",
    "injured": false,
-   "bye": 7,
-   "proj_total": 8.44,
-   "pts_total": 0.5,
-   "proj_week": 0.6,
-   "pct_owned": 39.13
+   "bye": 13,
+   "proj_total": 91.88,
+   "pts_total": 34.5,
+   "proj_week": 7.07,
+   "pct_owned": 37.48
   },
   {
    "id": 4432577,
@@ -2746,10 +2774,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 213.27,
-   "pts_total": 42.0,
-   "proj_week": 15.23,
-   "pct_owned": 36.98
+   "proj_total": 194.25,
+   "pts_total": 64.0,
+   "proj_week": 14.94,
+   "pct_owned": 37.24
   },
   {
    "id": 3052587,
@@ -2760,10 +2788,24 @@
    "injury_status": "OUT",
    "injured": true,
    "bye": 10,
-   "proj_total": 152.85,
+   "proj_total": 141.77,
    "pts_total": 32.0,
-   "proj_week": 13.9,
-   "pct_owned": 36.84
+   "proj_week": 12.89,
+   "pct_owned": 35.37
+  },
+  {
+   "id": 2576925,
+   "name": "Darren Waller",
+   "pos": "TE",
+   "nfl_team": "CAR",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 5,
+   "proj_total": 63.13,
+   "pts_total": 31.5,
+   "proj_week": 4.86,
+   "pct_owned": 35.14
   },
   {
    "id": 4689114,
@@ -2777,7 +2819,7 @@
    "proj_total": 0.0,
    "pts_total": 26.0,
    "proj_week": 0.0,
-   "pct_owned": 36.45
+   "pct_owned": 34.91
   },
   {
    "id": 4696044,
@@ -2788,10 +2830,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 71.34,
-   "pts_total": 9.5,
-   "proj_week": 5.1,
-   "pct_owned": 35.93
+   "proj_total": 55.51,
+   "pts_total": 10.5,
+   "proj_week": 4.27,
+   "pct_owned": 34.67
   },
   {
    "id": 4032473,
@@ -2802,10 +2844,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 100.75,
-   "pts_total": 7.0,
-   "proj_week": 7.2,
-   "pct_owned": 35.36
+   "proj_total": 100.31,
+   "pts_total": 18.5,
+   "proj_week": 7.72,
+   "pct_owned": 34.44
   },
   {
    "id": 4880281,
@@ -2816,24 +2858,10 @@
    "injury_status": "INJURY_RESERVE",
    "injured": true,
    "bye": 8,
-   "proj_total": 86.82,
+   "proj_total": 86.78,
    "pts_total": 0.0,
    "proj_week": 8.68,
-   "pct_owned": 34.5
-  },
-  {
-   "id": 4887558,
-   "name": "Emanuel Wilson",
-   "pos": "RB",
-   "nfl_team": "SEA",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 11,
-   "proj_total": 25.63,
-   "pts_total": 10.0,
-   "proj_week": 8.54,
-   "pct_owned": 33.3
+   "pct_owned": 34.34
   },
   {
    "id": 17372,
@@ -2844,10 +2872,38 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 9,
-   "proj_total": 116.73,
+   "proj_total": 108.57,
    "pts_total": 27.1,
+   "proj_week": 8.35,
+   "pct_owned": 30.21
+  },
+  {
+   "id": -16009,
+   "name": "Packers D/ST",
+   "pos": "D/ST",
+   "nfl_team": "GB",
+   "slot": "",
+   "injury_status": [],
+   "injured": false,
+   "bye": 11,
+   "proj_total": 41.04,
+   "pts_total": 15.0,
+   "proj_week": 2.41,
+   "pct_owned": 30.05
+  },
+  {
+   "id": 17427,
+   "name": "Cairo Santos",
+   "pos": "K",
+   "nfl_team": "CHI",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 10,
+   "proj_total": 108.41,
+   "pts_total": 35.8,
    "proj_week": 8.34,
-   "pct_owned": 30.29
+   "pct_owned": 28.72
   },
   {
    "id": 4710714,
@@ -2861,21 +2917,21 @@
    "proj_total": 0.0,
    "pts_total": 0.0,
    "proj_week": 0.0,
-   "pct_owned": 29.45
+   "pct_owned": 28.42
   },
   {
-   "id": 17427,
-   "name": "Cairo Santos",
-   "pos": "K",
-   "nfl_team": "CHI",
+   "id": 4569603,
+   "name": "Malik Washington",
+   "pos": "WR",
+   "nfl_team": "MIA",
    "slot": "",
    "injury_status": "ACTIVE",
    "injured": false,
-   "bye": 10,
-   "proj_total": 116.92,
-   "pts_total": 25.7,
-   "proj_week": 8.35,
-   "pct_owned": 29.0
+   "bye": 6,
+   "proj_total": 127.56,
+   "pts_total": 26.5,
+   "proj_week": 9.81,
+   "pct_owned": 28.24
   },
   {
    "id": 4373626,
@@ -2886,24 +2942,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 14,
-   "proj_total": 92.35,
-   "pts_total": 12.0,
-   "proj_week": 6.6,
-   "pct_owned": 28.84
-  },
-  {
-   "id": 4597500,
-   "name": "Adonai Mitchell",
-   "pos": "WR",
-   "nfl_team": "NYJ",
-   "slot": "",
-   "injury_status": "OUT",
-   "injured": true,
-   "bye": 13,
-   "proj_total": 114.17,
-   "pts_total": 16.5,
-   "proj_week": 8.78,
-   "pct_owned": 28.78
+   "proj_total": 87.56,
+   "pts_total": 23.0,
+   "proj_week": 6.74,
+   "pct_owned": 28.2
   },
   {
    "id": 4366031,
@@ -2917,21 +2959,7 @@
    "proj_total": 0.0,
    "pts_total": 0.0,
    "proj_week": 0.0,
-   "pct_owned": 28.44
-  },
-  {
-   "id": 2576925,
-   "name": "Darren Waller",
-   "pos": "TE",
-   "nfl_team": "CAR",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 5,
-   "proj_total": 70.76,
-   "pts_total": 27.0,
-   "proj_week": 5.05,
-   "pct_owned": 28.28
+   "pct_owned": 28.18
   },
   {
    "id": 3150744,
@@ -2942,10 +2970,24 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 10,
-   "proj_total": 115.14,
-   "pts_total": 42.1,
-   "proj_week": 8.22,
-   "pct_owned": 28.06
+   "proj_total": 104.21,
+   "pts_total": 44.1,
+   "proj_week": 8.02,
+   "pct_owned": 28.0
+  },
+  {
+   "id": 4597500,
+   "name": "Adonai Mitchell",
+   "pos": "WR",
+   "nfl_team": "NYJ",
+   "slot": "",
+   "injury_status": "OUT",
+   "injured": true,
+   "bye": 13,
+   "proj_total": 113.51,
+   "pts_total": 16.5,
+   "proj_week": 9.46,
+   "pct_owned": 27.43
   },
   {
    "id": 4241474,
@@ -2956,24 +2998,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 77.93,
+   "proj_total": 72.06,
    "pts_total": 21.0,
-   "proj_week": 5.57,
-   "pct_owned": 27.09
-  },
-  {
-   "id": -16009,
-   "name": "Packers D/ST",
-   "pos": "D/ST",
-   "nfl_team": "GB",
-   "slot": "",
-   "injury_status": [],
-   "injured": false,
-   "bye": 11,
-   "proj_total": 47.35,
-   "pts_total": 5.0,
-   "proj_week": 2.79,
-   "pct_owned": 26.8
+   "proj_week": 5.54,
+   "pct_owned": 27.34
   },
   {
    "id": 3116406,
@@ -2987,7 +3015,21 @@
    "proj_total": 0,
    "pts_total": 0.0,
    "proj_week": 0,
-   "pct_owned": 26.65
+   "pct_owned": 27.02
+  },
+  {
+   "id": 4682745,
+   "name": "Jaylen Wright",
+   "pos": "RB",
+   "nfl_team": "MIA",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 6,
+   "proj_total": 83.97,
+   "pts_total": 1.0,
+   "proj_week": 6.46,
+   "pct_owned": 25.78
   },
   {
    "id": 4702555,
@@ -3001,7 +3043,7 @@
    "proj_total": 0.0,
    "pts_total": 11.5,
    "proj_week": 0.0,
-   "pct_owned": 25.59
+   "pct_owned": 24.41
   },
   {
    "id": 4360939,
@@ -3012,38 +3054,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 91.8,
-   "pts_total": 21.5,
-   "proj_week": 6.56,
-   "pct_owned": 25.18
-  },
-  {
-   "id": 4682745,
-   "name": "Jaylen Wright",
-   "pos": "RB",
-   "nfl_team": "MIA",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 6,
-   "proj_total": 108.72,
-   "pts_total": 1.0,
-   "proj_week": 7.77,
-   "pct_owned": 24.58
-  },
-  {
-   "id": 4569603,
-   "name": "Malik Washington",
-   "pos": "WR",
-   "nfl_team": "MIA",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 6,
-   "proj_total": 124.15,
-   "pts_total": 18.0,
-   "proj_week": 8.87,
-   "pct_owned": 24.39
+   "proj_total": 72.71,
+   "pts_total": 26.5,
+   "proj_week": 5.59,
+   "pct_owned": 24.2
   },
   {
    "id": 3917792,
@@ -3054,10 +3068,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 195.39,
-   "pts_total": 26.0,
-   "proj_week": 13.96,
-   "pct_owned": 23.31
+   "proj_total": 180.46,
+   "pts_total": 33.0,
+   "proj_week": 13.88,
+   "pct_owned": 23.13
   },
   {
    "id": 4361529,
@@ -3071,21 +3085,7 @@
    "proj_total": 0.0,
    "pts_total": 0.0,
    "proj_week": 0.0,
-   "pct_owned": 23.24
-  },
-  {
-   "id": 4570037,
-   "name": "Terrance Ferguson",
-   "pos": "TE",
-   "nfl_team": "LAR",
-   "slot": "",
-   "injury_status": "INJURY_RESERVE",
-   "injured": true,
-   "bye": 11,
-   "proj_total": 82.0,
-   "pts_total": 14.5,
-   "proj_week": 6.31,
-   "pct_owned": 22.43
+   "pct_owned": 22.54
   },
   {
    "id": 4686658,
@@ -3096,10 +3096,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 42.1,
-   "pts_total": 15.0,
-   "proj_week": 3.01,
-   "pct_owned": 21.66
+   "proj_total": 59.82,
+   "pts_total": 16.5,
+   "proj_week": 4.6,
+   "pct_owned": 21.27
   },
   {
    "id": -16027,
@@ -3110,10 +3110,10 @@
    "injury_status": [],
    "injured": false,
    "bye": 10,
-   "proj_total": 66.78,
-   "pts_total": 19.0,
-   "proj_week": 3.93,
-   "pct_owned": 21.04
+   "proj_total": 59.52,
+   "pts_total": 26.0,
+   "proj_week": 3.5,
+   "pct_owned": 20.33
   },
   {
    "id": 4832955,
@@ -3124,10 +3124,24 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 5,
-   "proj_total": 62.0,
-   "pts_total": 12.0,
-   "proj_week": 4.43,
-   "pct_owned": 20.84
+   "proj_total": 55.87,
+   "pts_total": 13.5,
+   "proj_week": 4.3,
+   "pct_owned": 20.31
+  },
+  {
+   "id": 4570037,
+   "name": "Terrance Ferguson",
+   "pos": "TE",
+   "nfl_team": "LAR",
+   "slot": "",
+   "injury_status": "INJURY_RESERVE",
+   "injured": true,
+   "bye": 11,
+   "proj_total": 48.06,
+   "pts_total": 14.5,
+   "proj_week": 4.81,
+   "pct_owned": 19.9
   },
   {
    "id": 4361411,
@@ -3138,10 +3152,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 9,
-   "proj_total": 89.72,
+   "proj_total": 82.42,
    "pts_total": 30.0,
-   "proj_week": 6.41,
-   "pct_owned": 19.86
+   "proj_week": 6.34,
+   "pct_owned": 19.81
   },
   {
    "id": 4869645,
@@ -3152,38 +3166,10 @@
    "injury_status": "OUT",
    "injured": true,
    "bye": 6,
-   "proj_total": 89.79,
+   "proj_total": 88.83,
    "pts_total": 13.5,
-   "proj_week": 6.91,
-   "pct_owned": 19.45
-  },
-  {
-   "id": -16024,
-   "name": "Chargers D/ST",
-   "pos": "D/ST",
-   "nfl_team": "LAC",
-   "slot": "",
-   "injury_status": [],
-   "injured": false,
-   "bye": 7,
-   "proj_total": 55.79,
-   "pts_total": 17.0,
-   "proj_week": 3.28,
-   "pct_owned": 18.84
-  },
-  {
-   "id": 4869461,
-   "name": "Trey Smack",
-   "pos": "K",
-   "nfl_team": "GB",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 11,
-   "proj_total": 120.19,
-   "pts_total": 20.8,
-   "proj_week": 8.58,
-   "pct_owned": 18.42
+   "proj_week": 7.4,
+   "pct_owned": 18.28
   },
   {
    "id": 4596334,
@@ -3194,10 +3180,94 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 7,
-   "proj_total": 64.52,
-   "pts_total": 16.0,
-   "proj_week": 4.96,
-   "pct_owned": 18.32
+   "proj_total": 86.7,
+   "pts_total": 23.5,
+   "proj_week": 6.67,
+   "pct_owned": 18.16
+  },
+  {
+   "id": -16024,
+   "name": "Chargers D/ST",
+   "pos": "D/ST",
+   "nfl_team": "LAC",
+   "slot": "",
+   "injury_status": [],
+   "injured": false,
+   "bye": 7,
+   "proj_total": 50.54,
+   "pts_total": 23.0,
+   "proj_week": 2.97,
+   "pct_owned": 18.14
+  },
+  {
+   "id": 4869461,
+   "name": "Trey Smack",
+   "pos": "K",
+   "nfl_team": "GB",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 11,
+   "proj_total": 112.05,
+   "pts_total": 28.6,
+   "proj_week": 8.62,
+   "pct_owned": 17.61
+  },
+  {
+   "id": 4599739,
+   "name": "Kendre Miller",
+   "pos": "RB",
+   "nfl_team": "NO",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 8,
+   "proj_total": 36.45,
+   "pts_total": 11.0,
+   "proj_week": 2.8,
+   "pct_owned": 17.41
+  },
+  {
+   "id": 14880,
+   "name": "Kirk Cousins",
+   "pos": "QB",
+   "nfl_team": "LV",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 13,
+   "proj_total": 68.82,
+   "pts_total": 77.0,
+   "proj_week": 13.76,
+   "pct_owned": 16.87
+  },
+  {
+   "id": 4430539,
+   "name": "Brenton Strange",
+   "pos": "TE",
+   "nfl_team": "JAX",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 7,
+   "proj_total": 101.71,
+   "pts_total": 28.0,
+   "proj_week": 7.82,
+   "pct_owned": 16.69
+  },
+  {
+   "id": 4429835,
+   "name": "George Holani",
+   "pos": "RB",
+   "nfl_team": "SEA",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 11,
+   "proj_total": 10.8,
+   "pts_total": 12.5,
+   "proj_week": 3.6,
+   "pct_owned": 16.43
   },
   {
    "id": 4430834,
@@ -3211,21 +3281,7 @@
    "proj_total": 0.0,
    "pts_total": 0.0,
    "proj_week": 0.0,
-   "pct_owned": 17.13
-  },
-  {
-   "id": 4430539,
-   "name": "Brenton Strange",
-   "pos": "TE",
-   "nfl_team": "JAX",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 7,
-   "proj_total": 90.16,
-   "pts_total": 15.5,
-   "proj_week": 6.44,
-   "pct_owned": 16.83
+   "pct_owned": 16.36
   },
   {
    "id": 4429013,
@@ -3233,41 +3289,13 @@
    "pos": "RB",
    "nfl_team": "PHI",
    "slot": "",
-   "injury_status": "ACTIVE",
+   "injury_status": "QUESTIONABLE",
    "injured": false,
    "bye": 10,
-   "proj_total": 38.48,
-   "pts_total": 8.5,
-   "proj_week": 2.75,
-   "pct_owned": 16.41
-  },
-  {
-   "id": 14880,
-   "name": "Kirk Cousins",
-   "pos": "QB",
-   "nfl_team": "LV",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 13,
-   "proj_total": 82.61,
-   "pts_total": 55.0,
-   "proj_week": 13.77,
-   "pct_owned": 16.35
-  },
-  {
-   "id": 4599739,
-   "name": "Kendre Miller",
-   "pos": "RB",
-   "nfl_team": "NO",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 8,
-   "proj_total": 44.22,
-   "pts_total": 11.0,
-   "proj_week": 3.16,
-   "pct_owned": 16.15
+   "proj_total": 36.54,
+   "pts_total": 13.5,
+   "proj_week": 2.81,
+   "pct_owned": 15.63
   },
   {
    "id": 4241463,
@@ -3278,38 +3306,24 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 53.65,
+   "proj_total": 45.36,
    "pts_total": 7.5,
-   "proj_week": 3.83,
-   "pct_owned": 15.17
+   "proj_week": 3.49,
+   "pct_owned": 15.13
   },
   {
-   "id": -16029,
-   "name": "Panthers D/ST",
-   "pos": "D/ST",
-   "nfl_team": "CAR",
+   "id": 2991662,
+   "name": "Mack Hollins",
+   "pos": "WR",
+   "nfl_team": "NE",
    "slot": "",
-   "injury_status": [],
+   "injury_status": "QUESTIONABLE",
    "injured": false,
-   "bye": 5,
-   "proj_total": 53.72,
-   "pts_total": 22.0,
-   "proj_week": 3.16,
-   "pct_owned": 15.15
-  },
-  {
-   "id": 4429086,
-   "name": "Michael Mayer",
-   "pos": "TE",
-   "nfl_team": "LV",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 13,
-   "proj_total": 66.77,
-   "pts_total": 20.0,
-   "proj_week": 4.77,
-   "pct_owned": 12.63
+   "bye": 11,
+   "proj_total": 58.81,
+   "pts_total": 26.5,
+   "proj_week": 4.52,
+   "pct_owned": 13.64
   },
   {
    "id": 2977187,
@@ -3320,10 +3334,24 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 77.0,
-   "pts_total": 19.0,
-   "proj_week": 5.5,
-   "pct_owned": 12.32
+   "proj_total": 64.91,
+   "pts_total": 20.5,
+   "proj_week": 4.99,
+   "pct_owned": 12.82
+  },
+  {
+   "id": 4429086,
+   "name": "Michael Mayer",
+   "pos": "TE",
+   "nfl_team": "LV",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 13,
+   "proj_total": 78.48,
+   "pts_total": 32.0,
+   "proj_week": 6.04,
+   "pct_owned": 12.04
   },
   {
    "id": 3925357,
@@ -3334,52 +3362,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 9,
-   "proj_total": 27.31,
-   "pts_total": 4.0,
-   "proj_week": 1.95,
-   "pct_owned": 12.29
-  },
-  {
-   "id": 2991662,
-   "name": "Mack Hollins",
-   "pos": "WR",
-   "nfl_team": "NE",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 11,
-   "proj_total": 69.29,
-   "pts_total": 20.0,
-   "proj_week": 4.95,
-   "pct_owned": 11.9
-  },
-  {
-   "id": -16020,
-   "name": "Jets D/ST",
-   "pos": "D/ST",
-   "nfl_team": "NYJ",
-   "slot": "",
-   "injury_status": [],
-   "injured": false,
-   "bye": 13,
-   "proj_total": 84.97,
-   "pts_total": 19.0,
-   "proj_week": 5.0,
-   "pct_owned": 11.41
-  },
-  {
-   "id": 4242512,
-   "name": "Malik Willis",
-   "pos": "QB",
-   "nfl_team": "MIA",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 6,
-   "proj_total": 197.24,
-   "pts_total": 35.0,
-   "proj_week": 14.09,
-   "pct_owned": 11.38
+   "proj_total": 30.75,
+   "pts_total": 5.5,
+   "proj_week": 2.37,
+   "pct_owned": 11.79
   },
   {
    "id": -16013,
@@ -3390,10 +3376,66 @@
    "injury_status": [],
    "injured": false,
    "bye": 13,
-   "proj_total": 70.57,
+   "proj_total": 65.0,
    "pts_total": 37.0,
-   "proj_week": 4.15,
-   "pct_owned": 11.03
+   "proj_week": 3.82,
+   "pct_owned": 11.72
+  },
+  {
+   "id": -16029,
+   "name": "Panthers D/ST",
+   "pos": "D/ST",
+   "nfl_team": "CAR",
+   "slot": "",
+   "injury_status": [],
+   "injured": false,
+   "bye": 5,
+   "proj_total": 49.35,
+   "pts_total": 18.0,
+   "proj_week": 2.9,
+   "pct_owned": 11.64
+  },
+  {
+   "id": -16020,
+   "name": "Jets D/ST",
+   "pos": "D/ST",
+   "nfl_team": "NYJ",
+   "slot": "",
+   "injury_status": [],
+   "injured": false,
+   "bye": 13,
+   "proj_total": 77.91,
+   "pts_total": 19.0,
+   "proj_week": 4.58,
+   "pct_owned": 11.46
+  },
+  {
+   "id": 4242512,
+   "name": "Malik Willis",
+   "pos": "QB",
+   "nfl_team": "MIA",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 6,
+   "proj_total": 177.18,
+   "pts_total": 37.0,
+   "proj_week": 13.63,
+   "pct_owned": 10.94
+  },
+  {
+   "id": 2578570,
+   "name": "Jacoby Brissett",
+   "pos": "QB",
+   "nfl_team": "ARI",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 14,
+   "proj_total": 201.3,
+   "pts_total": 55.0,
+   "proj_week": 15.48,
+   "pct_owned": 9.92
   },
   {
    "id": 3917232,
@@ -3404,10 +3446,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 7,
-   "proj_total": 118.0,
-   "pts_total": 24.1,
-   "proj_week": 8.43,
-   "pct_owned": 10.11
+   "proj_total": 109.47,
+   "pts_total": 32.6,
+   "proj_week": 8.42,
+   "pct_owned": 9.9
   },
   {
    "id": 5081397,
@@ -3421,7 +3463,7 @@
    "proj_total": 0.0,
    "pts_total": 0.0,
    "proj_week": 0.0,
-   "pct_owned": 9.92
+   "pct_owned": 9.89
   },
   {
    "id": 3116164,
@@ -3432,10 +3474,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 6,
-   "proj_total": 83.89,
-   "pts_total": 26.0,
-   "proj_week": 5.99,
-   "pct_owned": 9.54
+   "proj_total": 63.06,
+   "pts_total": 37.5,
+   "proj_week": 4.85,
+   "pct_owned": 9.61
   },
   {
    "id": 4429022,
@@ -3446,38 +3488,24 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 55.18,
-   "pts_total": 10.0,
+   "proj_total": 51.16,
+   "pts_total": 14.5,
    "proj_week": 3.94,
-   "pct_owned": 9.41
+   "pct_owned": 8.91
   },
   {
-   "id": 3149687,
-   "name": "Chris Brooks",
-   "pos": "RB",
-   "nfl_team": "GB",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 11,
-   "proj_total": 34.96,
-   "pts_total": 5.0,
-   "proj_week": 2.5,
-   "pct_owned": 9.29
-  },
-  {
-   "id": 2578570,
-   "name": "Jacoby Brissett",
+   "id": 15864,
+   "name": "Geno Smith",
    "pos": "QB",
-   "nfl_team": "ARI",
+   "nfl_team": "NYJ",
    "slot": "",
    "injury_status": "ACTIVE",
    "injured": false,
-   "bye": 14,
-   "proj_total": 215.06,
-   "pts_total": 46.0,
-   "proj_week": 15.36,
-   "pct_owned": 8.99
+   "bye": 13,
+   "proj_total": 193.41,
+   "pts_total": 55.0,
+   "proj_week": 14.88,
+   "pct_owned": 8.89
   },
   {
    "id": 4870847,
@@ -3491,49 +3519,7 @@
    "proj_total": 0.0,
    "pts_total": 1.5,
    "proj_week": 0.0,
-   "pct_owned": 8.97
-  },
-  {
-   "id": 15864,
-   "name": "Geno Smith",
-   "pos": "QB",
-   "nfl_team": "NYJ",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 13,
-   "proj_total": 212.98,
-   "pts_total": 47.0,
-   "proj_week": 15.21,
-   "pct_owned": 8.91
-  },
-  {
-   "id": 3122840,
-   "name": "Deshaun Watson",
-   "pos": "QB",
-   "nfl_team": "CLE",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 11,
-   "proj_total": 214.92,
-   "pts_total": 63.0,
-   "proj_week": 15.35,
-   "pct_owned": 8.57
-  },
-  {
-   "id": -16019,
-   "name": "Giants D/ST",
-   "pos": "D/ST",
-   "nfl_team": "NYG",
-   "slot": "",
-   "injury_status": [],
-   "injured": false,
-   "bye": 8,
-   "proj_total": 47.75,
-   "pts_total": 12.0,
-   "proj_week": 2.81,
-   "pct_owned": 8.32
+   "pct_owned": 8.74
   },
   {
    "id": 4576297,
@@ -3544,10 +3530,38 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 93.34,
-   "pts_total": 17.0,
-   "proj_week": 6.67,
-   "pct_owned": 8.06
+   "proj_total": 87.05,
+   "pts_total": 18.5,
+   "proj_week": 6.7,
+   "pct_owned": 8.59
+  },
+  {
+   "id": 3122840,
+   "name": "Deshaun Watson",
+   "pos": "QB",
+   "nfl_team": "CLE",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 11,
+   "proj_total": 207.45,
+   "pts_total": 63.0,
+   "proj_week": 15.96,
+   "pct_owned": 8.56
+  },
+  {
+   "id": 3149687,
+   "name": "Chris Brooks",
+   "pos": "RB",
+   "nfl_team": "GB",
+   "slot": "",
+   "injury_status": "QUESTIONABLE",
+   "injured": false,
+   "bye": 11,
+   "proj_total": 28.65,
+   "pts_total": 8.5,
+   "proj_week": 2.2,
+   "pct_owned": 8.55
   },
   {
    "id": 4695404,
@@ -3561,35 +3575,7 @@
    "proj_total": 7.03,
    "pts_total": 0.0,
    "proj_week": 7.03,
-   "pct_owned": 7.9
-  },
-  {
-   "id": 4682648,
-   "name": "Malachi Fields",
-   "pos": "WR",
-   "nfl_team": "NYG",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 8,
-   "proj_total": 84.89,
-   "pts_total": 9.0,
-   "proj_week": 6.06,
-   "pct_owned": 7.89
-  },
-  {
-   "id": 3116389,
-   "name": "Samaje Perine",
-   "pos": "RB",
-   "nfl_team": "CIN",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 6,
-   "proj_total": 62.03,
-   "pts_total": 8.5,
-   "proj_week": 4.43,
-   "pct_owned": 7.83
+   "pct_owned": 8.42
   },
   {
    "id": 4241457,
@@ -3600,24 +3586,66 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 72.69,
-   "pts_total": 5.0,
-   "proj_week": 5.19,
-   "pct_owned": 7.79
+   "proj_total": 59.27,
+   "pts_total": 8.0,
+   "proj_week": 4.56,
+   "pct_owned": 8.0
   },
   {
-   "id": 4595342,
-   "name": "Oronde Gadsden",
-   "pos": "TE",
-   "nfl_team": "LAC",
+   "id": 3886598,
+   "name": "Jauan Jennings",
+   "pos": "WR",
+   "nfl_team": "MIN",
    "slot": "",
    "injury_status": "ACTIVE",
    "injured": false,
-   "bye": 7,
-   "proj_total": 71.27,
-   "pts_total": 12.0,
-   "proj_week": 5.09,
-   "pct_owned": 7.45
+   "bye": 6,
+   "proj_total": 23.65,
+   "pts_total": 1.0,
+   "proj_week": 1.82,
+   "pct_owned": 7.92
+  },
+  {
+   "id": -16019,
+   "name": "Giants D/ST",
+   "pos": "D/ST",
+   "nfl_team": "NYG",
+   "slot": "",
+   "injury_status": [],
+   "injured": false,
+   "bye": 8,
+   "proj_total": 45.75,
+   "pts_total": 28.0,
+   "proj_week": 2.69,
+   "pct_owned": 7.82
+  },
+  {
+   "id": 3116389,
+   "name": "Samaje Perine",
+   "pos": "RB",
+   "nfl_team": "CIN",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 6,
+   "proj_total": 64.13,
+   "pts_total": 8.5,
+   "proj_week": 4.93,
+   "pct_owned": 7.61
+  },
+  {
+   "id": 4682648,
+   "name": "Malachi Fields",
+   "pos": "WR",
+   "nfl_team": "NYG",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 8,
+   "proj_total": 77.76,
+   "pts_total": 21.0,
+   "proj_week": 5.98,
+   "pct_owned": 7.52
   },
   {
    "id": 3050478,
@@ -3628,10 +3656,38 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 10,
-   "proj_total": 110.91,
-   "pts_total": 16.3,
-   "proj_week": 7.92,
-   "pct_owned": 7.16
+   "proj_total": 103.13,
+   "pts_total": 26.8,
+   "proj_week": 7.93,
+   "pct_owned": 7.0
+  },
+  {
+   "id": 4595342,
+   "name": "Oronde Gadsden",
+   "pos": "TE",
+   "nfl_team": "LAC",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 7,
+   "proj_total": 65.35,
+   "pts_total": 17.5,
+   "proj_week": 5.03,
+   "pct_owned": 6.74
+  },
+  {
+   "id": 5081432,
+   "name": "Antonio Williams",
+   "pos": "WR",
+   "nfl_team": "WSH",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 7,
+   "proj_total": 61.29,
+   "pts_total": 23.0,
+   "proj_week": 4.71,
+   "pct_owned": 6.7
   },
   {
    "id": 4382466,
@@ -3639,13 +3695,13 @@
    "pos": "WR",
    "nfl_team": "LV",
    "slot": "",
-   "injury_status": "ACTIVE",
+   "injury_status": "QUESTIONABLE",
    "injured": false,
    "bye": 13,
-   "proj_total": 74.87,
+   "proj_total": 57.27,
    "pts_total": 5.5,
-   "proj_week": 5.35,
-   "pct_owned": 6.9
+   "proj_week": 4.41,
+   "pct_owned": 6.68
   },
   {
    "id": 8439,
@@ -3656,9 +3712,9 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 9,
-   "proj_total": 196.42,
+   "proj_total": 182.87,
    "pts_total": 58.0,
-   "proj_week": 14.03,
+   "proj_week": 14.07,
    "pct_owned": 6.48
   },
   {
@@ -3670,9 +3726,9 @@
    "injury_status": [],
    "injured": false,
    "bye": 14,
-   "proj_total": 53.67,
+   "proj_total": 49.94,
    "pts_total": 1.0,
-   "proj_week": 3.16,
+   "proj_week": 2.94,
    "pct_owned": 6.42
   },
   {
@@ -3684,10 +3740,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 50.77,
-   "pts_total": 4.5,
-   "proj_week": 3.63,
-   "pct_owned": 6.3
+   "proj_total": 16.44,
+   "pts_total": 6.5,
+   "proj_week": 5.48,
+   "pct_owned": 6.19
   },
   {
    "id": 4688380,
@@ -3698,24 +3754,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 9,
-   "proj_total": 189.17,
-   "pts_total": 39.0,
-   "proj_week": 13.51,
-   "pct_owned": 6.27
-  },
-  {
-   "id": 5081432,
-   "name": "Antonio Williams",
-   "pos": "WR",
-   "nfl_team": "WSH",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 7,
-   "proj_total": 61.02,
-   "pts_total": 19.5,
-   "proj_week": 4.36,
-   "pct_owned": 6.11
+   "proj_total": 174.63,
+   "pts_total": 53.0,
+   "proj_week": 13.43,
+   "pct_owned": 6.1
   },
   {
    "id": 4360423,
@@ -3726,94 +3768,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 198.95,
+   "proj_total": 183.73,
    "pts_total": 14.0,
-   "proj_week": 14.21,
-   "pct_owned": 5.64
-  },
-  {
-   "id": 4429501,
-   "name": "Ray Davis",
-   "pos": "RB",
-   "nfl_team": "BUF",
-   "slot": "",
-   "injury_status": "QUESTIONABLE",
-   "injured": false,
-   "bye": 7,
-   "proj_total": 17.26,
-   "pts_total": 0.0,
-   "proj_week": 1.33,
-   "pct_owned": 5.43
-  },
-  {
-   "id": 3886598,
-   "name": "Jauan Jennings",
-   "pos": "WR",
-   "nfl_team": "MIN",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 6,
-   "proj_total": 62.35,
-   "pts_total": 0.5,
-   "proj_week": 4.45,
-   "pct_owned": 5.26
-  },
-  {
-   "id": 4040761,
-   "name": "Devin Singletary",
-   "pos": "RB",
-   "nfl_team": "NYG",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 8,
-   "proj_total": 0.0,
-   "pts_total": 11.0,
-   "proj_week": 0.0,
-   "pct_owned": 5.11
-  },
-  {
-   "id": 4686612,
-   "name": "Tre' Harris",
-   "pos": "WR",
-   "nfl_team": "LAC",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 7,
-   "proj_total": 90.55,
-   "pts_total": 19.0,
-   "proj_week": 6.47,
-   "pct_owned": 5.1
-  },
-  {
-   "id": 4686422,
-   "name": "Xavier Hutchinson",
-   "pos": "WR",
-   "nfl_team": "HOU",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 8,
-   "proj_total": 82.52,
-   "pts_total": 15.5,
-   "proj_week": 5.89,
-   "pct_owned": 5.09
-  },
-  {
-   "id": 4586312,
-   "name": "Jaylin Noel",
-   "pos": "WR",
-   "nfl_team": "HOU",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 8,
-   "proj_total": 38.24,
-   "pts_total": 12.5,
-   "proj_week": 2.73,
-   "pct_owned": 4.95
+   "proj_week": 14.13,
+   "pct_owned": 6.01
   },
   {
    "id": 4869961,
@@ -3824,52 +3782,52 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 6,
-   "proj_total": 80.63,
+   "proj_total": 78.29,
    "pts_total": 10.5,
-   "proj_week": 5.76,
-   "pct_owned": 4.72
+   "proj_week": 6.02,
+   "pct_owned": 5.39
   },
   {
-   "id": 2985659,
-   "name": "Wil Lutz",
-   "pos": "K",
-   "nfl_team": "DEN",
+   "id": 4429501,
+   "name": "Ray Davis",
+   "pos": "RB",
+   "nfl_team": "BUF",
    "slot": "",
    "injury_status": "ACTIVE",
    "injured": false,
-   "bye": 10,
-   "proj_total": 105.63,
-   "pts_total": 12.6,
-   "proj_week": 7.54,
-   "pct_owned": 4.61
+   "bye": 7,
+   "proj_total": 14.0,
+   "pts_total": 0.5,
+   "proj_week": 1.08,
+   "pct_owned": 5.22
   },
   {
-   "id": 4837248,
-   "name": "Fernando Mendoza",
-   "pos": "QB",
-   "nfl_team": "LV",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 13,
-   "proj_total": 124.21,
-   "pts_total": 0.0,
-   "proj_week": 15.53,
-   "pct_owned": 4.48
-  },
-  {
-   "id": 3051909,
-   "name": "Daniel Carlson",
-   "pos": "K",
-   "nfl_team": "NO",
+   "id": 4586312,
+   "name": "Jaylin Noel",
+   "pos": "WR",
+   "nfl_team": "HOU",
    "slot": "",
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 8,
-   "proj_total": 121.39,
-   "pts_total": 18.9,
-   "proj_week": 8.67,
-   "pct_owned": 4.48
+   "proj_total": 56.18,
+   "pts_total": 22.0,
+   "proj_week": 4.32,
+   "pct_owned": 4.77
+  },
+  {
+   "id": 4686422,
+   "name": "Xavier Hutchinson",
+   "pos": "WR",
+   "nfl_team": "HOU",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 8,
+   "proj_total": 83.03,
+   "pts_total": 21.0,
+   "proj_week": 6.39,
+   "pct_owned": 4.75
   },
   {
    "id": 5083754,
@@ -3880,10 +3838,66 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 14,
-   "proj_total": 112.39,
-   "pts_total": 10.5,
-   "proj_week": 8.03,
-   "pct_owned": 4.44
+   "proj_total": 91.13,
+   "pts_total": 15.5,
+   "proj_week": 7.01,
+   "pct_owned": 4.71
+  },
+  {
+   "id": 4040761,
+   "name": "Devin Singletary",
+   "pos": "RB",
+   "nfl_team": "NYG",
+   "slot": "",
+   "injury_status": "OUT",
+   "injured": true,
+   "bye": 8,
+   "proj_total": 0.0,
+   "pts_total": 11.0,
+   "proj_week": 0.0,
+   "pct_owned": 4.61
+  },
+  {
+   "id": 3051909,
+   "name": "Daniel Carlson",
+   "pos": "K",
+   "nfl_team": "NO",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 8,
+   "proj_total": 112.47,
+   "pts_total": 18.9,
+   "proj_week": 8.65,
+   "pct_owned": 4.5
+  },
+  {
+   "id": 2985659,
+   "name": "Wil Lutz",
+   "pos": "K",
+   "nfl_team": "DEN",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 10,
+   "proj_total": 98.44,
+   "pts_total": 19.8,
+   "proj_week": 7.57,
+   "pct_owned": 4.49
+  },
+  {
+   "id": 4837248,
+   "name": "Fernando Mendoza",
+   "pos": "QB",
+   "nfl_team": "LV",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 13,
+   "proj_total": 124.28,
+   "pts_total": 0.0,
+   "proj_week": 15.53,
+   "pct_owned": 4.37
   },
   {
    "id": 4635008,
@@ -3894,122 +3908,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 7,
-   "proj_total": 71.67,
-   "pts_total": 13.0,
-   "proj_week": 5.12,
-   "pct_owned": 4.33
-  },
-  {
-   "id": 4429835,
-   "name": "George Holani",
-   "pos": "RB",
-   "nfl_team": "SEA",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 11,
-   "proj_total": 16.7,
-   "pts_total": 11.0,
-   "proj_week": 8.35,
-   "pct_owned": 4.24
-  },
-  {
-   "id": -16018,
-   "name": "Saints D/ST",
-   "pos": "D/ST",
-   "nfl_team": "NO",
-   "slot": "",
-   "injury_status": [],
-   "injured": false,
-   "bye": 8,
-   "proj_total": 64.11,
-   "pts_total": 11.0,
-   "proj_week": 3.77,
-   "pct_owned": 4.08
-  },
-  {
-   "id": 3051876,
-   "name": "Evan Engram",
-   "pos": "TE",
-   "nfl_team": "DEN",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 10,
-   "proj_total": 55.77,
-   "pts_total": 13.5,
-   "proj_week": 3.98,
-   "pct_owned": 3.82
-  },
-  {
-   "id": 4360635,
-   "name": "Chig Okonkwo",
-   "pos": "TE",
-   "nfl_team": "WSH",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 7,
-   "proj_total": 68.3,
-   "pts_total": 2.0,
-   "proj_week": 4.88,
-   "pct_owned": 3.7
-  },
-  {
-   "id": 10621,
-   "name": "Nick Folk",
-   "pos": "K",
-   "nfl_team": "ATL",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 11,
-   "proj_total": 116.47,
-   "pts_total": 19.0,
-   "proj_week": 8.32,
-   "pct_owned": 3.7
-  },
-  {
-   "id": 4431492,
-   "name": "Roman Wilson",
-   "pos": "WR",
-   "nfl_team": "PIT",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 9,
-   "proj_total": 91.26,
-   "pts_total": 36.0,
-   "proj_week": 6.52,
-   "pct_owned": 3.63
-  },
-  {
-   "id": 15168,
-   "name": "Case Keenum",
-   "pos": "QB",
-   "nfl_team": "CHI",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 10,
-   "proj_total": 0.0,
-   "pts_total": 23.0,
-   "proj_week": 0.0,
-   "pct_owned": 3.6
-  },
-  {
-   "id": 4686728,
-   "name": "Gunnar Helm",
-   "pos": "TE",
-   "nfl_team": "TEN",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 9,
-   "proj_total": 78.05,
-   "pts_total": 8.0,
-   "proj_week": 5.58,
-   "pct_owned": 3.5
+   "proj_total": 84.55,
+   "pts_total": 33.0,
+   "proj_week": 6.5,
+   "pct_owned": 4.16
   },
   {
    "id": -16028,
@@ -4020,10 +3922,94 @@
    "injury_status": [],
    "injured": false,
    "bye": 7,
-   "proj_total": 68.82,
-   "pts_total": 10.0,
-   "proj_week": 4.05,
-   "pct_owned": 3.41
+   "proj_total": 58.96,
+   "pts_total": 17.0,
+   "proj_week": 3.47,
+   "pct_owned": 4.12
+  },
+  {
+   "id": -16018,
+   "name": "Saints D/ST",
+   "pos": "D/ST",
+   "nfl_team": "NO",
+   "slot": "",
+   "injury_status": [],
+   "injured": false,
+   "bye": 8,
+   "proj_total": 62.58,
+   "pts_total": 11.0,
+   "proj_week": 3.68,
+   "pct_owned": 3.92
+  },
+  {
+   "id": 4360635,
+   "name": "Chig Okonkwo",
+   "pos": "TE",
+   "nfl_team": "WSH",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 7,
+   "proj_total": 57.82,
+   "pts_total": 3.0,
+   "proj_week": 4.45,
+   "pct_owned": 3.68
+  },
+  {
+   "id": 10621,
+   "name": "Nick Folk",
+   "pos": "K",
+   "nfl_team": "ATL",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 11,
+   "proj_total": 108.15,
+   "pts_total": 19.0,
+   "proj_week": 8.32,
+   "pct_owned": 3.67
+  },
+  {
+   "id": 3051876,
+   "name": "Evan Engram",
+   "pos": "TE",
+   "nfl_team": "DEN",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 10,
+   "proj_total": 52.02,
+   "pts_total": 14.0,
+   "proj_week": 4.0,
+   "pct_owned": 3.66
+  },
+  {
+   "id": 4431492,
+   "name": "Roman Wilson",
+   "pos": "WR",
+   "nfl_team": "PIT",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 9,
+   "proj_total": 84.35,
+   "pts_total": 36.0,
+   "proj_week": 6.49,
+   "pct_owned": 3.63
+  },
+  {
+   "id": 4686728,
+   "name": "Gunnar Helm",
+   "pos": "TE",
+   "nfl_team": "TEN",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 9,
+   "proj_total": 61.53,
+   "pts_total": 10.5,
+   "proj_week": 4.73,
+   "pct_owned": 3.42
   },
   {
    "id": 4685261,
@@ -4034,52 +4020,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 9,
-   "proj_total": 17.13,
+   "proj_total": 15.34,
    "pts_total": 8.5,
-   "proj_week": 1.22,
+   "proj_week": 1.18,
    "pct_owned": 3.33
-  },
-  {
-   "id": 4723820,
-   "name": "Omar Cooper Jr.",
-   "pos": "WR",
-   "nfl_team": "NYJ",
-   "slot": "",
-   "injury_status": "INJURY_RESERVE",
-   "injured": true,
-   "bye": 13,
-   "proj_total": 0.0,
-   "pts_total": 3.5,
-   "proj_week": 0.0,
-   "pct_owned": 3.13
-  },
-  {
-   "id": 4243331,
-   "name": "Cade Otton",
-   "pos": "TE",
-   "nfl_team": "TB",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 10,
-   "proj_total": 87.27,
-   "pts_total": 15.5,
-   "proj_week": 6.23,
-   "pct_owned": 3.13
-  },
-  {
-   "id": 4600981,
-   "name": "Pat Bryant",
-   "pos": "WR",
-   "nfl_team": "DEN",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 10,
-   "proj_total": 58.02,
-   "pts_total": 20.0,
-   "proj_week": 4.14,
-   "pct_owned": 3.08
   },
   {
    "id": 3045147,
@@ -4093,21 +4037,35 @@
    "proj_total": 0.0,
    "pts_total": 0.0,
    "proj_week": 0.0,
-   "pct_owned": 3.0
+   "pct_owned": 3.15
   },
   {
-   "id": 2969939,
-   "name": "Jameis Winston",
-   "pos": "QB",
-   "nfl_team": "NYG",
+   "id": 4243331,
+   "name": "Cade Otton",
+   "pos": "TE",
+   "nfl_team": "TB",
    "slot": "",
    "injury_status": "ACTIVE",
    "injured": false,
-   "bye": 8,
-   "proj_total": 52.14,
-   "pts_total": 7.0,
-   "proj_week": 13.04,
-   "pct_owned": 2.8
+   "bye": 10,
+   "proj_total": 81.8,
+   "pts_total": 20.5,
+   "proj_week": 6.29,
+   "pct_owned": 3.14
+  },
+  {
+   "id": 4723820,
+   "name": "Omar Cooper Jr.",
+   "pos": "WR",
+   "nfl_team": "NYJ",
+   "slot": "",
+   "injury_status": "INJURY_RESERVE",
+   "injured": true,
+   "bye": 13,
+   "proj_total": 0.0,
+   "pts_total": 3.5,
+   "proj_week": 0.0,
+   "pct_owned": 3.06
   },
   {
    "id": 4568263,
@@ -4118,10 +4076,94 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 5,
-   "proj_total": 110.68,
-   "pts_total": 34.2,
-   "proj_week": 7.91,
-   "pct_owned": 2.62
+   "proj_total": 101.99,
+   "pts_total": 42.2,
+   "proj_week": 7.85,
+   "pct_owned": 3.05
+  },
+  {
+   "id": 4600981,
+   "name": "Pat Bryant",
+   "pos": "WR",
+   "nfl_team": "DEN",
+   "slot": "",
+   "injury_status": "QUESTIONABLE",
+   "injured": false,
+   "bye": 10,
+   "proj_total": 54.35,
+   "pts_total": 25.5,
+   "proj_week": 4.18,
+   "pct_owned": 3.04
+  },
+  {
+   "id": 3116385,
+   "name": "Joe Mixon",
+   "pos": "RB",
+   "nfl_team": "None",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": null,
+   "proj_total": 0,
+   "pts_total": 0.0,
+   "proj_week": 0,
+   "pct_owned": 2.88
+  },
+  {
+   "id": -16022,
+   "name": "Cardinals D/ST",
+   "pos": "D/ST",
+   "nfl_team": "ARI",
+   "slot": "",
+   "injury_status": [],
+   "injured": false,
+   "bye": 14,
+   "proj_total": 33.34,
+   "pts_total": 18.0,
+   "proj_week": 1.96,
+   "pct_owned": 2.81
+  },
+  {
+   "id": 2969939,
+   "name": "Jameis Winston",
+   "pos": "QB",
+   "nfl_team": "NYG",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 8,
+   "proj_total": 37.4,
+   "pts_total": 25.0,
+   "proj_week": 6.23,
+   "pct_owned": 2.8
+  },
+  {
+   "id": 15168,
+   "name": "Case Keenum",
+   "pos": "QB",
+   "nfl_team": "CHI",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 10,
+   "proj_total": 0.0,
+   "pts_total": 23.0,
+   "proj_week": 0.0,
+   "pct_owned": 2.64
+  },
+  {
+   "id": 4427095,
+   "name": "DeMario Douglas",
+   "pos": "WR",
+   "nfl_team": "NE",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 11,
+   "proj_total": 60.98,
+   "pts_total": 10.5,
+   "proj_week": 4.69,
+   "pct_owned": 2.52
   },
   {
    "id": 3123076,
@@ -4135,35 +4177,21 @@
    "proj_total": 0.0,
    "pts_total": 8.0,
    "proj_week": 0.0,
-   "pct_owned": 2.55
+   "pct_owned": 2.44
   },
   {
-   "id": 4427095,
-   "name": "DeMario Douglas",
-   "pos": "WR",
-   "nfl_team": "NE",
+   "id": 2573401,
+   "name": "Tyler Higbee",
+   "pos": "TE",
+   "nfl_team": "LAR",
    "slot": "",
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 72.51,
-   "pts_total": 8.5,
-   "proj_week": 5.18,
-   "pct_owned": 2.48
-  },
-  {
-   "id": 4870612,
-   "name": "Zachariah Branch",
-   "pos": "WR",
-   "nfl_team": "ATL",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 11,
-   "proj_total": 30.05,
-   "pts_total": 2.5,
-   "proj_week": 2.15,
-   "pct_owned": 2.42
+   "proj_total": 20.12,
+   "pts_total": 24.5,
+   "proj_week": 1.55,
+   "pct_owned": 2.43
   },
   {
    "id": 4877706,
@@ -4177,21 +4205,21 @@
    "proj_total": 0.0,
    "pts_total": 0.0,
    "proj_week": 0.0,
-   "pct_owned": 2.42
+   "pct_owned": 2.36
   },
   {
-   "id": 4360516,
-   "name": "Tyrone Tracy Jr.",
-   "pos": "RB",
-   "nfl_team": "NYG",
+   "id": 4870612,
+   "name": "Zachariah Branch",
+   "pos": "WR",
+   "nfl_team": "ATL",
    "slot": "",
    "injury_status": "ACTIVE",
    "injured": false,
-   "bye": 8,
-   "proj_total": 8.08,
-   "pts_total": -1.0,
-   "proj_week": 0.62,
-   "pct_owned": 2.33
+   "bye": 11,
+   "proj_total": 27.07,
+   "pts_total": 2.5,
+   "proj_week": 2.08,
+   "pct_owned": 2.34
   },
   {
    "id": 4428209,
@@ -4205,20 +4233,34 @@
    "proj_total": 0.0,
    "pts_total": 0.0,
    "proj_week": 0.0,
-   "pct_owned": 2.29
+   "pct_owned": 2.25
   },
   {
-   "id": -16022,
-   "name": "Cardinals D/ST",
-   "pos": "D/ST",
-   "nfl_team": "ARI",
+   "id": 3068267,
+   "name": "Austin Ekeler",
+   "pos": "RB",
+   "nfl_team": "WSH",
    "slot": "",
-   "injury_status": [],
+   "injury_status": "ACTIVE",
    "injured": false,
-   "bye": 14,
-   "proj_total": 37.42,
-   "pts_total": 9.0,
-   "proj_week": 2.2,
+   "bye": 7,
+   "proj_total": 39.59,
+   "pts_total": 3.5,
+   "proj_week": 3.05,
+   "pct_owned": 2.25
+  },
+  {
+   "id": 4360516,
+   "name": "Tyrone Tracy Jr.",
+   "pos": "RB",
+   "nfl_team": "NYG",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 8,
+   "proj_total": 17.34,
+   "pts_total": -1.0,
+   "proj_week": 1.33,
    "pct_owned": 2.24
   },
   {
@@ -4230,24 +4272,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 10,
-   "proj_total": 2.74,
-   "pts_total": 0.5,
-   "proj_week": 2.74,
-   "pct_owned": 2.15
-  },
-  {
-   "id": 3068267,
-   "name": "Austin Ekeler",
-   "pos": "RB",
-   "nfl_team": "WSH",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 7,
-   "proj_total": 45.74,
-   "pts_total": 0.0,
-   "proj_week": 3.27,
-   "pct_owned": 1.99
+   "proj_total": 2.76,
+   "pts_total": 2.5,
+   "proj_week": 2.76,
+   "pct_owned": 2.09
   },
   {
    "id": 5123663,
@@ -4258,24 +4286,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 6,
-   "proj_total": 74.46,
-   "pts_total": 10.5,
-   "proj_week": 5.32,
-   "pct_owned": 1.95
-  },
-  {
-   "id": -16010,
-   "name": "Titans D/ST",
-   "pos": "D/ST",
-   "nfl_team": "TEN",
-   "slot": "",
-   "injury_status": [],
-   "injured": false,
-   "bye": 9,
-   "proj_total": 57.45,
-   "pts_total": 14.0,
-   "proj_week": 3.38,
-   "pct_owned": 1.93
+   "proj_total": 68.93,
+   "pts_total": 21.5,
+   "proj_week": 5.3,
+   "pct_owned": 2.0
   },
   {
    "id": 4249087,
@@ -4286,10 +4300,24 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 13,
-   "proj_total": 112.23,
-   "pts_total": 31.9,
-   "proj_week": 8.02,
-   "pct_owned": 1.89
+   "proj_total": 104.1,
+   "pts_total": 50.1,
+   "proj_week": 8.01,
+   "pct_owned": 1.96
+  },
+  {
+   "id": 4360763,
+   "name": "Brycen Tremayne",
+   "pos": "WR",
+   "nfl_team": "CAR",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 5,
+   "proj_total": 61.52,
+   "pts_total": 14.0,
+   "proj_week": 4.73,
+   "pct_owned": 1.94
   },
   {
    "id": 4569923,
@@ -4300,38 +4328,10 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 11,
-   "proj_total": 99.73,
-   "pts_total": 19.0,
-   "proj_week": 7.12,
-   "pct_owned": 1.88
-  },
-  {
-   "id": 4242433,
-   "name": "Joshua Palmer",
-   "pos": "WR",
-   "nfl_team": "BUF",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 7,
-   "proj_total": 29.86,
-   "pts_total": 20.0,
-   "proj_week": 2.13,
-   "pct_owned": 1.8
-  },
-  {
-   "id": 4367209,
-   "name": "Greg Dulcich",
-   "pos": "TE",
-   "nfl_team": "MIA",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 6,
-   "proj_total": 74.18,
-   "pts_total": 11.5,
-   "proj_week": 5.3,
-   "pct_owned": 1.71
+   "proj_total": 92.65,
+   "pts_total": 22.0,
+   "proj_week": 7.13,
+   "pct_owned": 1.83
   },
   {
    "id": 5081508,
@@ -4342,24 +4342,52 @@
    "injury_status": "OUT",
    "injured": true,
    "bye": 9,
-   "proj_total": 0.17,
+   "proj_total": 0.0,
    "pts_total": 0.0,
-   "proj_week": 0.01,
+   "proj_week": 0.0,
    "pct_owned": 1.71
   },
   {
-   "id": 4036131,
-   "name": "Noah Fant",
-   "pos": "TE",
-   "nfl_team": "NO",
+   "id": -16010,
+   "name": "Titans D/ST",
+   "pos": "D/ST",
+   "nfl_team": "TEN",
    "slot": "",
-   "injury_status": "QUESTIONABLE",
+   "injury_status": [],
    "injured": false,
-   "bye": 8,
-   "proj_total": 44.9,
-   "pts_total": 28.0,
-   "proj_week": 3.45,
+   "bye": 9,
+   "proj_total": 55.81,
+   "pts_total": 15.0,
+   "proj_week": 3.28,
+   "pct_owned": 1.7
+  },
+  {
+   "id": 4367209,
+   "name": "Greg Dulcich",
+   "pos": "TE",
+   "nfl_team": "MIA",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 6,
+   "proj_total": 59.45,
+   "pts_total": 11.5,
+   "proj_week": 4.57,
    "pct_owned": 1.68
+  },
+  {
+   "id": 4242433,
+   "name": "Joshua Palmer",
+   "pos": "WR",
+   "nfl_team": "BUF",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 7,
+   "proj_total": 26.93,
+   "pts_total": 20.5,
+   "proj_week": 2.07,
+   "pct_owned": 1.67
   },
   {
    "id": 3915411,
@@ -4370,24 +4398,94 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 7,
-   "proj_total": 52.43,
-   "pts_total": 7.0,
-   "proj_week": 3.74,
-   "pct_owned": 1.63
+   "proj_total": 49.53,
+   "pts_total": 8.0,
+   "proj_week": 3.81,
+   "pct_owned": 1.66
   },
   {
-   "id": 2573401,
-   "name": "Tyler Higbee",
+   "id": 4036131,
+   "name": "Noah Fant",
    "pos": "TE",
-   "nfl_team": "LAR",
+   "nfl_team": "NO",
+   "slot": "",
+   "injury_status": "QUESTIONABLE",
+   "injured": false,
+   "bye": 8,
+   "proj_total": 41.1,
+   "pts_total": 28.0,
+   "proj_week": 3.43,
+   "pct_owned": 1.6
+  },
+  {
+   "id": 4596472,
+   "name": "Jalon Daniels",
+   "pos": "QB",
+   "nfl_team": "TB",
    "slot": "",
    "injury_status": "ACTIVE",
    "injured": false,
+   "bye": 10,
+   "proj_total": 23.93,
+   "pts_total": 8.0,
+   "proj_week": 5.98,
+   "pct_owned": 1.56
+  },
+  {
+   "id": -16011,
+   "name": "Colts D/ST",
+   "pos": "D/ST",
+   "nfl_team": "IND",
+   "slot": "",
+   "injury_status": [],
+   "injured": false,
+   "bye": 13,
+   "proj_total": 54.39,
+   "pts_total": 3.0,
+   "proj_week": 3.2,
+   "pct_owned": 1.52
+  },
+  {
+   "id": -16001,
+   "name": "Falcons D/ST",
+   "pos": "D/ST",
+   "nfl_team": "ATL",
+   "slot": "",
+   "injury_status": [],
+   "injured": false,
    "bye": 11,
-   "proj_total": 21.98,
-   "pts_total": 16.0,
-   "proj_week": 1.57,
-   "pct_owned": 1.63
+   "proj_total": 70.79,
+   "pts_total": 14.0,
+   "proj_week": 4.16,
+   "pct_owned": 1.49
+  },
+  {
+   "id": 4433970,
+   "name": "J.J. McCarthy",
+   "pos": "QB",
+   "nfl_team": "NYG",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 8,
+   "proj_total": 133.03,
+   "pts_total": 0.0,
+   "proj_week": 13.3,
+   "pct_owned": 1.48
+  },
+  {
+   "id": 3676833,
+   "name": "KaVontae Turpin",
+   "pos": "WR",
+   "nfl_team": "DAL",
+   "slot": "",
+   "injury_status": "ACTIVE",
+   "injured": false,
+   "bye": 14,
+   "proj_total": 20.31,
+   "pts_total": 7.0,
+   "proj_week": 1.56,
+   "pct_owned": 1.47
   },
   {
    "id": 16733,
@@ -4401,21 +4499,7 @@
    "proj_total": 0.0,
    "pts_total": 0.0,
    "proj_week": 0.0,
-   "pct_owned": 1.59
-  },
-  {
-   "id": 2573079,
-   "name": "Carson Wentz",
-   "pos": "QB",
-   "nfl_team": "MIN",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 6,
-   "proj_total": 0.0,
-   "pts_total": 24.0,
-   "proj_week": 0.0,
-   "pct_owned": 1.57
+   "pct_owned": 1.47
   },
   {
    "id": 4430968,
@@ -4426,97 +4510,43 @@
    "injury_status": "ACTIVE",
    "injured": false,
    "bye": 7,
-   "proj_total": 27.48,
-   "pts_total": 1.5,
-   "proj_week": 1.96,
-   "pct_owned": 1.5
-  },
-  {
-   "id": 3045523,
-   "name": "Kendrick Bourne",
-   "pos": "WR",
-   "nfl_team": "ARI",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 14,
-   "proj_total": 58.15,
-   "pts_total": 16.0,
-   "proj_week": 4.15,
-   "pct_owned": 1.5
-  },
-  {
-   "id": -16011,
-   "name": "Colts D/ST",
-   "pos": "D/ST",
-   "nfl_team": "IND",
-   "slot": "",
-   "injury_status": [],
-   "injured": false,
-   "bye": 13,
-   "proj_total": 61.83,
-   "pts_total": -4.0,
-   "proj_week": 3.64,
-   "pct_owned": 1.48
-  },
-  {
-   "id": 3676833,
-   "name": "KaVontae Turpin",
-   "pos": "WR",
-   "nfl_team": "DAL",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 14,
-   "proj_total": 27.89,
-   "pts_total": 7.0,
-   "proj_week": 1.99,
-   "pct_owned": 1.46
-  },
-  {
-   "id": 4433970,
-   "name": "J.J. McCarthy",
-   "pos": "QB",
-   "nfl_team": "NYG",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 8,
-   "proj_total": 133.18,
-   "pts_total": 0.0,
-   "proj_week": 13.32,
-   "pct_owned": 1.46
-  },
-  {
-   "id": 3043116,
-   "name": "Demarcus Robinson",
-   "pos": "WR",
-   "nfl_team": "SF",
-   "slot": "",
-   "injury_status": "INJURY_RESERVE",
-   "injured": true,
-   "bye": 8,
-   "proj_total": 0.0,
-   "pts_total": 16.5,
-   "proj_week": 0.0,
+   "proj_total": 49.31,
+   "pts_total": 11.5,
+   "proj_week": 3.79,
    "pct_owned": 1.45
-  },
-  {
-   "id": 4040655,
-   "name": "Darnell Mooney",
-   "pos": "WR",
-   "nfl_team": "NYG",
-   "slot": "",
-   "injury_status": "ACTIVE",
-   "injured": false,
-   "bye": 8,
-   "proj_total": 66.76,
-   "pts_total": 11.0,
-   "proj_week": 4.77,
-   "pct_owned": 1.44
   }
  ],
  "recent_activity": [
+  {
+   "date": 1791090659819,
+   "actions": [
+    {
+     "team": "I'm Going Half On a Sack",
+     "action": "FA ADDED",
+     "player": "Tre' Harris"
+    },
+    {
+     "team": "I'm Going Half On a Sack",
+     "action": "DROPPED",
+     "player": "Tre Tucker"
+    }
+   ]
+  },
+  {
+   "date": 1791010956839,
+   "actions": [
+    {
+     "team": "Single Malters",
+     "action": "DROPPED",
+     "player": "Hunter Henry"
+    },
+    {
+     "team": "Single Malters",
+     "action": "WAIVER ADDED",
+     "player": "Mark Andrews"
+    }
+   ]
+  },
   {
    "date": 1790898797726,
    "actions": [
@@ -4849,36 +4879,6 @@
      "team": "Baby Seal Clubbers",
      "action": "WAIVER ADDED",
      "player": "Jameson Williams"
-    }
-   ]
-  },
-  {
-   "date": 1790271078129,
-   "actions": [
-    {
-     "team": "I'm Going Half On a Sack",
-     "action": "DROPPED",
-     "player": "49ers D/ST"
-    },
-    {
-     "team": "I'm Going Half On a Sack",
-     "action": "FA ADDED",
-     "player": "Panthers D/ST"
-    }
-   ]
-  },
-  {
-   "date": 1790235214877,
-   "actions": [
-    {
-     "team": "i'd have a dart",
-     "action": "DROPPED",
-     "player": "Jaxson Dart"
-    },
-    {
-     "team": "i'd have a dart",
-     "action": "WAIVER ADDED",
-     "player": "Jordan Love"
     }
    ]
   }
