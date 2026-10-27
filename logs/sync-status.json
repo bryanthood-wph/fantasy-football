@@ -1,6 +1,6 @@
 {
  "ok": false,
- "at": "2026-10-26T22:31:18+00:00",
+ "at": "2026-10-27T22:31:24+00:00",
  "summary": "11 decisions, 4 sessions, 8 replies, 0 scores, 0 weekly, 0 playbook_adds",
  "errors": [
   "decisions 2026-W04-004: line 40: bad phase 'waiver-recheck'",
